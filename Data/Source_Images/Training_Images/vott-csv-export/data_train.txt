@@ -1,0 +1,111 @@
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/0ok5hw.jpg 706,334,807,394,0 182,305,255,352,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/16wah3.jpg 607,458,755,551,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/1y4o6d.jpg 589,239,704,311,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/1u9q4z.jpg 1209,37,1312,105,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/0iuunu.jpg 456,453,597,533,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2sqg9j.jpg 85,332,214,427,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2q8wet.jpg 1493,929,1632,1034,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ztp5pn.jpg 999,382,1122,458,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/337tf4.jpg 974,256,1105,337,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/468s3q.jpg 430,319,549,406,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/yuqrm8.jpg 928,133,1005,183,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/zthhhz.jpg 409,114,522,182,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/zg9ygd.jpg 667,304,773,362,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/xyn5n2.jpg 1141,284,1260,357,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/xic1el.jpg 1077,188,1204,268,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/wvcu4t.jpg 578,450,676,513,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/x1up8p.jpg 977,54,1084,129,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/xarcw2.jpg 405,219,531,299,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/xdhq8a.jpg 1078,101,1220,177,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/x5mut4.jpg 292,291,389,353,0 1079,154,1147,192,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/w08ovi.jpg 704,157,827,223,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/vkpxdr.jpg 167,900,330,1010,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/w31ws0.jpg 596,346,706,415,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/vipuh1.jpg 700,13,833,89,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/vmzv7b.jpg 354,93,469,169,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/uqxrf1.jpg 667,247,813,305,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/u8z9zk.jpg 667,229,758,285,0 135,0,203,33,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/u0pubs.jpg 312,391,474,497,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/twwoyh.jpg 1134,440,1265,522,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/tl5o8q.jpg 51,97,140,146,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ssealv.jpg 1308,580,1436,656,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/t4b38h.jpg 1271,476,1394,542,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/syrdo6.jpg 658,485,767,553,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/tdxmlp.jpg 800,402,918,481,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/t16wm3.jpg 667,436,741,482,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/sf9wi0.jpg 585,377,701,450,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/s1fcgt.jpg 266,311,351,368,0 964,58,1018,94,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scb14r.jpg 641,418,705,453,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/rwclxp.jpg 1467,953,1602,1019,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scas9i.jpg 354,236,444,288,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/rrgvv7.jpg 933,426,1033,491,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/qufu8j.jpg 608,540,731,612,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/qeqkkt.jpg 25,464,164,550,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/pps0kh.jpg 645,489,780,570,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/p5ixva.jpg 604,98,681,144,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/onpu6a.jpg 453,634,539,694,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/o7at7q.jpg 503,373,623,434,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/osgyeh.jpg 16,432,142,507,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/o2irsh.jpg 1003,178,1076,222,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/o95wpk.jpg 967,276,1097,355,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ncjz03.jpg 314,351,384,395,0 574,141,612,172,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/m7nvh8.jpg 1062,327,1202,413,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ntj8e8.jpg 1707,889,1855,987,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/mpbli4.jpg 262,468,385,540,0 744,273,846,332,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/nrywyu.jpg 984,298,1118,386,0 1411,54,1482,107,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/kzds8q.jpg 1199,930,1343,1003,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/lnpbfb.jpg 1105,2,1180,52,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/m73w3f.jpg 184,274,273,329,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/lalc3n.jpg 788,207,863,257,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/lbzjjo.jpg 936,452,1083,528,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/js8xt6.jpg 1033,606,1197,699,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/krva4r.jpg 266,227,381,298,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/jn7x1q.jpg 994,541,1161,639,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/klj0gg.jpg 663,270,765,327,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/kbzbpv.jpg 1066,248,1205,326,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/j25zrr.jpg 897,448,1024,509,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/hhd9ey.jpg 454,171,509,207,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/izzts9.jpg 25,143,120,201,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/h1ijdo.jpg 604,412,686,461,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gjpe1m.jpg 297,322,375,369,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/f3i3fb.jpg 1440,625,1560,693,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/f2u1nn.jpg 174,249,300,319,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gbfux6.jpg 210,492,340,569,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/fbq92k.jpg 1125,794,1253,874,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gfmc0k.jpg 979,423,1131,504,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e4t0rh.jpg 1025,593,1155,662,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/d6k97y.jpg 676,193,819,270,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eixx3i.jpg 314,625,418,682,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/chbeyn.jpg 171,438,262,499,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dd7vgz.jpg 1642,605,1789,686,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/bimqlm.jpg 767,37,871,93,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/98wvae.jpg 1284,154,1397,228,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/99ejno.jpg 1116,569,1264,652,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/941li9.jpg 365,643,502,717,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/8p7i0k.jpg 641,316,770,398,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7z2pxp.jpg 1249,490,1388,575,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7wz1kb.jpg 1715,941,1857,1018,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7qkxlx.jpg 243,439,358,510,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/8fme6w.jpg 558,91,657,157,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/8atx7d.jpg 1218,857,1391,973,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/699i1d.jpg 435,374,539,433,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7kozy7.jpg 534,81,614,129,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/7qbafv.jpg 727,11,796,56,0 958,61,1013,93,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/73ow7i.jpg 580,443,715,525,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/6heml7.jpg 1157,218,1281,296,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/4ri7c4.jpg 594,565,736,649,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/4dh9gq.jpg 546,450,680,540,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/4k6jqd.jpg 1098,478,1228,560,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/57pbsj.jpg 1318,325,1454,400,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/615n46.jpg 1956,251,2120,348,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20200108_155431.jpg 302,1813,864,2117,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20191106_150454.jpg 13,449,4032,2588,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20191128_183920.jpg 642,898,3526,2440,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20191013_142900.jpg 827,1536,1076,1691,0 3725,1367,3838,1484,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20200108_155445.jpg 1334,1670,1533,1810,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20190929_154018.jpg 3317,1551,3799,1806,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20190922_174424.jpg 2650,1256,2993,1509,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20190909_190626.jpg 1299,1982,1604,2159,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20190915_174021.jpg 54,2458,231,2558,0 1192,2465,1334,2543,0 2152,2562,2304,2647,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20191001_175816.jpg 1892,1506,2086,1618,0
+/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_20190824_151407.jpg 1622,1120,2347,1543,0

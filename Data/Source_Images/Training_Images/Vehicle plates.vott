@@ -5,17 +5,17 @@
         "name": "Connection",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWQyNGRkNTQ1YWU1MjVkYTA0M2MyNjM1Yjc1MmU2OTgxZDQ3MTRjOWNjOGI0ZjQ3N2ZmODZjYjIyMjQ1MDIxZmE1MWQxZjk3ZTg1YWY0OTk4YzU3MGI4MzdiOTBlYWMzZDk3NDIyYmIwNjZlMTIyOGRkMmJhMDcyY2ExMWIxOGIiLCJpdiI6IjZiZTU2OGY3Mzk1NTFkYjFjYTRmNWIyYjMzYjdmYTAyNGRmZjFkOTc2OTYxOWNiZCJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTc0Zjk4ODZhY2E4YjllNjY1MTMwYmFlZTVmZGY5ZWEwYWVkNGY2MzE0N2ViMzkwY2JiZTM2NzBmMTI4MDczNTlmMzhmMThlNzg5NTFhNWY0ZjFiMmJmMTk3MWZhODZkZThkMjk5ZDU0MDdkNjk3ODg3YWM4MTQzYjQyZjZhODA5MTFlNGQzZjRiMjQwZjliZmY4NzcxNmEyYWIxZTQ0ZTAyMzBjMjk2YTI2MDZhMzgwMWZlNTc1YmZjZTBiN2MxODhkZjdhYzk0MTQxZWUyZmNmNDBiYzIxOTlhZDM2OGIiLCJpdiI6ImMwYWRiMTk4MzE3YTc2ZWJjOGQ5YmUxZTY0NzI0OTc4NDg5NTJlM2ZhYTgxNWQ4MyJ9"
         },
-        "id": "VqOp5AgcH"
+        "id": "Vz5XQDzew"
     },
     "targetConnection": {
-        "name": "target",
+        "name": "Target",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzQ4NzFjYmY4ZGI5MDBiYmMxMTQ0NjE3YzJhYzBkZTUzMmVkOTZiZjA3OGUwYjkxZDE1MDI4ODIyOTQxMDkxYWU0Y2I1MTI0YWFiM2M0YjJjYTg5ZWIxMWEwMDE0OWEwNTQ4NGFmMzRmMWNkYTVkMzU4MmI0NGM2YTM4NWRkOTQiLCJpdiI6ImNjZTFmMzBiNWU1N2JiMTEzZDkzZDA2NTRkMjk1ZmU5YzczNzUxMjU1Nzc3ZTc0MiJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGM3OTAyMTRmMTk0Y2ZiNWM4NzEzNmM3ZjcxNTdiYTk4NGUwZjg2NDlkZDY1MDViOWFiMTA0MzRlZmZlNTRiZjBiYjg5MjI3NDRiNzQ3YWZkMjJlNjMwNTI5MmU4MDg5ZGIwODNhMzIxYmEyNmE2MzFhNjAxMWNjOTU2ZDJkOGNkMTkyN2E5NWYzNDhkOTM1NWRmZGU1YjczZGM2ZWQ2ZjU1ZjA2ZTZlOGNiNDBiNzIxMzMwNjczYmRkZWY4MjMyMGZiN2M1ZWE1NGMzMDc2N2U2ZjQxMTc2NTBjMmI0Y2UiLCJpdiI6IjNlMjdkZjljYWFiYWVlNzAzMTEzMGM5ZDU3YmQxYWZjYjliMjQ4ZGFiZjIyYTBiYiJ9"
         },
-        "id": "Nygu2KuXw"
+        "id": "Gklhjy3FT"
     },
     "videoSettings": {
         "frameExtractionRate": 15
@@ -35,11 +35,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTM2ZDc0MmEwMTUyZDEwZTcyNmUzMGM0N2I5NDAzOWEzYzgyYzk2MDE4MWE2MTMzMDc5YmZjNDM0YWRhYmFjZDZmMDFlODkyNzM5OTU3ODllOWY3OWY4M2Y1ODdiYTUwIiwiaXYiOiI5ZmUyZTc4M2FhY2ViN2FmOTY1MjdjYjRjOTFjNTQzYmQ0YmMxMjRjYmM5MmQ1ZDQifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjM5NjFjNzg1ODFiNzczMzE5NWQ3Yjc0NjEyYWE2OGFhZjMyYjgzOTBhNTc1MTU2YjhkMDdlM2Y4Y2U2MjNmYjU5MTM0ZWZiYTJmMjUwMWJjNDA4NGU0ZjhhYzZkMjNlIiwiaXYiOiJjNzcxOTI0MmFmMzExMjYwYTBlYTAxMGQ5NjkxMGM5Mzk2YmNhZWM5Y2MyMzA4ZTAifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "b6281e3464e0e5d91b508953fbd5bd7d",
+    "lastVisitedAssetId": "89a1fdb2826a55fe2fc103102efa8293",
     "assets": {
         "5d441035b11e454164df1591bbe4f7d2": {
             "format": "jpg",
@@ -1384,6 +1384,678 @@
                 "height": 3024
             },
             "state": 1,
+            "type": 1
+        },
+        "b230ff8791c339ce53f3fa5d3842a336": {
+            "format": "jpg",
+            "id": "b230ff8791c339ce53f3fa5d3842a336",
+            "name": "Wyoming.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Wyoming.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5a1b25f653a0f41c16361b709efa5c5": {
+            "format": "jpg",
+            "id": "c5a1b25f653a0f41c16361b709efa5c5",
+            "name": "Wisconsin.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Wisconsin.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0037b76bc838469fe4547ecb87adf868": {
+            "format": "jpg",
+            "id": "0037b76bc838469fe4547ecb87adf868",
+            "name": "WestVirginia.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/WestVirginia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68ed2009f2d5b8c465caf4901dba56df": {
+            "format": "jpg",
+            "id": "68ed2009f2d5b8c465caf4901dba56df",
+            "name": "Washington.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Washington.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "686995267e162547fff306e2e464cc7e": {
+            "format": "jpg",
+            "id": "686995267e162547fff306e2e464cc7e",
+            "name": "Virginia.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Virginia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1e9628d122e6877effd11d7156e24d7": {
+            "format": "jpg",
+            "id": "d1e9628d122e6877effd11d7156e24d7",
+            "name": "Vermont.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Vermont.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "854bbeaaaa731c5ffc24539cbcbc0bb3": {
+            "format": "jpg",
+            "id": "854bbeaaaa731c5ffc24539cbcbc0bb3",
+            "name": "Utah.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Utah.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4093113cd2d49b31d29ae0b4205bdccc": {
+            "format": "jpg",
+            "id": "4093113cd2d49b31d29ae0b4205bdccc",
+            "name": "Texas.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Texas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23a5e93e0561b5a724fe55fbc00a15d4": {
+            "format": "jpg",
+            "id": "23a5e93e0561b5a724fe55fbc00a15d4",
+            "name": "Tennessee.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Tennessee.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "772ad2b4adb5d99cf75cf3971c7c0841": {
+            "format": "jpg",
+            "id": "772ad2b4adb5d99cf75cf3971c7c0841",
+            "name": "SouthDakota.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/SouthDakota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb269796dc833de6436e640419baf61e": {
+            "format": "jpg",
+            "id": "bb269796dc833de6436e640419baf61e",
+            "name": "SouthCarolina.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/SouthCarolina.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8bc8c738b5b8c9423184be40b3254234": {
+            "format": "jpg",
+            "id": "8bc8c738b5b8c9423184be40b3254234",
+            "name": "RhodeIsland.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/RhodeIsland.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c183811821f045fc01b030f47a17b0d": {
+            "format": "jpg",
+            "id": "5c183811821f045fc01b030f47a17b0d",
+            "name": "PuertoRico.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/PuertoRico.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bbd9ba685339cfd26a5318f3f565143": {
+            "format": "jpg",
+            "id": "5bbd9ba685339cfd26a5318f3f565143",
+            "name": "Pennsylvania.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Pennsylvania.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40da67c9932f2daace1659b3f0a199d8": {
+            "format": "jpg",
+            "id": "40da67c9932f2daace1659b3f0a199d8",
+            "name": "Oregon.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Oregon.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8c15d512b2a6a5544e26a1973eaadf3": {
+            "format": "jpg",
+            "id": "b8c15d512b2a6a5544e26a1973eaadf3",
+            "name": "Oklahoma.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Oklahoma.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2565eb60c29b8c141b17f9066a1a2d5": {
+            "format": "jpg",
+            "id": "c2565eb60c29b8c141b17f9066a1a2d5",
+            "name": "Ohio.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Ohio.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb2c578f8cff760457e607a37969888f": {
+            "format": "jpg",
+            "id": "eb2c578f8cff760457e607a37969888f",
+            "name": "NorthDakota.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NorthDakota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b914efb59510a8110917a62556d14b3d": {
+            "format": "jpg",
+            "id": "b914efb59510a8110917a62556d14b3d",
+            "name": "NorthCarolina.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NorthCarolina.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa0dfecd386db873c30bfcb09b5ec746": {
+            "format": "jpg",
+            "id": "aa0dfecd386db873c30bfcb09b5ec746",
+            "name": "NewYork.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NewYork.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0423bef34bccdeedf812b4bd86fd4603": {
+            "format": "jpg",
+            "id": "0423bef34bccdeedf812b4bd86fd4603",
+            "name": "NewMexico.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NewMexico.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e213272fba429f301e193f65c0af6b71": {
+            "format": "jpg",
+            "id": "e213272fba429f301e193f65c0af6b71",
+            "name": "NewJersey.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NewJersey.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "808c8d458a61b464d4c7b9de9aef60fb": {
+            "format": "jpg",
+            "id": "808c8d458a61b464d4c7b9de9aef60fb",
+            "name": "NewHampshire.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/NewHampshire.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fa36c1a78552e7bc77e9d701f76b7e5": {
+            "format": "jpg",
+            "id": "9fa36c1a78552e7bc77e9d701f76b7e5",
+            "name": "Nevada.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Nevada.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e59df039b07953862d538045892b8d0": {
+            "format": "jpg",
+            "id": "7e59df039b07953862d538045892b8d0",
+            "name": "Nebraska.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Nebraska.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e889b85196ab899d6c6c3e8a7d341f73": {
+            "format": "jpg",
+            "id": "e889b85196ab899d6c6c3e8a7d341f73",
+            "name": "Montana.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Montana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10110a21a5d609a98cd4d3a5baea66ce": {
+            "format": "jpg",
+            "id": "10110a21a5d609a98cd4d3a5baea66ce",
+            "name": "Missouri.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Missouri.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4842f344b323ce795db10b345385fec5": {
+            "format": "jpg",
+            "id": "4842f344b323ce795db10b345385fec5",
+            "name": "Mississippi.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Mississippi.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df8d693df9295094e03b562714103abd": {
+            "format": "jpg",
+            "id": "df8d693df9295094e03b562714103abd",
+            "name": "Minnesota.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Minnesota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7caab2186d6a7a7fc762679f1f9f6ae": {
+            "format": "jpg",
+            "id": "c7caab2186d6a7a7fc762679f1f9f6ae",
+            "name": "Michigan.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Michigan.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "553198458bfc8ac59c4d95b8ead65cc3": {
+            "format": "jpg",
+            "id": "553198458bfc8ac59c4d95b8ead65cc3",
+            "name": "Massachusetts.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Massachusetts.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d84e92da7dcdaf55c0f05156a35305f0": {
+            "format": "jpg",
+            "id": "d84e92da7dcdaf55c0f05156a35305f0",
+            "name": "Maryland.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Maryland.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38a45294300242e22f299727a68a2566": {
+            "format": "jpg",
+            "id": "38a45294300242e22f299727a68a2566",
+            "name": "Maine.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Maine.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "112e28dd34d60016b79bd38c008fc124": {
+            "format": "jpg",
+            "id": "112e28dd34d60016b79bd38c008fc124",
+            "name": "Louisiana.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Louisiana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c296aa0f88bdf7e1935ba6a385e9761": {
+            "format": "jpg",
+            "id": "5c296aa0f88bdf7e1935ba6a385e9761",
+            "name": "Kentucky.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Kentucky.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69e74c42f1636ec110d07e1d494c4693": {
+            "format": "jpg",
+            "id": "69e74c42f1636ec110d07e1d494c4693",
+            "name": "Kansas.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Kansas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9f3d25d43d4f38461b2eb1b0f904029": {
+            "format": "jpg",
+            "id": "e9f3d25d43d4f38461b2eb1b0f904029",
+            "name": "Iowa.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Iowa.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f736eec853c7ee728a782befe34586a": {
+            "format": "jpg",
+            "id": "9f736eec853c7ee728a782befe34586a",
+            "name": "Indiana.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Indiana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbf85301d22a86e9d8262f97c7faff77": {
+            "format": "jpg",
+            "id": "dbf85301d22a86e9d8262f97c7faff77",
+            "name": "Illinois.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Illinois.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f69f5a791aabc5e838a49de47720609": {
+            "format": "jpg",
+            "id": "4f69f5a791aabc5e838a49de47720609",
+            "name": "Idaho.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Idaho.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b6a4520e1b86fc0a5a8e4d8c09b05ba": {
+            "format": "jpg",
+            "id": "2b6a4520e1b86fc0a5a8e4d8c09b05ba",
+            "name": "IMG_20190804_143303.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190804_143303.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3bb2b9d0a75db8d63a7048fc88ab064": {
+            "format": "jpg",
+            "id": "d3bb2b9d0a75db8d63a7048fc88ab064",
+            "name": "IMG_20190731_102149.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190731_102149.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da0bdf987f54fd9ff5795d604623ce93": {
+            "format": "jpg",
+            "id": "da0bdf987f54fd9ff5795d604623ce93",
+            "name": "Hawaii.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Hawaii.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf408a77dc5002b64348da3ffa2a3197": {
+            "format": "jpg",
+            "id": "cf408a77dc5002b64348da3ffa2a3197",
+            "name": "Guam.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Guam.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "327cf1bac5e597834fd249e531bf1008": {
+            "format": "jpg",
+            "id": "327cf1bac5e597834fd249e531bf1008",
+            "name": "Georgia.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Georgia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "745eb69d6d5b1fae23f2ecee918f7ae6": {
+            "format": "jpg",
+            "id": "745eb69d6d5b1fae23f2ecee918f7ae6",
+            "name": "Florida.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Florida.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32748be18f63c98c91d658bc99604daa": {
+            "format": "jpg",
+            "id": "32748be18f63c98c91d658bc99604daa",
+            "name": "DistrictOfColumbia.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/DistrictOfColumbia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75ab26b4714a764e13158856fa7577f2": {
+            "format": "jpg",
+            "id": "75ab26b4714a764e13158856fa7577f2",
+            "name": "Delaware.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Delaware.jpg",
+            "size": {
+                "width": 400,
+                "height": 211
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d2dcaa71d4c1aed9b6a321000635863": {
+            "format": "jpg",
+            "id": "8d2dcaa71d4c1aed9b6a321000635863",
+            "name": "Connecticut.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Connecticut.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a617f16f146c05f1cab168cf206a0b35": {
+            "format": "jpg",
+            "id": "a617f16f146c05f1cab168cf206a0b35",
+            "name": "Colorado.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Colorado.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9236d69b45b7cd5efcdb294435e1c87e": {
+            "format": "jpg",
+            "id": "9236d69b45b7cd5efcdb294435e1c87e",
+            "name": "California.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/California.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "12e920ea030133f8e9371d139a987f4e": {
+            "format": "jpg",
+            "id": "12e920ea030133f8e9371d139a987f4e",
+            "name": "Arkansas.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Arkansas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a8a3cd9416c5612fa1539a5d9ad59b5": {
+            "format": "jpg",
+            "id": "0a8a3cd9416c5612fa1539a5d9ad59b5",
+            "name": "Arizona.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Arizona.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9078d3f54a8789a1a10317c298c568f5": {
+            "format": "jpg",
+            "id": "9078d3f54a8789a1a10317c298c568f5",
+            "name": "Alaska.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Alaska.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d6f48b2eded098e1426f00566cce78f": {
+            "format": "jpg",
+            "id": "9d6f48b2eded098e1426f00566cce78f",
+            "name": "Alabama.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/Alabama.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e04bd9779d43aef298a0b76efe03b6e6": {
+            "format": "jpg",
+            "id": "e04bd9779d43aef298a0b76efe03b6e6",
+            "name": "20190727_124706.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/20190727_124706.jpg",
+            "size": {
+                "width": 3264,
+                "height": 2448
+            },
+            "state": 2,
             "type": 1
         }
     }
