@@ -1,0 +1,1390 @@
+{
+    "name": "Vehicle plates",
+    "securityToken": "Vehicle plates Token",
+    "sourceConnection": {
+        "name": "Connection",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWQyNGRkNTQ1YWU1MjVkYTA0M2MyNjM1Yjc1MmU2OTgxZDQ3MTRjOWNjOGI0ZjQ3N2ZmODZjYjIyMjQ1MDIxZmE1MWQxZjk3ZTg1YWY0OTk4YzU3MGI4MzdiOTBlYWMzZDk3NDIyYmIwNjZlMTIyOGRkMmJhMDcyY2ExMWIxOGIiLCJpdiI6IjZiZTU2OGY3Mzk1NTFkYjFjYTRmNWIyYjMzYjdmYTAyNGRmZjFkOTc2OTYxOWNiZCJ9"
+        },
+        "id": "VqOp5AgcH"
+    },
+    "targetConnection": {
+        "name": "target",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzQ4NzFjYmY4ZGI5MDBiYmMxMTQ0NjE3YzJhYzBkZTUzMmVkOTZiZjA3OGUwYjkxZDE1MDI4ODIyOTQxMDkxYWU0Y2I1MTI0YWFiM2M0YjJjYTg5ZWIxMWEwMDE0OWEwNTQ4NGFmMzRmMWNkYTVkMzU4MmI0NGM2YTM4NWRkOTQiLCJpdiI6ImNjZTFmMzBiNWU1N2JiMTEzZDkzZDA2NTRkMjk1ZmU5YzczNzUxMjU1Nzc3ZTc0MiJ9"
+        },
+        "id": "Nygu2KuXw"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "plate",
+            "color": "#5db300"
+        }
+    ],
+    "id": "FbN7PBmBa",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTM2ZDc0MmEwMTUyZDEwZTcyNmUzMGM0N2I5NDAzOWEzYzgyYzk2MDE4MWE2MTMzMDc5YmZjNDM0YWRhYmFjZDZmMDFlODkyNzM5OTU3ODllOWY3OWY4M2Y1ODdiYTUwIiwiaXYiOiI5ZmUyZTc4M2FhY2ViN2FmOTY1MjdjYjRjOTFjNTQzYmQ0YmMxMjRjYmM5MmQ1ZDQifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "b6281e3464e0e5d91b508953fbd5bd7d",
+    "assets": {
+        "5d441035b11e454164df1591bbe4f7d2": {
+            "format": "jpg",
+            "id": "5d441035b11e454164df1591bbe4f7d2",
+            "name": "0iuunu.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/0iuunu.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55e5191610aba07bd2f2d8387ee964fc": {
+            "format": "jpg",
+            "id": "55e5191610aba07bd2f2d8387ee964fc",
+            "name": "0ok5hw.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/0ok5hw.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24eb7dcc9abe49a8f75dc18ad3a492e7": {
+            "format": "jpg",
+            "id": "24eb7dcc9abe49a8f75dc18ad3a492e7",
+            "name": "16wah3.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/16wah3.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbe416b724ac7f8c397b3dbb13044c60": {
+            "format": "jpg",
+            "id": "bbe416b724ac7f8c397b3dbb13044c60",
+            "name": "1u9q4z.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/1u9q4z.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "6af5fbdff41290879a221065fbd82fbe": {
+            "format": "jpg",
+            "id": "6af5fbdff41290879a221065fbd82fbe",
+            "name": "1y4o6d.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/1y4o6d.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6fc389700cb3c3748736d5abec864b54": {
+            "format": "jpg",
+            "id": "6fc389700cb3c3748736d5abec864b54",
+            "name": "2q8wet.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/2q8wet.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aab2f541c50f07eb61c89176c63fab48": {
+            "format": "jpg",
+            "id": "aab2f541c50f07eb61c89176c63fab48",
+            "name": "2sqg9j.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/2sqg9j.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "371491e704ccae78b7588b122b7ee344": {
+            "format": "jpg",
+            "id": "371491e704ccae78b7588b122b7ee344",
+            "name": "337tf4.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/337tf4.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe768ecd0206c6c17eef4b08260dc8d4": {
+            "format": "jpg",
+            "id": "fe768ecd0206c6c17eef4b08260dc8d4",
+            "name": "468s3q.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/468s3q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3cdcff9bcca9e7577510e85e70e89800": {
+            "format": "jpg",
+            "id": "3cdcff9bcca9e7577510e85e70e89800",
+            "name": "ztp5pn.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/ztp5pn.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c358e405150074f5e2f5371ff31a48ae": {
+            "format": "jpg",
+            "id": "c358e405150074f5e2f5371ff31a48ae",
+            "name": "zthhhz.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/zthhhz.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40c722e18f1f004474944013180949ec": {
+            "format": "jpg",
+            "id": "40c722e18f1f004474944013180949ec",
+            "name": "zg9ygd.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/zg9ygd.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e8f3e8734039fb0926e988c9a225e5f7": {
+            "format": "jpg",
+            "id": "e8f3e8734039fb0926e988c9a225e5f7",
+            "name": "yuqrm8.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/yuqrm8.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5856232c892f1c09da3de8ab94fe505": {
+            "format": "jpg",
+            "id": "d5856232c892f1c09da3de8ab94fe505",
+            "name": "xyn5n2.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/xyn5n2.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d39d2b21bd8c6afa761d55ec97b24f5c": {
+            "format": "jpg",
+            "id": "d39d2b21bd8c6afa761d55ec97b24f5c",
+            "name": "xic1el.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/xic1el.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2e359b24f7e0d3663639318c9149d16": {
+            "format": "jpg",
+            "id": "d2e359b24f7e0d3663639318c9149d16",
+            "name": "xdhq8a.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/xdhq8a.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2ac269401377aef665db57f7d79587c": {
+            "format": "jpg",
+            "id": "d2ac269401377aef665db57f7d79587c",
+            "name": "xarcw2.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/xarcw2.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7718a3a8000b4aa413a625abe62674c9": {
+            "format": "jpg",
+            "id": "7718a3a8000b4aa413a625abe62674c9",
+            "name": "x5mut4.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/x5mut4.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e538032a574a88905db5a6c08d74ead": {
+            "format": "jpg",
+            "id": "7e538032a574a88905db5a6c08d74ead",
+            "name": "x1up8p.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/x1up8p.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e302ed2a395667aea1336a0c14f09ef9": {
+            "format": "jpg",
+            "id": "e302ed2a395667aea1336a0c14f09ef9",
+            "name": "wvcu4t.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/wvcu4t.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5c5c0a6cd27f389e549c8aa084523a8": {
+            "format": "jpg",
+            "id": "f5c5c0a6cd27f389e549c8aa084523a8",
+            "name": "w31ws0.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/w31ws0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a5276d25f562bebf65913170c902fe0": {
+            "format": "jpg",
+            "id": "1a5276d25f562bebf65913170c902fe0",
+            "name": "w08ovi.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/w08ovi.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81efbf8370abfe805ef692c1a92bc7c8": {
+            "format": "jpg",
+            "id": "81efbf8370abfe805ef692c1a92bc7c8",
+            "name": "vmzv7b.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/vmzv7b.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b81ece48e22bb87f9dd931c6c4754b9": {
+            "format": "jpg",
+            "id": "3b81ece48e22bb87f9dd931c6c4754b9",
+            "name": "vkpxdr.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/vkpxdr.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5eccc831e216902ae53982763cec724d": {
+            "format": "jpg",
+            "id": "5eccc831e216902ae53982763cec724d",
+            "name": "vipuh1.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/vipuh1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1276c067f17a1a8cdce00f4a708cc48": {
+            "format": "jpg",
+            "id": "b1276c067f17a1a8cdce00f4a708cc48",
+            "name": "uqxrf1.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/uqxrf1.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3dd9f698540706ae8155056482841574": {
+            "format": "jpg",
+            "id": "3dd9f698540706ae8155056482841574",
+            "name": "u8z9zk.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/u8z9zk.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00b9a60ca2036966d95348a369c08b4a": {
+            "format": "jpg",
+            "id": "00b9a60ca2036966d95348a369c08b4a",
+            "name": "u0pubs.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/u0pubs.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da32509e573b04ec95a2701746ba47b2": {
+            "format": "jpg",
+            "id": "da32509e573b04ec95a2701746ba47b2",
+            "name": "twwoyh.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/twwoyh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e246b75be9f60d52c95b4ff2dc84034": {
+            "format": "jpg",
+            "id": "1e246b75be9f60d52c95b4ff2dc84034",
+            "name": "tl5o8q.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/tl5o8q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4836fdcf1b379fadf122326f6e95ae39": {
+            "format": "jpg",
+            "id": "4836fdcf1b379fadf122326f6e95ae39",
+            "name": "tdxmlp.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/tdxmlp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a7597dc51b32a9bc3455de464f280ff": {
+            "format": "jpg",
+            "id": "4a7597dc51b32a9bc3455de464f280ff",
+            "name": "t4b38h.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/t4b38h.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e97ba7379a2b375ddf95ddf74af8f17c": {
+            "format": "jpg",
+            "id": "e97ba7379a2b375ddf95ddf74af8f17c",
+            "name": "t16wm3.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/t16wm3.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf4913a9269828db931b337fcf2959b0": {
+            "format": "jpg",
+            "id": "cf4913a9269828db931b337fcf2959b0",
+            "name": "syrdo6.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/syrdo6.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17886dbd16c77f9f39b049e4509201df": {
+            "format": "jpg",
+            "id": "17886dbd16c77f9f39b049e4509201df",
+            "name": "ssealv.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/ssealv.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "500d3776a6a6f1359df6866528cf4d4b": {
+            "format": "jpg",
+            "id": "500d3776a6a6f1359df6866528cf4d4b",
+            "name": "sf9wi0.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/sf9wi0.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fcc850c68393b6bc89b21250d653cb6b": {
+            "format": "jpg",
+            "id": "fcc850c68393b6bc89b21250d653cb6b",
+            "name": "scb14r.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/scb14r.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbc507bfb5e6742ce2a6a657f158e4b1": {
+            "format": "jpg",
+            "id": "cbc507bfb5e6742ce2a6a657f158e4b1",
+            "name": "scas9i.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/scas9i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fa1042ad915a9d18f1b945772301b5d": {
+            "format": "jpg",
+            "id": "8fa1042ad915a9d18f1b945772301b5d",
+            "name": "s1fcgt.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/s1fcgt.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cc94771b77fb458c9f9443fd15d6714": {
+            "format": "jpg",
+            "id": "0cc94771b77fb458c9f9443fd15d6714",
+            "name": "rwclxp.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/rwclxp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c228ccceee361d52dc326b8cd61a3d2": {
+            "format": "jpg",
+            "id": "8c228ccceee361d52dc326b8cd61a3d2",
+            "name": "rrgvv7.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/rrgvv7.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f05287c4aced8e8fa5c231ee70e1cf5e": {
+            "format": "jpg",
+            "id": "f05287c4aced8e8fa5c231ee70e1cf5e",
+            "name": "qufu8j.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/qufu8j.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "799f30654c235735b0381013860cfe93": {
+            "format": "jpg",
+            "id": "799f30654c235735b0381013860cfe93",
+            "name": "qeqkkt.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/qeqkkt.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6c7410cc72d91ec5535288e5a490202": {
+            "format": "jpg",
+            "id": "e6c7410cc72d91ec5535288e5a490202",
+            "name": "pps0kh.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/pps0kh.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ecf2770a331852b8400e864e78db3ff": {
+            "format": "jpg",
+            "id": "9ecf2770a331852b8400e864e78db3ff",
+            "name": "p5ixva.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/p5ixva.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "163ccfecaeeea16041526de64bb5b2a3": {
+            "format": "jpg",
+            "id": "163ccfecaeeea16041526de64bb5b2a3",
+            "name": "osgyeh.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/osgyeh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c70642cbcd915a8a4cc457b08eef3be4": {
+            "format": "jpg",
+            "id": "c70642cbcd915a8a4cc457b08eef3be4",
+            "name": "onpu6a.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/onpu6a.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c08be72362cde9a58ec555f40dd5ad88": {
+            "format": "jpg",
+            "id": "c08be72362cde9a58ec555f40dd5ad88",
+            "name": "o95wpk.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/o95wpk.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ab6ba09ea9d189b839816111921136e": {
+            "format": "jpg",
+            "id": "7ab6ba09ea9d189b839816111921136e",
+            "name": "o7at7q.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/o7at7q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85eb05f2ccf9883b1d821b1a8c8b79b7": {
+            "format": "jpg",
+            "id": "85eb05f2ccf9883b1d821b1a8c8b79b7",
+            "name": "o2irsh.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/o2irsh.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17b3e5c3e0209beeee64e62d7a9b3356": {
+            "format": "jpg",
+            "id": "17b3e5c3e0209beeee64e62d7a9b3356",
+            "name": "ntj8e8.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/ntj8e8.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6281e3464e0e5d91b508953fbd5bd7d": {
+            "format": "jpg",
+            "id": "b6281e3464e0e5d91b508953fbd5bd7d",
+            "name": "nrywyu.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/nrywyu.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41a5907d3a863293f75ae6f8c210c958": {
+            "format": "jpg",
+            "id": "41a5907d3a863293f75ae6f8c210c958",
+            "name": "ncjz03.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/ncjz03.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac60e28fc66ba0dda64a49b16c727107": {
+            "format": "jpg",
+            "id": "ac60e28fc66ba0dda64a49b16c727107",
+            "name": "mpbli4.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/mpbli4.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa08045837792d5228713ee4b95c1b44": {
+            "format": "jpg",
+            "id": "aa08045837792d5228713ee4b95c1b44",
+            "name": "m7nvh8.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/m7nvh8.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9ef7f101f84e10d9ae6c5977f86491e": {
+            "format": "jpg",
+            "id": "d9ef7f101f84e10d9ae6c5977f86491e",
+            "name": "m73w3f.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/m73w3f.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43fa04510b4a0b58054b45977d66dc6f": {
+            "format": "jpg",
+            "id": "43fa04510b4a0b58054b45977d66dc6f",
+            "name": "lnpbfb.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/lnpbfb.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "403e8c690169ed99cee1315886a6acf8": {
+            "format": "jpg",
+            "id": "403e8c690169ed99cee1315886a6acf8",
+            "name": "lbzjjo.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/lbzjjo.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4dbeb3e9e4c602a0d00d670205426e0b": {
+            "format": "jpg",
+            "id": "4dbeb3e9e4c602a0d00d670205426e0b",
+            "name": "lalc3n.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/lalc3n.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87017b4d8f22d810ff8815989fdf35d4": {
+            "format": "jpg",
+            "id": "87017b4d8f22d810ff8815989fdf35d4",
+            "name": "kzds8q.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/kzds8q.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd0e94cb8c256977e80d5af3e0b89112": {
+            "format": "jpg",
+            "id": "bd0e94cb8c256977e80d5af3e0b89112",
+            "name": "krva4r.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/krva4r.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f00e05876525373210e7d13aaa5e913": {
+            "format": "jpg",
+            "id": "5f00e05876525373210e7d13aaa5e913",
+            "name": "klj0gg.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/klj0gg.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73aeae02836ac6cd421db5bbbf0451bc": {
+            "format": "jpg",
+            "id": "73aeae02836ac6cd421db5bbbf0451bc",
+            "name": "kbzbpv.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/kbzbpv.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35094acb2ac42dd01e86a7a7cb95792c": {
+            "format": "jpg",
+            "id": "35094acb2ac42dd01e86a7a7cb95792c",
+            "name": "js8xt6.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/js8xt6.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "247e935bc0306b985761e2c4e7c44a7f": {
+            "format": "jpg",
+            "id": "247e935bc0306b985761e2c4e7c44a7f",
+            "name": "jn7x1q.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/jn7x1q.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a94c0ecc14c1a906c0d557c4515fc32f": {
+            "format": "jpg",
+            "id": "a94c0ecc14c1a906c0d557c4515fc32f",
+            "name": "j25zrr.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/j25zrr.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bebd38451c0df349dbcf9a999d841222": {
+            "format": "jpg",
+            "id": "bebd38451c0df349dbcf9a999d841222",
+            "name": "izzts9.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/izzts9.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78483a35bee2ff0e5a95e08e1eb7e879": {
+            "format": "jpg",
+            "id": "78483a35bee2ff0e5a95e08e1eb7e879",
+            "name": "hhd9ey.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/hhd9ey.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88c14cdafadb8d8aa9a412340742d032": {
+            "format": "jpg",
+            "id": "88c14cdafadb8d8aa9a412340742d032",
+            "name": "h1ijdo.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/h1ijdo.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bef34c66dd6f93d5e723136b0fdfe43a": {
+            "format": "jpg",
+            "id": "bef34c66dd6f93d5e723136b0fdfe43a",
+            "name": "gjpe1m.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/gjpe1m.jpg",
+            "size": {
+                "width": 837,
+                "height": 538
+            },
+            "state": 2,
+            "type": 1
+        },
+        "567c8c66d22b7e45e46dc10196e9360f": {
+            "format": "jpg",
+            "id": "567c8c66d22b7e45e46dc10196e9360f",
+            "name": "gfmc0k.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/gfmc0k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ff925a2035b4e3792c1e9058f01d444": {
+            "format": "jpg",
+            "id": "8ff925a2035b4e3792c1e9058f01d444",
+            "name": "gbfux6.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/gbfux6.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f15aa66352a9518d11d807365218bc3": {
+            "format": "jpg",
+            "id": "4f15aa66352a9518d11d807365218bc3",
+            "name": "fbq92k.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/fbq92k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "717483fc9c5935c5762c02c5ff945fe6": {
+            "format": "jpg",
+            "id": "717483fc9c5935c5762c02c5ff945fe6",
+            "name": "f3i3fb.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/f3i3fb.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f96dc8435395246f4a69f37a23a4c8da": {
+            "format": "jpg",
+            "id": "f96dc8435395246f4a69f37a23a4c8da",
+            "name": "f2u1nn.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/f2u1nn.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdb83621104ba94a7f1e0add30b457f3": {
+            "format": "jpg",
+            "id": "bdb83621104ba94a7f1e0add30b457f3",
+            "name": "eixx3i.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/eixx3i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b719c5b4739ef4daf3a85fc01025e1b": {
+            "format": "jpg",
+            "id": "2b719c5b4739ef4daf3a85fc01025e1b",
+            "name": "e4t0rh.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/e4t0rh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9372ceef9b46582611539ae74bec4903": {
+            "format": "jpg",
+            "id": "9372ceef9b46582611539ae74bec4903",
+            "name": "dd7vgz.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/dd7vgz.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff00f58563605b1faeda39717f563e85": {
+            "format": "jpg",
+            "id": "ff00f58563605b1faeda39717f563e85",
+            "name": "d6k97y.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/d6k97y.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c5bb2b95602978833e0a46b2fd4bc23": {
+            "format": "jpg",
+            "id": "9c5bb2b95602978833e0a46b2fd4bc23",
+            "name": "chbeyn.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/chbeyn.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba144e0b6e485eb9de51ef34eb7cecda": {
+            "format": "jpg",
+            "id": "ba144e0b6e485eb9de51ef34eb7cecda",
+            "name": "bimqlm.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/bimqlm.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea35f652d456bd9657aa64a065921b6e": {
+            "format": "jpg",
+            "id": "ea35f652d456bd9657aa64a065921b6e",
+            "name": "99ejno.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/99ejno.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "922bed2337c512e4da94453762ace49d": {
+            "format": "jpg",
+            "id": "922bed2337c512e4da94453762ace49d",
+            "name": "98wvae.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/98wvae.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4711917fb8f5dd6062ba2c3bec8a8cdf": {
+            "format": "jpg",
+            "id": "4711917fb8f5dd6062ba2c3bec8a8cdf",
+            "name": "941li9.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/941li9.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39eec3b477093f46de3012ccd39ec05b": {
+            "format": "jpg",
+            "id": "39eec3b477093f46de3012ccd39ec05b",
+            "name": "8p7i0k.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/8p7i0k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "816ffbc69273334a7ec46ef5c989e8ab": {
+            "format": "jpg",
+            "id": "816ffbc69273334a7ec46ef5c989e8ab",
+            "name": "8fme6w.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/8fme6w.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2180ca099197c9d8fc95835afa66be1": {
+            "format": "jpg",
+            "id": "c2180ca099197c9d8fc95835afa66be1",
+            "name": "8atx7d.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/8atx7d.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "406cbb398c21c06d82e7b001e9cf0b4f": {
+            "format": "jpg",
+            "id": "406cbb398c21c06d82e7b001e9cf0b4f",
+            "name": "7z2pxp.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/7z2pxp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da415e05c10e509b0d0d99b3c6d85077": {
+            "format": "jpg",
+            "id": "da415e05c10e509b0d0d99b3c6d85077",
+            "name": "7wz1kb.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/7wz1kb.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a972128662885463855f5ffb16795099": {
+            "format": "jpg",
+            "id": "a972128662885463855f5ffb16795099",
+            "name": "7qkxlx.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/7qkxlx.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a05225bbdd8bee17e4f4159bed50b1d0": {
+            "format": "jpg",
+            "id": "a05225bbdd8bee17e4f4159bed50b1d0",
+            "name": "7qbafv.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/7qbafv.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9498c4d0bdd70d0433304adfe557c4ff": {
+            "format": "jpg",
+            "id": "9498c4d0bdd70d0433304adfe557c4ff",
+            "name": "7kozy7.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/7kozy7.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16f1d1d49e3c7bb045cf1c0422aa201d": {
+            "format": "jpg",
+            "id": "16f1d1d49e3c7bb045cf1c0422aa201d",
+            "name": "73ow7i.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/73ow7i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91a7380611da7c791de723d0dfb05bca": {
+            "format": "jpg",
+            "id": "91a7380611da7c791de723d0dfb05bca",
+            "name": "6heml7.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/6heml7.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbd82585de885619c987e91f1d2611de": {
+            "format": "jpg",
+            "id": "fbd82585de885619c987e91f1d2611de",
+            "name": "699i1d.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/699i1d.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f06b19a41349ee159f3e3c3e60dabdb": {
+            "format": "jpg",
+            "id": "8f06b19a41349ee159f3e3c3e60dabdb",
+            "name": "615n46.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/615n46.jpg",
+            "size": {
+                "width": 2592,
+                "height": 1944
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89a1fdb2826a55fe2fc103102efa8293": {
+            "format": "jpg",
+            "id": "89a1fdb2826a55fe2fc103102efa8293",
+            "name": "57pbsj.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/57pbsj.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7b0f6444620d938e28f8a16b18fc05f": {
+            "format": "jpg",
+            "id": "d7b0f6444620d938e28f8a16b18fc05f",
+            "name": "4ri7c4.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/4ri7c4.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39c2915f1588ef9d545ee66a390fa02a": {
+            "format": "jpg",
+            "id": "39c2915f1588ef9d545ee66a390fa02a",
+            "name": "4k6jqd.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/4k6jqd.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b606efd40aa78b8286d7bb3a2762bc3": {
+            "format": "jpg",
+            "id": "3b606efd40aa78b8286d7bb3a2762bc3",
+            "name": "4dh9gq.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/4dh9gq.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf73e5ecf19a986d1b04187ed2c4a9b6": {
+            "format": "jpg",
+            "id": "bf73e5ecf19a986d1b04187ed2c4a9b6",
+            "name": "IMG_20200108_155445.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20200108_155445.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16dc27f2cd485401bc99558c9b6acc27": {
+            "format": "jpg",
+            "id": "16dc27f2cd485401bc99558c9b6acc27",
+            "name": "IMG_20200108_155431.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20200108_155431.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c4822d7d148a4aaeff8e814a46e82828": {
+            "format": "jpg",
+            "id": "c4822d7d148a4aaeff8e814a46e82828",
+            "name": "IMG_20191128_183920.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20191128_183920.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c528912ac178f71a894df5287f55b96d": {
+            "format": "jpg",
+            "id": "c528912ac178f71a894df5287f55b96d",
+            "name": "IMG_20191106_150454.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20191106_150454.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a417e3c9d1a76f6ba2e214513097193b": {
+            "format": "jpg",
+            "id": "a417e3c9d1a76f6ba2e214513097193b",
+            "name": "IMG_20191013_142900.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20191013_142900.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfe5fb38eda40cea4bb9442cb52c48ba": {
+            "format": "jpg",
+            "id": "cfe5fb38eda40cea4bb9442cb52c48ba",
+            "name": "IMG_20191001_175816.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20191001_175816.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a4586b3262b6b02e04cc5e804b5cd54": {
+            "format": "jpg",
+            "id": "6a4586b3262b6b02e04cc5e804b5cd54",
+            "name": "IMG_20190929_154018.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190929_154018.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7edb9d419b5d30616fca3435b6f5b4c": {
+            "format": "jpg",
+            "id": "e7edb9d419b5d30616fca3435b6f5b4c",
+            "name": "IMG_20190922_174424.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190922_174424.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1df6f09e278d9cfe5873bb517b7dcf95": {
+            "format": "jpg",
+            "id": "1df6f09e278d9cfe5873bb517b7dcf95",
+            "name": "IMG_20190915_174021.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190915_174021.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37b0ab69a069c77129f1f9f301f9fb4d": {
+            "format": "jpg",
+            "id": "37b0ab69a069c77129f1f9f301f9fb4d",
+            "name": "IMG_20190909_190626.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190909_190626.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc4fce9c2e15470f6c36c684dc372c94": {
+            "format": "jpg",
+            "id": "cc4fce9c2e15470f6c36c684dc372c94",
+            "name": "IMG_20190824_151407.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190824_151407.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b104e0e57d05c9d1beb507d3080ad09a": {
+            "format": "jpg",
+            "id": "b104e0e57d05c9d1beb507d3080ad09a",
+            "name": "IMG_20190811_154813.jpg",
+            "path": "file:/Users/vasya/Documents/ml/plate/img/IMG_20190811_154813.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

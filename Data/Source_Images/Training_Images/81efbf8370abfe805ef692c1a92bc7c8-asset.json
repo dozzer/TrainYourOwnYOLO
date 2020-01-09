@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "81efbf8370abfe805ef692c1a92bc7c8",
+        "name": "vmzv7b.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/vmzv7b.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "z9ytzLkrP",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 76.45573416506717,
+                "width": 114.20086393088555,
+                "left": 354.4681425485961,
+                "top": 92.85298704414586
+            },
+            "points": [
+                {
+                    "x": 354.4681425485961,
+                    "y": 92.85298704414586
+                },
+                {
+                    "x": 468.6690064794817,
+                    "y": 92.85298704414586
+                },
+                {
+                    "x": 468.6690064794817,
+                    "y": 169.30872120921305
+                },
+                {
+                    "x": 354.4681425485961,
+                    "y": 169.30872120921305
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

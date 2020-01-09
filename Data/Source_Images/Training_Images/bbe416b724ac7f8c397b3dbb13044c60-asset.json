@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bbe416b724ac7f8c397b3dbb13044c60",
+        "name": "1u9q4z.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/1u9q4z.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "X69zYmQwJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 68.00203934740883,
+                "width": 102.829373650108,
+                "left": 1208.7553995680346,
+                "top": 37.12661948176583
+            },
+            "points": [
+                {
+                    "x": 1208.7553995680346,
+                    "y": 37.12661948176583
+                },
+                {
+                    "x": 1311.5847732181426,
+                    "y": 37.12661948176583
+                },
+                {
+                    "x": 1311.5847732181426,
+                    "y": 105.12865882917465
+                },
+                {
+                    "x": 1208.7553995680346,
+                    "y": 105.12865882917465
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

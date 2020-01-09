@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bdb83621104ba94a7f1e0add30b457f3",
+        "name": "eixx3i.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/eixx3i.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VKq5AT7Wj",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 56.74664107485604,
+                "width": 104.09827213822894,
+                "left": 314.244060475162,
+                "top": 625.4654510556621
+            },
+            "points": [
+                {
+                    "x": 314.244060475162,
+                    "y": 625.4654510556621
+                },
+                {
+                    "x": 418.3423326133909,
+                    "y": 625.4654510556621
+                },
+                {
+                    "x": 418.3423326133909,
+                    "y": 682.2120921305182
+                },
+                {
+                    "x": 314.244060475162,
+                    "y": 682.2120921305182
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

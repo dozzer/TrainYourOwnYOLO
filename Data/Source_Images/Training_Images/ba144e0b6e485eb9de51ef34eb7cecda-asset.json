@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ba144e0b6e485eb9de51ef34eb7cecda",
+        "name": "bimqlm.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/bimqlm.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BfURogRhR",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 55.42676343570057,
+                "width": 104.40064794816416,
+                "left": 766.7170626349892,
+                "top": 37.28047024952015
+            },
+            "points": [
+                {
+                    "x": 766.7170626349892,
+                    "y": 37.28047024952015
+                },
+                {
+                    "x": 871.1177105831534,
+                    "y": 37.28047024952015
+                },
+                {
+                    "x": 871.1177105831534,
+                    "y": 92.70723368522071
+                },
+                {
+                    "x": 766.7170626349892,
+                    "y": 92.70723368522071
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

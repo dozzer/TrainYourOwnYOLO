@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "73aeae02836ac6cd421db5bbbf0451bc",
+        "name": "kbzbpv.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/kbzbpv.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UJjy3UOmH",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 78.5853526871401,
+                "width": 138.6366090712743,
+                "left": 1065.9638228941685,
+                "top": 247.62685940499037
+            },
+            "points": [
+                {
+                    "x": 1065.9638228941685,
+                    "y": 247.62685940499037
+                },
+                {
+                    "x": 1204.6004319654428,
+                    "y": 247.62685940499037
+                },
+                {
+                    "x": 1204.6004319654428,
+                    "y": 326.21221209213047
+                },
+                {
+                    "x": 1065.9638228941685,
+                    "y": 326.21221209213047
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c70642cbcd915a8a4cc457b08eef3be4",
+        "name": "onpu6a.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/onpu6a.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zoJ8TE9qs",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 59.78586852207293,
+                "width": 86.25809935205183,
+                "left": 452.6997840172786,
+                "top": 633.9137476007677
+            },
+            "points": [
+                {
+                    "x": 452.6997840172786,
+                    "y": 633.9137476007677
+                },
+                {
+                    "x": 538.9578833693304,
+                    "y": 633.9137476007677
+                },
+                {
+                    "x": 538.9578833693304,
+                    "y": 693.6996161228407
+                },
+                {
+                    "x": 452.6997840172786,
+                    "y": 693.6996161228407
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

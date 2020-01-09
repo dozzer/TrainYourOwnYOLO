@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cbc507bfb5e6742ce2a6a657f158e4b1",
+        "name": "scas9i.jpg",
+        "path": "file:/Users/vasya/Documents/ml/plate/img/scas9i.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jVANcwRAc",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 52.35784548944338,
+                "width": 90.01079913606911,
+                "left": 354.4654427645788,
+                "top": 235.59141074856046
+            },
+            "points": [
+                {
+                    "x": 354.4654427645788,
+                    "y": 235.59141074856046
+                },
+                {
+                    "x": 444.47624190064795,
+                    "y": 235.59141074856046
+                },
+                {
+                    "x": 444.47624190064795,
+                    "y": 287.94925623800384
+                },
+                {
+                    "x": 354.4654427645788,
+                    "y": 287.94925623800384
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
