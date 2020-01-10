@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ab73b6319c1cafd0323a9846508676ee",
+        "name": "Ohio.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1Yxn-7txv",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 145.34892086330936,
+                "width": 280.1268898488121,
+                "left": 26.7548596112311,
+                "top": 38.34982014388489
+            },
+            "points": [
+                {
+                    "x": 26.7548596112311,
+                    "y": 38.34982014388489
+                },
+                {
+                    "x": 306.8817494600432,
+                    "y": 38.34982014388489
+                },
+                {
+                    "x": 306.8817494600432,
+                    "y": 183.69874100719426
+                },
+                {
+                    "x": 26.7548596112311,
+                    "y": 183.69874100719426
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

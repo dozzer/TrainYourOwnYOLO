@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7cb99c0ae7c78ee55bec76e95a1adcf4",
+        "name": "2000_Montana_Passenger_License_Plate_-_3M_Test_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2000_Montana_Passenger_License_Plate_-_3M_Test_Plate.jpg",
+        "size": {
+            "width": 435,
+            "height": 220
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0zeGxhRp_",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 217.43289262820514,
+                "width": 432.37410147813176,
+                "left": 2.6258985218682507,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 2.6258985218682507,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 217.43289262820514
+                },
+                {
+                    "x": 2.6258985218682507,
+                    "y": 217.43289262820514
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

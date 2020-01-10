@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cb7863b1355fbb861ded55623e8dbc43",
+        "name": "d6k97y.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/d6k97y.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0dgd0d__t",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 81.2440019193858,
+                "width": 140.85313174946003,
+                "left": 677.9643628509718,
+                "top": 190.93690019193858
+            },
+            "points": [
+                {
+                    "x": 677.9643628509718,
+                    "y": 190.93690019193858
+                },
+                {
+                    "x": 818.8174946004319,
+                    "y": 190.93690019193858
+                },
+                {
+                    "x": 818.8174946004319,
+                    "y": 272.1809021113244
+                },
+                {
+                    "x": 677.9643628509718,
+                    "y": 272.1809021113244
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

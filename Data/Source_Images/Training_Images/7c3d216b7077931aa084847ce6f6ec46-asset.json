@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7c3d216b7077931aa084847ce6f6ec46",
+        "name": "2880px-2018_Florida_license_plate_IYT_E32.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2018_Florida_license_plate_IYT_E32.jpg",
+        "size": {
+            "width": 2880,
+            "height": 1431
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ADpC8ogE7",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1418.7266474184783,
+                "width": 2873.9619330453565,
+                "left": 6.038066954643629,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 6.038066954643629,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1418.7266474184783
+                },
+                {
+                    "x": 6.038066954643629,
+                    "y": 1418.7266474184783
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c32a8813b397fd24aff4f6bd2aef837d",
+        "name": "Oregon.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Oregon.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YyKU6xLfi",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 135.18480215827338,
+                "width": 264.6800755939525,
+                "left": 36.943844492440604,
+                "top": 55.706384892086334
+            },
+            "points": [
+                {
+                    "x": 36.943844492440604,
+                    "y": 55.706384892086334
+                },
+                {
+                    "x": 301.62392008639307,
+                    "y": 55.706384892086334
+                },
+                {
+                    "x": 301.62392008639307,
+                    "y": 190.89118705035972
+                },
+                {
+                    "x": 36.943844492440604,
+                    "y": 190.89118705035972
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

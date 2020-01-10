@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "72f24c6d8926310d28dccea24727ceb2",
+        "name": "vkpxdr.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vkpxdr.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8Nr5DF-N7",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 150.61180422264874,
+                "width": 220.64254859611233,
+                "left": 135.23488120950324,
+                "top": 869.807461612284
+            },
+            "points": [
+                {
+                    "x": 135.23488120950324,
+                    "y": 869.807461612284
+                },
+                {
+                    "x": 355.8774298056156,
+                    "y": 869.807461612284
+                },
+                {
+                    "x": 355.8774298056156,
+                    "y": 1020.4192658349327
+                },
+                {
+                    "x": 135.23488120950324,
+                    "y": 1020.4192658349327
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

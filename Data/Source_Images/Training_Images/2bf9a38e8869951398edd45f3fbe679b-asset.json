@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2bf9a38e8869951398edd45f3fbe679b",
+        "name": "Vermont.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Vermont.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wXAyOIwMu",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 151.03192446043167,
+                "width": 273.3490820734341,
+                "left": 26.46463282937365,
+                "top": 23.10836330935252
+            },
+            "points": [
+                {
+                    "x": 26.46463282937365,
+                    "y": 23.10836330935252
+                },
+                {
+                    "x": 299.81371490280776,
+                    "y": 23.10836330935252
+                },
+                {
+                    "x": 299.81371490280776,
+                    "y": 174.14028776978418
+                },
+                {
+                    "x": 26.46463282937365,
+                    "y": 174.14028776978418
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

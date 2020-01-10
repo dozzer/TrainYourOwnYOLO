@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d097fec6d00634af68a6a88d775d3293",
+        "name": "2880px-Michigan_2007_World's_Motor_Capital_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Michigan_2007_World's_Motor_Capital_License_Plate.jpg",
+        "size": {
+            "width": 2880,
+            "height": 1434
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rCaY5Oujs",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1431.496915672451,
+                "width": 2879.744870410367,
+                "left": 0.2551295896328294,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.2551295896328294,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1431.496915672451
+                },
+                {
+                    "x": 0.2551295896328294,
+                    "y": 1431.496915672451
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

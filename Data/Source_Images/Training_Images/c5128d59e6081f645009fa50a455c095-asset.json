@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c5128d59e6081f645009fa50a455c095",
+        "name": "PUERTO_RICO_1990'S_-SOUVENIR_REFLECTIVE_LICENSE_PLATE_-_Flickr_-_woody1778a.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/PUERTO_RICO_1990'S_-SOUVENIR_REFLECTIVE_LICENSE_PLATE_-_Flickr_-_woody1778a.jpg",
+        "size": {
+            "width": 2555,
+            "height": 1308
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lJHYGiS79",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1246.6336036392406,
+                "width": 2521.9760731641472,
+                "left": 23.08657026187905,
+                "top": 17.73190268987342
+            },
+            "points": [
+                {
+                    "x": 23.08657026187905,
+                    "y": 17.73190268987342
+                },
+                {
+                    "x": 2545.062643426026,
+                    "y": 17.73190268987342
+                },
+                {
+                    "x": 2545.062643426026,
+                    "y": 1264.365506329114
+                },
+                {
+                    "x": 23.08657026187905,
+                    "y": 1264.365506329114
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

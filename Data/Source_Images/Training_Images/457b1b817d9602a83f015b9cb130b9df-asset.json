@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "457b1b817d9602a83f015b9cb130b9df",
+        "name": "Nebraska_license_plate_2017_big_counties.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Nebraska_license_plate_2017_big_counties.jpg",
+        "size": {
+            "width": 316,
+            "height": 160
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D2W-45Vhr",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 159.00852878464818,
+                "width": 313.1913303185745,
+                "left": 2.808669681425486,
+                "top": 0.9914712153518124
+            },
+            "points": [
+                {
+                    "x": 2.808669681425486,
+                    "y": 0.9914712153518124
+                },
+                {
+                    "x": 316,
+                    "y": 0.9914712153518124
+                },
+                {
+                    "x": 316,
+                    "y": 160
+                },
+                {
+                    "x": 2.808669681425486,
+                    "y": 160
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

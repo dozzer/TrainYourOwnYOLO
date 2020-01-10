@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "571c41fc0a568372f96fd39763897fab",
+        "name": "2013_North_Carolina_license_plate_-_BAC-5359.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2013_North_Carolina_license_plate_-_BAC-5359.jpg",
+        "size": {
+            "width": 350,
+            "height": 175
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2MR7dd4jW",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 173.78193338282938,
+                "width": 349.7814862311015,
+                "left": 0.21851376889848811,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.21851376889848811,
+                    "y": 0
+                },
+                {
+                    "x": 350,
+                    "y": 0
+                },
+                {
+                    "x": 350,
+                    "y": 173.78193338282938
+                },
+                {
+                    "x": 0.21851376889848811,
+                    "y": 173.78193338282938
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

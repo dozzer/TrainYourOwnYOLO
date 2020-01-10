@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "cafca964563ab3ee9ad1ca8ea37b137f",
+        "name": "Arizona_License_Plate_2015_BJV7821.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arizona_License_Plate_2015_BJV7821.png",
+        "size": {
+            "width": 1600,
+            "height": 797
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "OmZFOibrn",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 793.4342462039045,
+                "width": 1595.5791036717062,
+                "left": 4.420896328293736,
+                "top": 3.5657537960954446
+            },
+            "points": [
+                {
+                    "x": 4.420896328293736,
+                    "y": 3.5657537960954446
+                },
+                {
+                    "x": 1600,
+                    "y": 3.5657537960954446
+                },
+                {
+                    "x": 1600,
+                    "y": 797
+                },
+                {
+                    "x": 4.420896328293736,
+                    "y": 797
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

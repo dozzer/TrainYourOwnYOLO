@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "af134358bc8de75735f9609653d4f5d3",
+        "name": "RhodeIsland.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/RhodeIsland.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IuNiGqh1A",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 128.54541366906474,
+                "width": 246.347192224622,
+                "left": 41.000269978401725,
+                "top": 53.29046762589928
+            },
+            "points": [
+                {
+                    "x": 41.000269978401725,
+                    "y": 53.29046762589928
+                },
+                {
+                    "x": 287.3474622030237,
+                    "y": 53.29046762589928
+                },
+                {
+                    "x": 287.3474622030237,
+                    "y": 181.83588129496403
+                },
+                {
+                    "x": 41.000269978401725,
+                    "y": 181.83588129496403
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

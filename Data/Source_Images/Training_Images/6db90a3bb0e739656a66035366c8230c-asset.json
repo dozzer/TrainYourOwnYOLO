@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6db90a3bb0e739656a66035366c8230c",
+        "name": "Nebraska.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Nebraska.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vc0l-hwmX",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 156.13354316546764,
+                "width": 272.09098272138226,
+                "left": 28.27213822894168,
+                "top": 32.755845323741006
+            },
+            "points": [
+                {
+                    "x": 28.27213822894168,
+                    "y": 32.755845323741006
+                },
+                {
+                    "x": 300.36312095032395,
+                    "y": 32.755845323741006
+                },
+                {
+                    "x": 300.36312095032395,
+                    "y": 188.88938848920864
+                },
+                {
+                    "x": 28.27213822894168,
+                    "y": 188.88938848920864
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

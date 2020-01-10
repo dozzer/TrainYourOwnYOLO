@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "de35c4db96edd28bd1e5893072cac031",
+        "name": "SouthDakota.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/SouthDakota.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IEsEH0gin",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 133.8021582733813,
+                "width": 262.98056155507555,
+                "left": 42.61069114470842,
+                "top": 47.60881294964029
+            },
+            "points": [
+                {
+                    "x": 42.61069114470842,
+                    "y": 47.60881294964029
+                },
+                {
+                    "x": 305.591252699784,
+                    "y": 47.60881294964029
+                },
+                {
+                    "x": 305.591252699784,
+                    "y": 181.4109712230216
+                },
+                {
+                    "x": 42.61069114470842,
+                    "y": 181.4109712230216
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "21beaf0558404e00769f975293979da7",
+        "name": "Illinois_2017_License_Plate_V3.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Illinois_2017_License_Plate_V3.jpg",
+        "size": {
+            "width": 1400,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bCH7qh0mw",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 703.7808560924369,
+                "width": 1381.8810745140388,
+                "left": 18.118925485961125,
+                "top": 16.219143907563026
+            },
+            "points": [
+                {
+                    "x": 18.118925485961125,
+                    "y": 16.219143907563026
+                },
+                {
+                    "x": 1400,
+                    "y": 16.219143907563026
+                },
+                {
+                    "x": 1400,
+                    "y": 720
+                },
+                {
+                    "x": 18.118925485961125,
+                    "y": 720
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

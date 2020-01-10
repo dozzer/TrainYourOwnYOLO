@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d3f5217bc7a03e8fe7b0f4a06f18d72",
+        "name": "1963_California_license_plate_SAM-123.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1963_California_license_plate_SAM-123.jpg",
+        "size": {
+            "width": 500,
+            "height": 250
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qWZ8SUz6l",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 248.28099689524836,
+                "width": 499.48324446544274,
+                "left": 0.5167555345572353,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.5167555345572353,
+                    "y": 0
+                },
+                {
+                    "x": 499.99999999999994,
+                    "y": 0
+                },
+                {
+                    "x": 499.99999999999994,
+                    "y": 248.28099689524836
+                },
+                {
+                    "x": 0.5167555345572353,
+                    "y": 248.28099689524836
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

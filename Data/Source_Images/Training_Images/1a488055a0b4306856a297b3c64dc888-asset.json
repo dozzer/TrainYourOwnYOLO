@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1a488055a0b4306856a297b3c64dc888",
+        "name": "Florida.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Florida.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zeP_Hs7-C",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 145.6025179856115,
+                "width": 282.3771598272138,
+                "left": 25.382019438444924,
+                "top": 27.468075539568346
+            },
+            "points": [
+                {
+                    "x": 25.382019438444924,
+                    "y": 27.468075539568346
+                },
+                {
+                    "x": 307.7591792656587,
+                    "y": 27.468075539568346
+                },
+                {
+                    "x": 307.7591792656587,
+                    "y": 173.07059352517987
+                },
+                {
+                    "x": 25.382019438444924,
+                    "y": 173.07059352517987
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

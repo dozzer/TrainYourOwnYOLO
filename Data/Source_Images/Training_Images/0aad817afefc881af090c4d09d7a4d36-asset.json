@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0aad817afefc881af090c4d09d7a4d36",
+        "name": "tl5o8q.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/tl5o8q.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ti43q1kqC",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 48.77879078694817,
+                "width": 83.47732181425485,
+                "left": 54.087473002159825,
+                "top": 94.88543666026871
+            },
+            "points": [
+                {
+                    "x": 54.087473002159825,
+                    "y": 94.88543666026871
+                },
+                {
+                    "x": 137.5647948164147,
+                    "y": 94.88543666026871
+                },
+                {
+                    "x": 137.5647948164147,
+                    "y": 143.6642274472169
+                },
+                {
+                    "x": 54.087473002159825,
+                    "y": 143.6642274472169
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

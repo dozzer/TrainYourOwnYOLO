@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "eb49e74f303e40fcc818a0436d0f8a0f",
+        "name": "Minnesota.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Minnesota.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YOGDxKjQ9",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 124.29091726618705,
+                "width": 230.63039956803453,
+                "left": 62.69168466522678,
+                "top": 62.785521582733814
+            },
+            "points": [
+                {
+                    "x": 62.69168466522678,
+                    "y": 62.785521582733814
+                },
+                {
+                    "x": 293.3220842332613,
+                    "y": 62.785521582733814
+                },
+                {
+                    "x": 293.3220842332613,
+                    "y": 187.07643884892087
+                },
+                {
+                    "x": 62.69168466522678,
+                    "y": 187.07643884892087
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

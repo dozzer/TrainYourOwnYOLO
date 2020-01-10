@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c142d633214b7a7f67228807f7e93141",
+        "name": "US_Diplomatic_license_plate_2008.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/US_Diplomatic_license_plate_2008.jpg",
+        "size": {
+            "width": 1917,
+            "height": 987
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ay_-I-InG",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 981.0672661163522,
+                "width": 1914.2100895990818,
+                "left": 2.7899104009179263,
+                "top": 5.932733883647799
+            },
+            "points": [
+                {
+                    "x": 2.7899104009179263,
+                    "y": 5.932733883647799
+                },
+                {
+                    "x": 1916.9999999999998,
+                    "y": 5.932733883647799
+                },
+                {
+                    "x": 1916.9999999999998,
+                    "y": 987.0000000000001
+                },
+                {
+                    "x": 2.7899104009179263,
+                    "y": 987.0000000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

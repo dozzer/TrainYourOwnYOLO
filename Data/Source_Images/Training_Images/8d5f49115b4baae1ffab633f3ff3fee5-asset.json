@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d5f49115b4baae1ffab633f3ff3fee5",
+        "name": "s1fcgt.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/s1fcgt.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CpHXHS_gR",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 57.75611804222648,
+                "width": 91.50647948164146,
+                "left": 267.85097192224623,
+                "top": 313.34812859884835
+            },
+            "points": [
+                {
+                    "x": 267.85097192224623,
+                    "y": 313.34812859884835
+                },
+                {
+                    "x": 359.3574514038877,
+                    "y": 313.34812859884835
+                },
+                {
+                    "x": 359.3574514038877,
+                    "y": 371.10424664107484
+                },
+                {
+                    "x": 267.85097192224623,
+                    "y": 371.10424664107484
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

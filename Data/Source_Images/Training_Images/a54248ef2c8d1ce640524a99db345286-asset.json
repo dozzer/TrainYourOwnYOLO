@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a54248ef2c8d1ce640524a99db345286",
+        "name": "Wisconsin.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Wisconsin.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eH0BJl6_M",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 135.52473021582733,
+                "width": 249.5815334773218,
+                "left": 31.26889848812095,
+                "top": 51.017535971223026
+            },
+            "points": [
+                {
+                    "x": 31.26889848812095,
+                    "y": 51.017535971223026
+                },
+                {
+                    "x": 280.85043196544274,
+                    "y": 51.017535971223026
+                },
+                {
+                    "x": 280.85043196544274,
+                    "y": 186.54226618705036
+                },
+                {
+                    "x": 31.26889848812095,
+                    "y": 186.54226618705036
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cd000fd2d048f4db63163a77cabccc09",
+        "name": "Louisiana.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Louisiana.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vw5ibE-Rq",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 118.89388489208633,
+                "width": 232.22732181425485,
+                "left": 58.56641468682505,
+                "top": 77.17985611510792
+            },
+            "points": [
+                {
+                    "x": 58.56641468682505,
+                    "y": 77.17985611510792
+                },
+                {
+                    "x": 290.7937365010799,
+                    "y": 77.17985611510792
+                },
+                {
+                    "x": 290.7937365010799,
+                    "y": 196.07374100719426
+                },
+                {
+                    "x": 58.56641468682505,
+                    "y": 196.07374100719426
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

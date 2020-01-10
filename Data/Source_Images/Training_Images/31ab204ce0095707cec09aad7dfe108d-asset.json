@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "31ab204ce0095707cec09aad7dfe108d",
+        "name": "lalc3n.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/lalc3n.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9GwQuNF6r",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 55.42946257197696,
+                "width": 76.92764578833693,
+                "left": 791.5550755939524,
+                "top": 205.0209932821497
+            },
+            "points": [
+                {
+                    "x": 791.5550755939524,
+                    "y": 205.0209932821497
+                },
+                {
+                    "x": 868.4827213822894,
+                    "y": 205.0209932821497
+                },
+                {
+                    "x": 868.4827213822894,
+                    "y": 260.4504558541267
+                },
+                {
+                    "x": 791.5550755939524,
+                    "y": 260.4504558541267
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

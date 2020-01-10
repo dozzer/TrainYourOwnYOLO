@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "36f5d849aa83269dd3d6eb29c9aeab27",
+        "name": "eixx3i.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/eixx3i.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Vote2M_57",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 67.57557581573896,
+                "width": 108.77969762419006,
+                "left": 313.1425485961123,
+                "top": 620.866122840691
+            },
+            "points": [
+                {
+                    "x": 313.1425485961123,
+                    "y": 620.866122840691
+                },
+                {
+                    "x": 421.9222462203023,
+                    "y": 620.866122840691
+                },
+                {
+                    "x": 421.9222462203023,
+                    "y": 688.4416986564299
+                },
+                {
+                    "x": 313.1425485961123,
+                    "y": 688.4416986564299
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "4929c3c8d0d3d607447480b9b86c7265",
+        "name": "Missouri_2021_Bicentennial_License_Plate.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Missouri_2021_Bicentennial_License_Plate.png",
+        "size": {
+            "width": 900,
+            "height": 512
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u8gIE0umU",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 416.9867172675522,
+                "width": 843.3247840172786,
+                "left": 21.73157397408207,
+                "top": 49.73814041745731
+            },
+            "points": [
+                {
+                    "x": 21.73157397408207,
+                    "y": 49.73814041745731
+                },
+                {
+                    "x": 865.0563579913606,
+                    "y": 49.73814041745731
+                },
+                {
+                    "x": 865.0563579913606,
+                    "y": 466.7248576850095
+                },
+                {
+                    "x": 21.73157397408207,
+                    "y": 466.7248576850095
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

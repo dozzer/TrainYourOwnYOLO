@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "97ef99f43b489a60a041741a074b0c7f",
+        "name": "2880px-Maine_License_Plate_6992LH.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Maine_License_Plate_6992LH.png",
+        "size": {
+            "width": 2880,
+            "height": 1449
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AHJlOW-84",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1438.3963167247853,
+                "width": 2872.5404967602594,
+                "left": 7.459503239740821,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 7.459503239740821,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1438.3963167247853
+                },
+                {
+                    "x": 7.459503239740821,
+                    "y": 1438.3963167247853
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

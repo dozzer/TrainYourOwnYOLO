@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "72b46124034e6e4b7d912ffb1547d116",
+        "name": "Colorado.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Colorado.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-81Mrzu7B",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 138.83228417266187,
+                "width": 281.2122030237581,
+                "left": 29.50728941684665,
+                "top": 49.447392086330936
+            },
+            "points": [
+                {
+                    "x": 29.50728941684665,
+                    "y": 49.447392086330936
+                },
+                {
+                    "x": 310.7194924406047,
+                    "y": 49.447392086330936
+                },
+                {
+                    "x": 310.7194924406047,
+                    "y": 188.27967625899282
+                },
+                {
+                    "x": 29.50728941684665,
+                    "y": 188.27967625899282
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

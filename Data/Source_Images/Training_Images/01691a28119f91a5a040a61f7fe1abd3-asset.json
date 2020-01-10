@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "01691a28119f91a5a040a61f7fe1abd3",
+        "name": "kzds8q.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/kzds8q.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A2k_agV75",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 97.9867442418426,
+                "width": 155.0377969762419,
+                "left": 1190.4184665226783,
+                "top": 919.4283829174664
+            },
+            "points": [
+                {
+                    "x": 1190.4184665226783,
+                    "y": 919.4283829174664
+                },
+                {
+                    "x": 1345.4562634989202,
+                    "y": 919.4283829174664
+                },
+                {
+                    "x": 1345.4562634989202,
+                    "y": 1017.4151271593089
+                },
+                {
+                    "x": 1190.4184665226783,
+                    "y": 1017.4151271593089
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

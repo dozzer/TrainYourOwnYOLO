@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f69f63eb345dccc7fc0b0369ec135e46",
+        "name": "Michigan_license_plate_2008.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Michigan_license_plate_2008.jpg",
+        "size": {
+            "width": 400,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4GErbndiP",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 198.0224082073434,
+                "width": 397.00492710583154,
+                "left": 2.9950728941684663,
+                "top": 1.9775917926565874
+            },
+            "points": [
+                {
+                    "x": 2.9950728941684663,
+                    "y": 1.9775917926565874
+                },
+                {
+                    "x": 400,
+                    "y": 1.9775917926565874
+                },
+                {
+                    "x": 400,
+                    "y": 200
+                },
+                {
+                    "x": 2.9950728941684663,
+                    "y": 200
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

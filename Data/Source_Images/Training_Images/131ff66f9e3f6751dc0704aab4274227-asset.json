@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "131ff66f9e3f6751dc0704aab4274227",
+        "name": "Pennsylvania.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pennsylvania.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3n8yEB58X",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 135.12814748201438,
+                "width": 260.542656587473,
+                "left": 21.36609071274298,
+                "top": 61.3125
+            },
+            "points": [
+                {
+                    "x": 21.36609071274298,
+                    "y": 61.3125
+                },
+                {
+                    "x": 281.90874730021596,
+                    "y": 61.3125
+                },
+                {
+                    "x": 281.90874730021596,
+                    "y": 196.4406474820144
+                },
+                {
+                    "x": 21.36609071274298,
+                    "y": 196.4406474820144
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

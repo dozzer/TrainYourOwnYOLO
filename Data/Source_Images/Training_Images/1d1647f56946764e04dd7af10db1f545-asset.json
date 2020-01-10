@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1d1647f56946764e04dd7af10db1f545",
+        "name": "Maine.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Maine.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jW7CRZROk",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 149.97571942446044,
+                "width": 285.86393088552916,
+                "left": 34.13606911447084,
+                "top": 37.63219424460432
+            },
+            "points": [
+                {
+                    "x": 34.13606911447084,
+                    "y": 37.63219424460432
+                },
+                {
+                    "x": 320,
+                    "y": 37.63219424460432
+                },
+                {
+                    "x": 320,
+                    "y": 187.60791366906477
+                },
+                {
+                    "x": 34.13606911447084,
+                    "y": 187.60791366906477
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

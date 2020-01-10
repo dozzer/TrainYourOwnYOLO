@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1ff04817ff5640392963bfac3b299053",
+        "name": "scas9i.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/scas9i.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1qsvp8kpK",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 62.31226007677543,
+                "width": 102.26781857451404,
+                "left": 350.5993520518358,
+                "top": 227.41302783109404
+            },
+            "points": [
+                {
+                    "x": 350.5993520518358,
+                    "y": 227.41302783109404
+                },
+                {
+                    "x": 452.8671706263499,
+                    "y": 227.41302783109404
+                },
+                {
+                    "x": 452.8671706263499,
+                    "y": 289.7252879078695
+                },
+                {
+                    "x": 350.5993520518358,
+                    "y": 289.7252879078695
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

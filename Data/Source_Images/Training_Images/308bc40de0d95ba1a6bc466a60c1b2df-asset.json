@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "308bc40de0d95ba1a6bc466a60c1b2df",
+        "name": "2019_New_Mexico_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2019_New_Mexico_License_Plate.jpg",
+        "size": {
+            "width": 1977,
+            "height": 981
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3MkY4mitl",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 976.8507199754902,
+                "width": 1971.2955757289417,
+                "left": 5.704424271058315,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 5.704424271058315,
+                    "y": 0
+                },
+                {
+                    "x": 1977,
+                    "y": 0
+                },
+                {
+                    "x": 1977,
+                    "y": 976.8507199754902
+                },
+                {
+                    "x": 5.704424271058315,
+                    "y": 976.8507199754902
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

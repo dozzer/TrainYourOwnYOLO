@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f2e81be0c8bbbb1415ff8ebb1268d022",
+        "name": "Georgia_License_Plate_Chatham_County_PLK7665.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia_License_Plate_Chatham_County_PLK7665.png",
+        "size": {
+            "width": 1600,
+            "height": 806
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8XrCoP7yO",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 803.4190920064378,
+                "width": 1596.1663066954643,
+                "left": 3.833693304535637,
+                "top": 2.580907993562232
+            },
+            "points": [
+                {
+                    "x": 3.833693304535637,
+                    "y": 2.580907993562232
+                },
+                {
+                    "x": 1600,
+                    "y": 2.580907993562232
+                },
+                {
+                    "x": 1600,
+                    "y": 806
+                },
+                {
+                    "x": 3.833693304535637,
+                    "y": 806
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

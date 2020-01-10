@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "ffe83450cd55d61b12ebde495dcd050e",
+        "name": "2880px-USA_licenseplate_New_York_(cropped).jpeg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-USA_licenseplate_New_York_(cropped).jpeg",
+        "size": {
+            "width": 2879,
+            "height": 1462
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4jwDU49Zu",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1440.0068151595744,
+                "width": 2870.4621988053455,
+                "left": 8.537801194654428,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 8.537801194654428,
+                    "y": 0
+                },
+                {
+                    "x": 2879,
+                    "y": 0
+                },
+                {
+                    "x": 2879,
+                    "y": 1440.0068151595744
+                },
+                {
+                    "x": 8.537801194654428,
+                    "y": 1440.0068151595744
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

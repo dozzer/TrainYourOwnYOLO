@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b0a69856520cc3209cdd1419da0aaaec",
+        "name": "Wyoming.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Wyoming.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DmcHVlQ13",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 143.52922661870505,
+                "width": 274.5572354211663,
+                "left": 22.315064794816415,
+                "top": 39.34937050359712
+            },
+            "points": [
+                {
+                    "x": 22.315064794816415,
+                    "y": 39.34937050359712
+                },
+                {
+                    "x": 296.8723002159827,
+                    "y": 39.34937050359712
+                },
+                {
+                    "x": 296.8723002159827,
+                    "y": 182.87859712230218
+                },
+                {
+                    "x": 22.315064794816415,
+                    "y": 182.87859712230218
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

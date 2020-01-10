@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ec5643db6750592bc8cb85b35d9ad7d3",
+        "name": "MassPlateGreen1.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MassPlateGreen1.jpg",
+        "size": {
+            "width": 972,
+            "height": 486
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VUoUqKxaZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 481.70288876889845,
+                "width": 964.8941853401727,
+                "left": 7.105814659827214,
+                "top": 4.297111231101511
+            },
+            "points": [
+                {
+                    "x": 7.105814659827214,
+                    "y": 4.297111231101511
+                },
+                {
+                    "x": 972,
+                    "y": 4.297111231101511
+                },
+                {
+                    "x": 972,
+                    "y": 486
+                },
+                {
+                    "x": 7.105814659827214,
+                    "y": 486
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

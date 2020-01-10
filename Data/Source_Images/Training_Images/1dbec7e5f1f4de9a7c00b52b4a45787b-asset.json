@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1dbec7e5f1f4de9a7c00b52b4a45787b",
+        "name": "m73w3f.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/m73w3f.jpg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LnfFExQ_E",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 66.85251798561151,
+                "width": 94.60043196544275,
+                "left": 183.52051835853132,
+                "top": 265.8021582733813
+            },
+            "points": [
+                {
+                    "x": 183.52051835853132,
+                    "y": 265.8021582733813
+                },
+                {
+                    "x": 278.12095032397406,
+                    "y": 265.8021582733813
+                },
+                {
+                    "x": 278.12095032397406,
+                    "y": 332.6546762589928
+                },
+                {
+                    "x": 183.52051835853132,
+                    "y": 332.6546762589928
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2102462b8adbc4cbb15a43d69148cf40",
+        "name": "2007_Alaska_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2007_Alaska_License_Plate.jpg",
+        "size": {
+            "width": 420,
+            "height": 210
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "C3wQYfLNf",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 208.82002564794817,
+                "width": 418.1325931425486,
+                "left": 1.867406857451404,
+                "top": 1.1799743520518358
+            },
+            "points": [
+                {
+                    "x": 1.867406857451404,
+                    "y": 1.1799743520518358
+                },
+                {
+                    "x": 420,
+                    "y": 1.1799743520518358
+                },
+                {
+                    "x": 420,
+                    "y": 210
+                },
+                {
+                    "x": 1.867406857451404,
+                    "y": 210
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

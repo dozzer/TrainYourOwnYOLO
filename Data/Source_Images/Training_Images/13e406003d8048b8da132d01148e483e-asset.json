@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "13e406003d8048b8da132d01148e483e",
+        "name": "wvcu4t.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/wvcu4t.jpg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N3nySauQa",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 85.62410071942446,
+                "width": 117.61879049676025,
+                "left": 564.9892008639308,
+                "top": 427.80755395683457
+            },
+            "points": [
+                {
+                    "x": 564.9892008639308,
+                    "y": 427.80755395683457
+                },
+                {
+                    "x": 682.6079913606911,
+                    "y": 427.80755395683457
+                },
+                {
+                    "x": 682.6079913606911,
+                    "y": 513.431654676259
+                },
+                {
+                    "x": 564.9892008639308,
+                    "y": 513.431654676259
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

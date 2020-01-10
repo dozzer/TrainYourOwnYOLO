@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9f053153dc282cfa127d38ac52555a72",
+        "name": "2007_Wisconsin_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2007_Wisconsin_License_Plate.jpg",
+        "size": {
+            "width": 435,
+            "height": 220
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "b9YtAOLPT",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 218.48323985042734,
+                "width": 434.0054248785097,
+                "left": 0.9945751214902807,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.9945751214902807,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 218.48323985042734
+                },
+                {
+                    "x": 0.9945751214902807,
+                    "y": 218.48323985042734
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

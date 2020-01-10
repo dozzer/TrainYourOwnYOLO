@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "573070716213885c424bb22ba48dbe00",
+        "name": "gbfux6.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/gbfux6.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rv8vxdwBT",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 82.32635556621881,
+                "width": 141.77105831533478,
+                "left": 210.25917926565876,
+                "top": 492.5653790786948
+            },
+            "points": [
+                {
+                    "x": 210.25917926565876,
+                    "y": 492.5653790786948
+                },
+                {
+                    "x": 352.03023758099357,
+                    "y": 492.5653790786948
+                },
+                {
+                    "x": 352.03023758099357,
+                    "y": 574.8917346449135
+                },
+                {
+                    "x": 210.25917926565876,
+                    "y": 574.8917346449135
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c39325f1414cd7b5524b16e995d22aba",
+        "name": "Ohio_license_plate_sample_2001.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio_license_plate_sample_2001.jpg",
+        "size": {
+            "width": 435,
+            "height": 220
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JBR-zPUqY",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 216.56433627136752,
+                "width": 430.608822387959,
+                "left": 4.391177612041036,
+                "top": 3.4356637286324787
+            },
+            "points": [
+                {
+                    "x": 4.391177612041036,
+                    "y": 3.4356637286324787
+                },
+                {
+                    "x": 435,
+                    "y": 3.4356637286324787
+                },
+                {
+                    "x": 435,
+                    "y": 220
+                },
+                {
+                    "x": 4.391177612041036,
+                    "y": 220
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

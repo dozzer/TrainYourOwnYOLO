@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c6123a590f808b6e3d9c9c79299c332d",
+        "name": "Arizona_license_plate,_1980%E2%80%931996_series_with_March_1998_sticker.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arizona_license_plate,_1980%E2%80%931996_series_with_March_1998_sticker.png",
+        "size": {
+            "width": 1200,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aGP1TjBuM",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 598.4307505399569,
+                "width": 1195.4036177105831,
+                "left": 4.596382289416847,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 4.596382289416847,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 598.4307505399569
+                },
+                {
+                    "x": 4.596382289416847,
+                    "y": 598.4307505399569
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

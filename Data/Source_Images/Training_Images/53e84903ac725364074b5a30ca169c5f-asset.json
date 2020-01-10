@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53e84903ac725364074b5a30ca169c5f",
+        "name": "GUAM_1999_COMMERCIAL_TRUCK_license_plate_Flickr_-_woody1778a.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/GUAM_1999_COMMERCIAL_TRUCK_license_plate_Flickr_-_woody1778a.jpg",
+        "size": {
+            "width": 2371,
+            "height": 1223
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hGRd4isDx",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1211.4164405726985,
+                "width": 2338.1038952821273,
+                "left": 32.89610471787257,
+                "top": 11.583559427301255
+            },
+            "points": [
+                {
+                    "x": 32.89610471787257,
+                    "y": 11.583559427301255
+                },
+                {
+                    "x": 2371,
+                    "y": 11.583559427301255
+                },
+                {
+                    "x": 2371,
+                    "y": 1223
+                },
+                {
+                    "x": 32.89610471787257,
+                    "y": 1223
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

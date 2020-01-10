@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "b174d1c4caec79dd02b9d6c85fc176d5",
+        "name": "Virginia_license_plate,_1979%E2%80%931992_series_with_February_1983_sticker.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Virginia_license_plate,_1979%E2%80%931992_series_with_February_1983_sticker.png",
+        "size": {
+            "width": 400,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1crfVbyHC",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 199.52585043196544,
+                "width": 398.90152537796973,
+                "left": 1.0984746220302375,
+                "top": 0.4741495680345572
+            },
+            "points": [
+                {
+                    "x": 1.0984746220302375,
+                    "y": 0.4741495680345572
+                },
+                {
+                    "x": 400,
+                    "y": 0.4741495680345572
+                },
+                {
+                    "x": 400,
+                    "y": 200
+                },
+                {
+                    "x": 1.0984746220302375,
+                    "y": 200
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

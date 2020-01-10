@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e28b09bac09e83d7e0b14d9ead870d5b",
+        "name": "MVA_MDProud_LicensePlate_390px.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MVA_MDProud_LicensePlate_390px.png",
+        "size": {
+            "width": 376,
+            "height": 192
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JfinCisgu",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 190.6553911205074,
+                "width": 374.56614470842334,
+                "left": 1.4338552915766738,
+                "top": 1.3446088794926003
+            },
+            "points": [
+                {
+                    "x": 1.4338552915766738,
+                    "y": 1.3446088794926003
+                },
+                {
+                    "x": 376,
+                    "y": 1.3446088794926003
+                },
+                {
+                    "x": 376,
+                    "y": 192
+                },
+                {
+                    "x": 1.4338552915766738,
+                    "y": 192
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

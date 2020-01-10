@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "23458a2e5eff50bb283549dedb48bab4",
+        "name": "xarcw2.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xarcw2.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "s8AoIVDYF",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 83.72720729366601,
+                "width": 139.64092872570197,
+                "left": 404.5788336933046,
+                "top": 214.9214251439539
+            },
+            "points": [
+                {
+                    "x": 404.5788336933046,
+                    "y": 214.9214251439539
+                },
+                {
+                    "x": 544.2197624190065,
+                    "y": 214.9214251439539
+                },
+                {
+                    "x": 544.2197624190065,
+                    "y": 298.64863243761994
+                },
+                {
+                    "x": 404.5788336933046,
+                    "y": 298.64863243761994
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

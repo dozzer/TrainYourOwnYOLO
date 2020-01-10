@@ -5,7 +5,7 @@
         "name": "Connection",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTc0Zjk4ODZhY2E4YjllNjY1MTMwYmFlZTVmZGY5ZWEwYWVkNGY2MzE0N2ViMzkwY2JiZTM2NzBmMTI4MDczNTlmMzhmMThlNzg5NTFhNWY0ZjFiMmJmMTk3MWZhODZkZThkMjk5ZDU0MDdkNjk3ODg3YWM4MTQzYjQyZjZhODA5MTFlNGQzZjRiMjQwZjliZmY4NzcxNmEyYWIxZTQ0ZTAyMzBjMjk2YTI2MDZhMzgwMWZlNTc1YmZjZTBiN2MxODhkZjdhYzk0MTQxZWUyZmNmNDBiYzIxOTlhZDM2OGIiLCJpdiI6ImMwYWRiMTk4MzE3YTc2ZWJjOGQ5YmUxZTY0NzI0OTc4NDg5NTJlM2ZhYTgxNWQ4MyJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTJjMjc5ZmFhZWFlYmZkNDEzNGM3NzlhZjAxM2VmNjdmOWM0NDQzZjg3OTFkODM5YTc0YTNhYTRkMDFjZWNiZDcwMzVjMzMzM2YxMGQ4YjZmMTAxY2QxOWU0YWQ3ZWM5ZTY4ZTYzZDEwM2U1MDg1ZjAwMThhNGNlZjNkZGJkNzFhMjU2NGFjZTg3NTIwMjNmYmRkNWI4ZTY3ZmVhNDcxZThhMzI1ODhhZTJjMDdkNDNmMzFjY2Q1ODI0NzBhMzJlYTRiNDZkN2E1NDY5YzgwNTAyOGEwNDk1MzdhODA4ZmUiLCJpdiI6IjU3ZTM3Nzg4NGFhMmRmMjI1NzQ3ZWQ1ZTYxNDMwZGUyMmU0N2M4NGZjOTI5NDgyZCJ9"
         },
         "id": "Vz5XQDzew"
     },
@@ -13,7 +13,7 @@
         "name": "Target",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGM3OTAyMTRmMTk0Y2ZiNWM4NzEzNmM3ZjcxNTdiYTk4NGUwZjg2NDlkZDY1MDViOWFiMTA0MzRlZmZlNTRiZjBiYjg5MjI3NDRiNzQ3YWZkMjJlNjMwNTI5MmU4MDg5ZGIwODNhMzIxYmEyNmE2MzFhNjAxMWNjOTU2ZDJkOGNkMTkyN2E5NWYzNDhkOTM1NWRmZGU1YjczZGM2ZWQ2ZjU1ZjA2ZTZlOGNiNDBiNzIxMzMwNjczYmRkZWY4MjMyMGZiN2M1ZWE1NGMzMDc2N2U2ZjQxMTc2NTBjMmI0Y2UiLCJpdiI6IjNlMjdkZjljYWFiYWVlNzAzMTEzMGM5ZDU3YmQxYWZjYjliMjQ4ZGFiZjIyYTBiYiJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGY2NDRhODFkZjA4NTZhZmUxMjU4YzdmODUxNTFiZTQ5MzQyODE3MmE4N2E1OWI0ZDIwMDk2OTIyYTA4MjhmYjhlMjY0N2RhZmI2ZmUzMjA1NDMwODVlNGVhZWZlNTk2ZTBhY2Q1MjVlY2ZhNTdjZWQzMTZmOWMxZGI3OWEyMzAyZWUwYTZjNDAxMmE3ZGVmNDAyMTQ3YmM4MWU5ODg1MTZiNDViYmI1YzQwM2VmOGEwNGFjNDE1NjQ2MTMyNTAzNGIzYzhiM2UyMDg3MjAwYTNkNTg1ZmUyZTg1OGU3YzkiLCJpdiI6Ijk2NWJjYzZjNTNlYjRmNzdjNDk5ZTU4OGE3ZGY5MjQyYTcxZmUxN2Q0NTc4OTc2NSJ9"
         },
         "id": "Gklhjy3FT"
     },
@@ -28,18 +28,20 @@
     ],
     "id": "FbN7PBmBa",
     "activeLearningSettings": {
+        "modelPathType": "file",
         "autoDetect": false,
-        "predictTag": true,
-        "modelPathType": "coco"
+        "predictTag": false,
+        "modelPath": "/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Model_Weights/1578592717",
+        "modelUrl": null
     },
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjM5NjFjNzg1ODFiNzczMzE5NWQ3Yjc0NjEyYWE2OGFhZjMyYjgzOTBhNTc1MTU2YjhkMDdlM2Y4Y2U2MjNmYjU5MTM0ZWZiYTJmMjUwMWJjNDA4NGU0ZjhhYzZkMjNlIiwiaXYiOiJjNzcxOTI0MmFmMzExMjYwYTBlYTAxMGQ5NjkxMGM5Mzk2YmNhZWM5Y2MyMzA4ZTAifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTYwN2ZhMDQxODA0NDc3MTNjM2UyMzczNGQ2OTcxZDM0ZmI3N2EyZmE2MjFlYzcxNTBiNTViMGFjOTJhYzQwYjI3YzdiNWMzOTkyODdhNDA0YzNhYTYxZDI1ZmY3MmNhIiwiaXYiOiJjY2RlMWI0ODMxOGUwOGFmYjMwMjc2MTNiYTI4ZDc2OGMxNmFmN2QwNzBhNDYyYzMifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "89a1fdb2826a55fe2fc103102efa8293",
+    "lastVisitedAssetId": "42a3079f0e5aac08132cd7d0e546f8c9",
     "assets": {
         "5d441035b11e454164df1591bbe4f7d2": {
             "format": "jpg",
@@ -1383,7 +1385,7 @@
                 "width": 4032,
                 "height": 3024
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "b230ff8791c339ce53f3fa5d3842a336": {
@@ -2054,6 +2056,3455 @@
             "size": {
                 "width": 3264,
                 "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c345cdbaf4ca93d1a23342bd170851bf": {
+            "format": "jpg",
+            "id": "c345cdbaf4ca93d1a23342bd170851bf",
+            "name": "ztp5pn.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ztp5pn.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79c8b313b8681770b5c061ba4bd06182": {
+            "format": "jpg",
+            "id": "79c8b313b8681770b5c061ba4bd06182",
+            "name": "zthhhz.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/zthhhz.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90b85bb0315b078912affa01553ab2fa": {
+            "format": "jpg",
+            "id": "90b85bb0315b078912affa01553ab2fa",
+            "name": "zg9ygd.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/zg9ygd.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9477264a671bd94b5700b843ced7355": {
+            "format": "jpg",
+            "id": "c9477264a671bd94b5700b843ced7355",
+            "name": "yuqrm8.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/yuqrm8.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2211ee37d74c7f29ff19216841bf2b28": {
+            "format": "jpg",
+            "id": "2211ee37d74c7f29ff19216841bf2b28",
+            "name": "xyn5n2.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xyn5n2.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "576121594bc1c8124b9be6534332d359": {
+            "format": "jpg",
+            "id": "576121594bc1c8124b9be6534332d359",
+            "name": "xic1el.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xic1el.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1135c08789802cf42bcdda729ad1892a": {
+            "format": "jpg",
+            "id": "1135c08789802cf42bcdda729ad1892a",
+            "name": "xdhq8a.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xdhq8a.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23458a2e5eff50bb283549dedb48bab4": {
+            "format": "jpg",
+            "id": "23458a2e5eff50bb283549dedb48bab4",
+            "name": "xarcw2.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xarcw2.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdd47bde647202bc133fef584cec138": {
+            "format": "jpg",
+            "id": "3bdd47bde647202bc133fef584cec138",
+            "name": "x5mut4.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/x5mut4.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7f1d3c72ad80a7a375d1b3cbab6ae23": {
+            "format": "jpg",
+            "id": "f7f1d3c72ad80a7a375d1b3cbab6ae23",
+            "name": "x1up8p.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/x1up8p.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13e406003d8048b8da132d01148e483e": {
+            "format": "jpg",
+            "id": "13e406003d8048b8da132d01148e483e",
+            "name": "wvcu4t.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/wvcu4t.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b356aceeed67687742de53bd763bdbd": {
+            "format": "jpg",
+            "id": "3b356aceeed67687742de53bd763bdbd",
+            "name": "w31ws0.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/w31ws0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b86f40f4563956a8f48af97456be7641": {
+            "format": "jpg",
+            "id": "b86f40f4563956a8f48af97456be7641",
+            "name": "w08ovi.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/w08ovi.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be4ed261d881418805b5cad18de81831": {
+            "format": "jpg",
+            "id": "be4ed261d881418805b5cad18de81831",
+            "name": "vmzv7b.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vmzv7b.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72f24c6d8926310d28dccea24727ceb2": {
+            "format": "jpg",
+            "id": "72f24c6d8926310d28dccea24727ceb2",
+            "name": "vkpxdr.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vkpxdr.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d51f839ee8f346ccc2811ad8296410b": {
+            "format": "jpg",
+            "id": "9d51f839ee8f346ccc2811ad8296410b",
+            "name": "vipuh1.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vipuh1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6bc7d3fccc801edd043e5990f8ca7c2": {
+            "format": "jpg",
+            "id": "e6bc7d3fccc801edd043e5990f8ca7c2",
+            "name": "uqxrf1.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/uqxrf1.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bb8ab5f53fa986823fb631cb026c90f": {
+            "format": "jpg",
+            "id": "6bb8ab5f53fa986823fb631cb026c90f",
+            "name": "u8z9zk.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/u8z9zk.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f42c86d9ed538c823a5ea5e09b35bdd9": {
+            "format": "jpg",
+            "id": "f42c86d9ed538c823a5ea5e09b35bdd9",
+            "name": "u0pubs.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/u0pubs.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2166baaa82a7a33c1c6736abdb610d5a": {
+            "format": "jpg",
+            "id": "2166baaa82a7a33c1c6736abdb610d5a",
+            "name": "twwoyh.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/twwoyh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0aad817afefc881af090c4d09d7a4d36": {
+            "format": "jpg",
+            "id": "0aad817afefc881af090c4d09d7a4d36",
+            "name": "tl5o8q.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/tl5o8q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d308944833f2e69cf9501644aa5163a6": {
+            "format": "jpg",
+            "id": "d308944833f2e69cf9501644aa5163a6",
+            "name": "tdxmlp.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/tdxmlp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8ff431273bda7b587ddf33b71e8177e": {
+            "format": "jpg",
+            "id": "f8ff431273bda7b587ddf33b71e8177e",
+            "name": "t4b38h.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/t4b38h.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "003e7f580cc9c44214ba0719defa0752": {
+            "format": "jpg",
+            "id": "003e7f580cc9c44214ba0719defa0752",
+            "name": "t16wm3.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/t16wm3.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f81484c86ed26604e390f13b2be10cb7": {
+            "format": "jpg",
+            "id": "f81484c86ed26604e390f13b2be10cb7",
+            "name": "syrdo6.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/syrdo6.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88d1040aec7dc79c597c4bb2424cb3e7": {
+            "format": "jpg",
+            "id": "88d1040aec7dc79c597c4bb2424cb3e7",
+            "name": "ssealv.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ssealv.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85ec522839f02c583d8b8a0b886cddef": {
+            "format": "jpg",
+            "id": "85ec522839f02c583d8b8a0b886cddef",
+            "name": "sf9wi0.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/sf9wi0.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc3b3b0af60af120f0aadb3470e864e4": {
+            "format": "jpg",
+            "id": "fc3b3b0af60af120f0aadb3470e864e4",
+            "name": "scb14r.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/scb14r.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ff04817ff5640392963bfac3b299053": {
+            "format": "jpg",
+            "id": "1ff04817ff5640392963bfac3b299053",
+            "name": "scas9i.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/scas9i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d5f49115b4baae1ffab633f3ff3fee5": {
+            "format": "jpg",
+            "id": "8d5f49115b4baae1ffab633f3ff3fee5",
+            "name": "s1fcgt.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/s1fcgt.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ebe617df936f6d737e095f0999d84df": {
+            "format": "jpg",
+            "id": "8ebe617df936f6d737e095f0999d84df",
+            "name": "rwclxp.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/rwclxp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fdd456a6233ba803225632770063d8cf": {
+            "format": "jpg",
+            "id": "fdd456a6233ba803225632770063d8cf",
+            "name": "rrgvv7.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/rrgvv7.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bbf24a1fa8f3b82c2d233a7dbf3617e": {
+            "format": "jpg",
+            "id": "1bbf24a1fa8f3b82c2d233a7dbf3617e",
+            "name": "qufu8j.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/qufu8j.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1dd8e56e234d1dd493afd059410745b6": {
+            "format": "jpg",
+            "id": "1dd8e56e234d1dd493afd059410745b6",
+            "name": "qeqkkt.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/qeqkkt.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "828653b984430e0a0c28a45546b70779": {
+            "format": "jpg",
+            "id": "828653b984430e0a0c28a45546b70779",
+            "name": "pps0kh.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pps0kh.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e64b52af2f5b1242782543cabb873753": {
+            "format": "jpg",
+            "id": "e64b52af2f5b1242782543cabb873753",
+            "name": "p5ixva.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/p5ixva.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "144b58769503faa461a45f7af5a13e82": {
+            "format": "jpg",
+            "id": "144b58769503faa461a45f7af5a13e82",
+            "name": "osgyeh.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/osgyeh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce3b43d4f7d56b54bda73653bda72bb8": {
+            "format": "jpg",
+            "id": "ce3b43d4f7d56b54bda73653bda72bb8",
+            "name": "onpu6a.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/onpu6a.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43ce8248da14563a0600a0c5e9770b10": {
+            "format": "jpg",
+            "id": "43ce8248da14563a0600a0c5e9770b10",
+            "name": "o95wpk.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/o95wpk.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "279b68fb8de88122eadbb91a13b7232f": {
+            "format": "jpg",
+            "id": "279b68fb8de88122eadbb91a13b7232f",
+            "name": "o7at7q.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/o7at7q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24c1e0aaafbcaa88270dd61e33a62ffe": {
+            "format": "jpg",
+            "id": "24c1e0aaafbcaa88270dd61e33a62ffe",
+            "name": "o2irsh.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/o2irsh.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00d8d83e7e37fbcd63539e98b8b75aea": {
+            "format": "jpg",
+            "id": "00d8d83e7e37fbcd63539e98b8b75aea",
+            "name": "ntj8e8.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ntj8e8.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c874d8f8f453bcd4f13b7edc7f73031c": {
+            "format": "jpg",
+            "id": "c874d8f8f453bcd4f13b7edc7f73031c",
+            "name": "nrywyu.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/nrywyu.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22f90bcf35065ff28141f25c8cac46b2": {
+            "format": "jpg",
+            "id": "22f90bcf35065ff28141f25c8cac46b2",
+            "name": "ncjz03.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ncjz03.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65dd3bd2f057f5f370cddbcc1475c2a2": {
+            "format": "jpg",
+            "id": "65dd3bd2f057f5f370cddbcc1475c2a2",
+            "name": "mpbli4.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/mpbli4.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8dd57073888588c9e65975d41c9d37d5": {
+            "format": "jpg",
+            "id": "8dd57073888588c9e65975d41c9d37d5",
+            "name": "m7nvh8.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/m7nvh8.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1dbec7e5f1f4de9a7c00b52b4a45787b": {
+            "format": "jpg",
+            "id": "1dbec7e5f1f4de9a7c00b52b4a45787b",
+            "name": "m73w3f.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/m73w3f.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a725767ae96dafbcc9088e6466e5fb52": {
+            "format": "jpg",
+            "id": "a725767ae96dafbcc9088e6466e5fb52",
+            "name": "lnpbfb.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/lnpbfb.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a77b520e88a8b658d19effd8e666025": {
+            "format": "jpg",
+            "id": "3a77b520e88a8b658d19effd8e666025",
+            "name": "lbzjjo.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/lbzjjo.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31ab204ce0095707cec09aad7dfe108d": {
+            "format": "jpg",
+            "id": "31ab204ce0095707cec09aad7dfe108d",
+            "name": "lalc3n.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/lalc3n.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01691a28119f91a5a040a61f7fe1abd3": {
+            "format": "jpg",
+            "id": "01691a28119f91a5a040a61f7fe1abd3",
+            "name": "kzds8q.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/kzds8q.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a9c414f273485be61fe165112573302": {
+            "format": "jpg",
+            "id": "4a9c414f273485be61fe165112573302",
+            "name": "krva4r.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/krva4r.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab7f5b5276795aa9a895db594d768d1d": {
+            "format": "jpg",
+            "id": "ab7f5b5276795aa9a895db594d768d1d",
+            "name": "klj0gg.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/klj0gg.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9397a2747c49746d63f12ebf2973e2b7": {
+            "format": "jpg",
+            "id": "9397a2747c49746d63f12ebf2973e2b7",
+            "name": "0iuunu.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/0iuunu.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed87ea898e1545f1f3613088d89d7879": {
+            "format": "jpg",
+            "id": "ed87ea898e1545f1f3613088d89d7879",
+            "name": "0ok5hw.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/0ok5hw.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58b139207472d5a78d5facf531739cf3": {
+            "format": "png",
+            "id": "58b139207472d5a78d5facf531739cf3",
+            "name": "1.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7536093344772ad9cce1813c8a8016f": {
+            "format": "png",
+            "id": "e7536093344772ad9cce1813c8a8016f",
+            "name": "10.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/10.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e3b2f99cf6e52c3b7ce6c7028036deb": {
+            "format": "JPG",
+            "id": "6e3b2f99cf6e52c3b7ce6c7028036deb",
+            "name": "11.JPG",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/11.JPG",
+            "size": {
+                "width": 3000,
+                "height": 2250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39a30cae2086ec5a8ea2dc0d1e7ffe71": {
+            "format": "png",
+            "id": "39a30cae2086ec5a8ea2dc0d1e7ffe71",
+            "name": "12.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/12.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd6eb5f92a91cb68605f1660721e3288": {
+            "format": "jpg",
+            "id": "dd6eb5f92a91cb68605f1660721e3288",
+            "name": "16wah3.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/16wah3.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7b8b31e53228a36cb83d9bd2baf221f": {
+            "format": "jpg",
+            "id": "d7b8b31e53228a36cb83d9bd2baf221f",
+            "name": "1954_Delaware_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1954_Delaware_license_plate.jpg",
+            "size": {
+                "width": 771,
+                "height": 374
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b3f2fd8114a6df547c99cc29979d9b5": {
+            "format": "jpg",
+            "id": "2b3f2fd8114a6df547c99cc29979d9b5",
+            "name": "1959_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1959_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d3f5217bc7a03e8fe7b0f4a06f18d72": {
+            "format": "jpg",
+            "id": "8d3f5217bc7a03e8fe7b0f4a06f18d72",
+            "name": "1963_California_license_plate_SAM-123.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1963_California_license_plate_SAM-123.jpg",
+            "size": {
+                "width": 500,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e59a9676a9a951ed1255048601bb8916": {
+            "format": "jpg",
+            "id": "e59a9676a9a951ed1255048601bb8916",
+            "name": "1970_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1970_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec7c95b7b8a858139794397c8c625686": {
+            "format": "jpg",
+            "id": "ec7c95b7b8a858139794397c8c625686",
+            "name": "1973_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1973_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fc23ddf5f37d92a7fb07e3dbb0df651": {
+            "format": "jpg",
+            "id": "3fc23ddf5f37d92a7fb07e3dbb0df651",
+            "name": "1979_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1979_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f2761412c1c9ef7c6dfce96fc7bb487": {
+            "format": "jpg",
+            "id": "3f2761412c1c9ef7c6dfce96fc7bb487",
+            "name": "1981_California_license_plate_002_ZZZ.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1981_California_license_plate_002_ZZZ.jpg",
+            "size": {
+                "width": 500,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33ae09ede9f951b49e399914c3b4650a": {
+            "format": "png",
+            "id": "33ae09ede9f951b49e399914c3b4650a",
+            "name": "1982%E2%80%931992_series_Colorado_license_plate,_1993.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1982%E2%80%931992_series_Colorado_license_plate,_1993.png",
+            "size": {
+                "width": 414,
+                "height": 208
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1fa683803a80135188fc6c240c299a2": {
+            "format": "jpg",
+            "id": "a1fa683803a80135188fc6c240c299a2",
+            "name": "1985_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1985_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8eb030e38c44387c45caaf62949cb1c": {
+            "format": "jpg",
+            "id": "b8eb030e38c44387c45caaf62949cb1c",
+            "name": "1988_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1988_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c16e65950f704eb008d02843ae8a67e9": {
+            "format": "jpg",
+            "id": "c16e65950f704eb008d02843ae8a67e9",
+            "name": "1990_New_Mexico_license_plate_999_NNN.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1990_New_Mexico_license_plate_999_NNN.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aba61543def165484f60d98f911259cf": {
+            "format": "jpg",
+            "id": "aba61543def165484f60d98f911259cf",
+            "name": "1991_Hawaii_license_plate_MNG_728.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1991_Hawaii_license_plate_MNG_728.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00cb297126a4f7cae8ebb80981ed1c4b": {
+            "format": "jpg",
+            "id": "00cb297126a4f7cae8ebb80981ed1c4b",
+            "name": "1992_New_Jersey_sample_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1992_New_Jersey_sample_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc46866639494a59a17ebfd469cfd217": {
+            "format": "png",
+            "id": "bc46866639494a59a17ebfd469cfd217",
+            "name": "1993%E2%80%932002_series_Virginian_license_plate,_with_October_2002_sticker.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1993%E2%80%932002_series_Virginian_license_plate,_with_October_2002_sticker.png",
+            "size": {
+                "width": 399,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2c9cc8896bfe9e38109e17fad5b0960": {
+            "format": "jpg",
+            "id": "e2c9cc8896bfe9e38109e17fad5b0960",
+            "name": "1995_Colorado_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1995_Colorado_License_Plate.jpg",
+            "size": {
+                "width": 437,
+                "height": 219
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b967493c8c67057934330d96582d041d": {
+            "format": "jpg",
+            "id": "b967493c8c67057934330d96582d041d",
+            "name": "1996_Ohio_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1996_Ohio_License_Plate.jpg",
+            "size": {
+                "width": 436,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d5a13d170948a228277215f665cd4cf": {
+            "format": "jpg",
+            "id": "8d5a13d170948a228277215f665cd4cf",
+            "name": "1997_New_Jersey_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1997_New_Jersey_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f83a4ade2efbe2b05df16e99c9b2948f": {
+            "format": "jpg",
+            "id": "f83a4ade2efbe2b05df16e99c9b2948f",
+            "name": "1998_California_license_plate_4SAM123.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1998_California_license_plate_4SAM123.jpg",
+            "size": {
+                "width": 500,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63032ffd6ebee4c0b894a4164a46dfdf": {
+            "format": "jpg",
+            "id": "63032ffd6ebee4c0b894a4164a46dfdf",
+            "name": "1998_Georgia_license_plate_3343_ALG.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1998_Georgia_license_plate_3343_ALG.jpg",
+            "size": {
+                "width": 1170,
+                "height": 613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4d347142214b9717c46b8cb27687ac2": {
+            "format": "jpg",
+            "id": "b4d347142214b9717c46b8cb27687ac2",
+            "name": "1u9q4z.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1u9q4z.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b78184b28567b63bce0dce65d46a8bd": {
+            "format": "jpg",
+            "id": "3b78184b28567b63bce0dce65d46a8bd",
+            "name": "1y4o6d.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1y4o6d.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c13b1737607dfc0e9eaa1692d4596f0": {
+            "format": "png",
+            "id": "6c13b1737607dfc0e9eaa1692d4596f0",
+            "name": "2.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cb99c0ae7c78ee55bec76e95a1adcf4": {
+            "format": "jpg",
+            "id": "7cb99c0ae7c78ee55bec76e95a1adcf4",
+            "name": "2000_Montana_Passenger_License_Plate_-_3M_Test_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2000_Montana_Passenger_License_Plate_-_3M_Test_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3699d98356daf701d63c7a71ae1a8be2": {
+            "format": "jpg",
+            "id": "3699d98356daf701d63c7a71ae1a8be2",
+            "name": "2001_Illinois_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2001_Illinois_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8ed4594c969324736f8262abd51083b": {
+            "format": "jpg",
+            "id": "b8ed4594c969324736f8262abd51083b",
+            "name": "2002_Virginia_license_plate_-_YHT-9919.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2002_Virginia_license_plate_-_YHT-9919.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24e7e38742ae0c1b685d7f701dfa3327": {
+            "format": "jpg",
+            "id": "24e7e38742ae0c1b685d7f701dfa3327",
+            "name": "2002_West_Virginia_license_plate_4JB_592.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2002_West_Virginia_license_plate_4JB_592.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "670ca3d983361ce69ab5311d1dc947c2": {
+            "format": "jpg",
+            "id": "670ca3d983361ce69ab5311d1dc947c2",
+            "name": "2003_Colorado_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2003_Colorado_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed8e779edb6418758fd7f768a28cec23": {
+            "format": "jpg",
+            "id": "ed8e779edb6418758fd7f768a28cec23",
+            "name": "2003_Virginia_License_Plate_Sample.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2003_Virginia_License_Plate_Sample.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c943919c47a8085790cec0ca4f2a56d6": {
+            "format": "jpg",
+            "id": "c943919c47a8085790cec0ca4f2a56d6",
+            "name": "2005_Maryland_Sample_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2005_Maryland_Sample_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a115356ba147448c66c43c63cbc2aa9b": {
+            "format": "jpg",
+            "id": "a115356ba147448c66c43c63cbc2aa9b",
+            "name": "2006_Arkansas_license_plate_514_KZE.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2006_Arkansas_license_plate_514_KZE.jpg",
+            "size": {
+                "width": 350,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "608434c1e90bcc2a4e10088cd7768bf3": {
+            "format": "jpg",
+            "id": "608434c1e90bcc2a4e10088cd7768bf3",
+            "name": "2006_Montana_Passenger_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2006_Montana_Passenger_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d62c9c76332d63f0b9f37d8ba912f01": {
+            "format": "jpg",
+            "id": "4d62c9c76332d63f0b9f37d8ba912f01",
+            "name": "2006_Virginia_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2006_Virginia_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2102462b8adbc4cbb15a43d69148cf40": {
+            "format": "jpg",
+            "id": "2102462b8adbc4cbb15a43d69148cf40",
+            "name": "2007_Alaska_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2007_Alaska_License_Plate.jpg",
+            "size": {
+                "width": 420,
+                "height": 210
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e4e004864462f70a4073a1b5bfb1039": {
+            "format": "jpg",
+            "id": "8e4e004864462f70a4073a1b5bfb1039",
+            "name": "20190727_124706.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/20190727_124706.jpg",
+            "size": {
+                "width": 3264,
+                "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "308bc40de0d95ba1a6bc466a60c1b2df": {
+            "format": "jpg",
+            "id": "308bc40de0d95ba1a6bc466a60c1b2df",
+            "name": "2019_New_Mexico_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2019_New_Mexico_License_Plate.jpg",
+            "size": {
+                "width": 1977,
+                "height": 981
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a97084c1422c0bae7408feee4d62877": {
+            "format": "jpg",
+            "id": "8a97084c1422c0bae7408feee4d62877",
+            "name": "2016_Nevada_license_plate_(front).jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2016_Nevada_license_plate_(front).jpg",
+            "size": {
+                "width": 2092,
+                "height": 1104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b306d521ec97de9d72c8a15c18e7b5c": {
+            "format": "jpg",
+            "id": "0b306d521ec97de9d72c8a15c18e7b5c",
+            "name": "2560px-Quinault_Indian_Nation_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2560px-Quinault_Indian_Nation_license_plate.jpg",
+            "size": {
+                "width": 2559,
+                "height": 1351
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d58ab9aeb51e4484c9b1b72ecd5c6c81": {
+            "format": "jpg",
+            "id": "d58ab9aeb51e4484c9b1b72ecd5c6c81",
+            "name": "2560px-Utah_1973_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2560px-Utah_1973_license_plate.jpg",
+            "size": {
+                "width": 2560,
+                "height": 1324
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1a8ad93fb509400f55c8d30921ac29d": {
+            "format": "jpg",
+            "id": "b1a8ad93fb509400f55c8d30921ac29d",
+            "name": "2q8wet.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2q8wet.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "477640a27fb2fecba1954629cf5ad4ae": {
+            "format": "jpg",
+            "id": "477640a27fb2fecba1954629cf5ad4ae",
+            "name": "2sqg9j.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2sqg9j.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfcad3758b4b4eb31ebc630602a8a9ee": {
+            "format": "png",
+            "id": "cfcad3758b4b4eb31ebc630602a8a9ee",
+            "name": "3.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/3.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2025482655309dc34661450d772c2b3a": {
+            "format": "jpg",
+            "id": "2025482655309dc34661450d772c2b3a",
+            "name": "337tf4.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/337tf4.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8eb76ba6338636451e460ae2e9dc570": {
+            "format": "png",
+            "id": "d8eb76ba6338636451e460ae2e9dc570",
+            "name": "4.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "144ed4816657c259572b0ed94268a1c0": {
+            "format": "jpg",
+            "id": "144ed4816657c259572b0ed94268a1c0",
+            "name": "468s3q.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/468s3q.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c069b6be041140886383319506d74ba7": {
+            "format": "jpg",
+            "id": "c069b6be041140886383319506d74ba7",
+            "name": "4dh9gq.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4dh9gq.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e85dd8d91669b0bc34a2321f26f9feb8": {
+            "format": "jpg",
+            "id": "e85dd8d91669b0bc34a2321f26f9feb8",
+            "name": "4k6jqd.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4k6jqd.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc2b6014ad2a82ca7baa20a4b37636f9": {
+            "format": "jpg",
+            "id": "dc2b6014ad2a82ca7baa20a4b37636f9",
+            "name": "4ri7c4.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4ri7c4.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f053153dc282cfa127d38ac52555a72": {
+            "format": "jpg",
+            "id": "9f053153dc282cfa127d38ac52555a72",
+            "name": "2007_Wisconsin_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2007_Wisconsin_License_Plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8f0bd84aba9845fe9161d6800b48f35": {
+            "format": "jpg",
+            "id": "f8f0bd84aba9845fe9161d6800b48f35",
+            "name": "2008_West_Virginia_license_plate_-_NAD_434.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2008_West_Virginia_license_plate_-_NAD_434.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cb5bbf9e240a2bb158a18540dbd5299": {
+            "format": "jpg",
+            "id": "0cb5bbf9e240a2bb158a18540dbd5299",
+            "name": "2009_Texas_license_plate_BM5_T299.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2009_Texas_license_plate_BM5_T299.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51a6874546c6cd500ab1e353c050df63": {
+            "format": "jpg",
+            "id": "51a6874546c6cd500ab1e353c050df63",
+            "name": "2012_Mississippi_license_plate_RAF_660.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2012_Mississippi_license_plate_RAF_660.jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4dfa27b96bac4b317639d4d4658e4a0": {
+            "format": "jpg",
+            "id": "f4dfa27b96bac4b317639d4d4658e4a0",
+            "name": "2012_Pennsylvania_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2012_Pennsylvania_license_plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 218
+            },
+            "state": 2,
+            "type": 1
+        },
+        "571c41fc0a568372f96fd39763897fab": {
+            "format": "jpg",
+            "id": "571c41fc0a568372f96fd39763897fab",
+            "name": "2013_North_Carolina_license_plate_-_BAC-5359.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2013_North_Carolina_license_plate_-_BAC-5359.jpg",
+            "size": {
+                "width": 350,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0e642b4ec9fe00f761509c20d484b2d": {
+            "format": "jpg",
+            "id": "a0e642b4ec9fe00f761509c20d484b2d",
+            "name": "2880px-1999_New_Hampshire_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-1999_New_Hampshire_license_plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1449
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bea66e7d9cb97db334702250784b581f": {
+            "format": "jpg",
+            "id": "bea66e7d9cb97db334702250784b581f",
+            "name": "2880px-2000_Ohio_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2000_Ohio_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30d744f4db1183bb7e81b482436fb064": {
+            "format": "jpg",
+            "id": "30d744f4db1183bb7e81b482436fb064",
+            "name": "2880px-2001_Delaware_license_plate_532484.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2001_Delaware_license_plate_532484.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1434
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26af916c31b68ba3ff6a1982bbb05c98": {
+            "format": "jpg",
+            "id": "26af916c31b68ba3ff6a1982bbb05c98",
+            "name": "2880px-2006_Georgia_license_plate_-_AAQ_7166.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2006_Georgia_license_plate_-_AAQ_7166.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1449
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6dc29dac5d60db111e61a543738fa1bf": {
+            "format": "jpg",
+            "id": "6dc29dac5d60db111e61a543738fa1bf",
+            "name": "2880px-2010_Idaho_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2010_Idaho_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1437
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45792540cb280c5d36d6e53ebcba476d": {
+            "format": "png",
+            "id": "45792540cb280c5d36d6e53ebcba476d",
+            "name": "2880px-2012_Texas_license_plate_ABC_1234.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2012_Texas_license_plate_ABC_1234.png",
+            "size": {
+                "width": 2880,
+                "height": 1395
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbd849e2c408bae9496bca692c0ba501": {
+            "format": "jpg",
+            "id": "fbd849e2c408bae9496bca692c0ba501",
+            "name": "2880px-2017_Utah_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2017_Utah_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1459
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c3d216b7077931aa084847ce6f6ec46": {
+            "format": "jpg",
+            "id": "7c3d216b7077931aa084847ce6f6ec46",
+            "name": "2880px-2018_Florida_license_plate_IYT_E32.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2018_Florida_license_plate_IYT_E32.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1431
+            },
+            "state": 2,
+            "type": 1
+        },
+        "119b65d78bb8e2be5dbb5e74ea4ae91d": {
+            "format": "jpg",
+            "id": "119b65d78bb8e2be5dbb5e74ea4ae91d",
+            "name": "2880px-Idaho_2007_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Idaho_2007_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1457
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36012f9985192ebadd028a1d9eba964a": {
+            "format": "png",
+            "id": "36012f9985192ebadd028a1d9eba964a",
+            "name": "2880px-Kentucky_License_Plate_Campbell_County_333XDB.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Kentucky_License_Plate_Campbell_County_333XDB.png",
+            "size": {
+                "width": 2880,
+                "height": 1470
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dea106a7e944748063f0a7d6a162d0b0": {
+            "format": "png",
+            "id": "dea106a7e944748063f0a7d6a162d0b0",
+            "name": "2880px-Louisiana_License_Plate_TXK512.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Louisiana_License_Plate_TXK512.png",
+            "size": {
+                "width": 2880,
+                "height": 1466
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97ef99f43b489a60a041741a074b0c7f": {
+            "format": "png",
+            "id": "97ef99f43b489a60a041741a074b0c7f",
+            "name": "2880px-Maine_License_Plate_6992LH.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Maine_License_Plate_6992LH.png",
+            "size": {
+                "width": 2880,
+                "height": 1449
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54ceb735ecb2d94bd673752212495517": {
+            "format": "jpg",
+            "id": "54ceb735ecb2d94bd673752212495517",
+            "name": "2880px-Michigan_1997_Great_Lakes_Splendor_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Michigan_1997_Great_Lakes_Splendor_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1444
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d097fec6d00634af68a6a88d775d3293": {
+            "format": "jpg",
+            "id": "d097fec6d00634af68a6a88d775d3293",
+            "name": "2880px-Michigan_2007_World's_Motor_Capital_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Michigan_2007_World's_Motor_Capital_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1434
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42a3079f0e5aac08132cd7d0e546f8c9": {
+            "format": "jpg",
+            "id": "42a3079f0e5aac08132cd7d0e546f8c9",
+            "name": "2880px-Michigan_2012_License_Plate-_1HA_W48.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Michigan_2012_License_Plate-_1HA_W48.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1434
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d6c3634c229fd962d3cdd90d956cf80": {
+            "format": "png",
+            "id": "4d6c3634c229fd962d3cdd90d956cf80",
+            "name": "5.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/5.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c18ed89ac61e0054e13eb7b1cfd132e2": {
+            "format": "jpg",
+            "id": "c18ed89ac61e0054e13eb7b1cfd132e2",
+            "name": "57pbsj.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/57pbsj.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "128743434d02dc6011cc18ae05ccb92e": {
+            "format": "png",
+            "id": "128743434d02dc6011cc18ae05ccb92e",
+            "name": "6.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/6.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e57f49c63a9a9b8d26115bd66dc6f34": {
+            "format": "jpg",
+            "id": "5e57f49c63a9a9b8d26115bd66dc6f34",
+            "name": "615n46.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/615n46.jpg",
+            "size": {
+                "width": 2592,
+                "height": 1944
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6efa660cfc9a41721e39f7bdd4120c3": {
+            "format": "jpg",
+            "id": "e6efa660cfc9a41721e39f7bdd4120c3",
+            "name": "699i1d.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/699i1d.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "398cf11d2b1b6fcb568028e5ea97a607": {
+            "format": "jpg",
+            "id": "398cf11d2b1b6fcb568028e5ea97a607",
+            "name": "6heml7.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/6heml7.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77c61b11deda867c6ab51d2966789ded": {
+            "format": "png",
+            "id": "77c61b11deda867c6ab51d2966789ded",
+            "name": "7.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61b0fb9256b7fc984a89d74ed12bd508": {
+            "format": "jpg",
+            "id": "61b0fb9256b7fc984a89d74ed12bd508",
+            "name": "73ow7i.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/73ow7i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0e0888be7cea2335241fe4640ec32dd": {
+            "format": "jpg",
+            "id": "e0e0888be7cea2335241fe4640ec32dd",
+            "name": "7kozy7.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7kozy7.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b07171f324204a6b4fe55f062650084": {
+            "format": "jpg",
+            "id": "4b07171f324204a6b4fe55f062650084",
+            "name": "7qbafv.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7qbafv.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a0218504d16170cda1a7575f5e19532": {
+            "format": "jpg",
+            "id": "3a0218504d16170cda1a7575f5e19532",
+            "name": "7qkxlx.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7qkxlx.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22b01b45d85d492836b195c7f14f3c14": {
+            "format": "jpg",
+            "id": "22b01b45d85d492836b195c7f14f3c14",
+            "name": "7wz1kb.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7wz1kb.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17ac2aeb9a090b82466cdfc0f6669692": {
+            "format": "jpg",
+            "id": "17ac2aeb9a090b82466cdfc0f6669692",
+            "name": "7z2pxp.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7z2pxp.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff23ac4b91d69c046ff243debc339c34": {
+            "format": "png",
+            "id": "ff23ac4b91d69c046ff243debc339c34",
+            "name": "8.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/8.png",
+            "size": {
+                "width": 3840,
+                "height": 2160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc4ee1a3498e0aa02f9bcadd85d6bef8": {
+            "format": "jpg",
+            "id": "dc4ee1a3498e0aa02f9bcadd85d6bef8",
+            "name": "8atx7d.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/8atx7d.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5624135c432070d66430202498c4605": {
+            "format": "jpg",
+            "id": "c5624135c432070d66430202498c4605",
+            "name": "8fme6w.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/8fme6w.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d6c8412a0fe01ffc43fdd9f0a007f46": {
+            "format": "jpg",
+            "id": "5d6c8412a0fe01ffc43fdd9f0a007f46",
+            "name": "8p7i0k.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/8p7i0k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c37fec30fa08a7bf53f2871d87b5bdf": {
+            "format": "png",
+            "id": "6c37fec30fa08a7bf53f2871d87b5bdf",
+            "name": "9.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/9.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d51d0baa07a3ce5cd712d7f5b235f05": {
+            "format": "jpg",
+            "id": "0d51d0baa07a3ce5cd712d7f5b235f05",
+            "name": "941li9.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/941li9.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f44addd11d748ffa2fd6fe276b93d4b4": {
+            "format": "jpg",
+            "id": "f44addd11d748ffa2fd6fe276b93d4b4",
+            "name": "98wvae.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/98wvae.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73d74a83a3194e0fe7f2736a6eecc834": {
+            "format": "jpg",
+            "id": "73d74a83a3194e0fe7f2736a6eecc834",
+            "name": "99ejno.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/99ejno.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8663bc1be30956abfff3e3913ec7751b": {
+            "format": "jpg",
+            "id": "8663bc1be30956abfff3e3913ec7751b",
+            "name": "Alabama.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Alabama.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06bfe2b33014e4e366535ab1921d6c02": {
+            "format": "png",
+            "id": "06bfe2b33014e4e366535ab1921d6c02",
+            "name": "Alabama_License_Plate_Pike_County_2017_55BC577.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Alabama_License_Plate_Pike_County_2017_55BC577.png",
+            "size": {
+                "width": 1600,
+                "height": 798
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa329cc1fc5873ce26fc9bed7d8e274e": {
+            "format": "jpg",
+            "id": "fa329cc1fc5873ce26fc9bed7d8e274e",
+            "name": "Alaska.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Alaska.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e6307a506adb15d1fb6dd3bb2f822b9": {
+            "format": "png",
+            "id": "0e6307a506adb15d1fb6dd3bb2f822b9",
+            "name": "American_Samoa_license_plate_2011_5504.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/American_Samoa_license_plate_2011_5504.png",
+            "size": {
+                "width": 392,
+                "height": 197
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f82192804b87e52c3c3f3e9e385d5fad": {
+            "format": "jpg",
+            "id": "f82192804b87e52c3c3f3e9e385d5fad",
+            "name": "Arizona.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arizona.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cafca964563ab3ee9ad1ca8ea37b137f": {
+            "format": "png",
+            "id": "cafca964563ab3ee9ad1ca8ea37b137f",
+            "name": "Arizona_License_Plate_2015_BJV7821.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arizona_License_Plate_2015_BJV7821.png",
+            "size": {
+                "width": 1600,
+                "height": 797
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "d79c37b2f994f5785027fe1a269469b8": {
+            "format": "jpg",
+            "id": "d79c37b2f994f5785027fe1a269469b8",
+            "name": "kbzbpv.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/kbzbpv.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57979b22484be98d1b3aca311ff69be7": {
+            "format": "jpg",
+            "id": "57979b22484be98d1b3aca311ff69be7",
+            "name": "js8xt6.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/js8xt6.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "3e634aa8456c04fba5840c94452fada6": {
+            "format": "png",
+            "id": "3e634aa8456c04fba5840c94452fada6",
+            "name": "2880px-Michigan_License_Plate_DJV1825.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Michigan_License_Plate_DJV1825.png",
+            "size": {
+                "width": 2880,
+                "height": 1446
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "4b4cf2d292a9e83c7b87c03f88218fe0": {
+            "format": "jpg",
+            "id": "4b4cf2d292a9e83c7b87c03f88218fe0",
+            "name": "IMG_20190804_143303.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190804_143303.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "e5ad2e2aefbfd1679d517d5a64894606": {
+            "format": "jpg",
+            "id": "e5ad2e2aefbfd1679d517d5a64894606",
+            "name": "IMG_20190811_154813.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190811_154813.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "36d728cd8411abfc63893cafd49c0b0e": {
+            "format": "jpg",
+            "id": "36d728cd8411abfc63893cafd49c0b0e",
+            "name": "Arkansas.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arkansas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0520e621b44769be298bdde270bda97c": {
+            "format": "jpg",
+            "id": "0520e621b44769be298bdde270bda97c",
+            "name": "California.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4868217d6afe4de12155cc87bde025d7": {
+            "format": "jpg",
+            "id": "4868217d6afe4de12155cc87bde025d7",
+            "name": "California_1SAM123_1980_Sample_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_1SAM123_1980_Sample_License_Plate.jpg",
+            "size": {
+                "width": 500,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b47aeeedb9ec02685b49144e6125ec46": {
+            "format": "jpg",
+            "id": "b47aeeedb9ec02685b49144e6125ec46",
+            "name": "jn7x1q.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/jn7x1q.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30a7316df41c5739bb5476246bf0cdf7": {
+            "format": "jpg",
+            "id": "30a7316df41c5739bb5476246bf0cdf7",
+            "name": "j25zrr.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/j25zrr.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59b2efd17bcc856bd0f1b5c561130dd7": {
+            "format": "jpg",
+            "id": "59b2efd17bcc856bd0f1b5c561130dd7",
+            "name": "izzts9.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/izzts9.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa7adc23707bc3a8c80d5dda8cbdf181": {
+            "format": "jpg",
+            "id": "fa7adc23707bc3a8c80d5dda8cbdf181",
+            "name": "hhd9ey.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/hhd9ey.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8890da5682b27cdccc42a4d0048508c1": {
+            "format": "jpg",
+            "id": "8890da5682b27cdccc42a4d0048508c1",
+            "name": "h1ijdo.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/h1ijdo.jpg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fd86e4e2cb280b0308b2153c9375ba7": {
+            "format": "jpg",
+            "id": "9fd86e4e2cb280b0308b2153c9375ba7",
+            "name": "gjpe1m.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/gjpe1m.jpg",
+            "size": {
+                "width": 837,
+                "height": 538
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94edccc6db3910137dab9fc1b30947c8": {
+            "format": "jpg",
+            "id": "94edccc6db3910137dab9fc1b30947c8",
+            "name": "gfmc0k.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/gfmc0k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "573070716213885c424bb22ba48dbe00": {
+            "format": "jpg",
+            "id": "573070716213885c424bb22ba48dbe00",
+            "name": "gbfux6.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/gbfux6.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad8f934b8c75ba8d7b1d0bd858bf2750": {
+            "format": "jpg",
+            "id": "ad8f934b8c75ba8d7b1d0bd858bf2750",
+            "name": "fbq92k.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/fbq92k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "512c227b820bfa242ad1da2d989fcb1c": {
+            "format": "jpg",
+            "id": "512c227b820bfa242ad1da2d989fcb1c",
+            "name": "f3i3fb.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/f3i3fb.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7c54dc8c384f45e3c4130366ef46f57": {
+            "format": "jpg",
+            "id": "a7c54dc8c384f45e3c4130366ef46f57",
+            "name": "f2u1nn.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/f2u1nn.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36f5d849aa83269dd3d6eb29c9aeab27": {
+            "format": "jpg",
+            "id": "36f5d849aa83269dd3d6eb29c9aeab27",
+            "name": "eixx3i.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/eixx3i.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0fda726c40219444c5cccc4e195a6b01": {
+            "format": "jpg",
+            "id": "0fda726c40219444c5cccc4e195a6b01",
+            "name": "e4t0rh.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/e4t0rh.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38185ffba9071fc73b1d0cb287cbdf3b": {
+            "format": "jpg",
+            "id": "38185ffba9071fc73b1d0cb287cbdf3b",
+            "name": "dd7vgz.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/dd7vgz.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb7863b1355fbb861ded55623e8dbc43": {
+            "format": "jpg",
+            "id": "cb7863b1355fbb861ded55623e8dbc43",
+            "name": "d6k97y.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/d6k97y.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df42870077590a34e2988e57fdeb9f40": {
+            "format": "jpg",
+            "id": "df42870077590a34e2988e57fdeb9f40",
+            "name": "chbeyn.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/chbeyn.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "08dffae3fbc5001ffde732f0b9dc8e8f": {
+            "format": "jpg",
+            "id": "08dffae3fbc5001ffde732f0b9dc8e8f",
+            "name": "bimqlm.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/bimqlm.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0a69856520cc3209cdd1419da0aaaec": {
+            "format": "jpg",
+            "id": "b0a69856520cc3209cdd1419da0aaaec",
+            "name": "Wyoming.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Wyoming.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a54248ef2c8d1ce640524a99db345286": {
+            "format": "jpg",
+            "id": "a54248ef2c8d1ce640524a99db345286",
+            "name": "Wisconsin.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Wisconsin.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43807845ab36f201b03e7f1c7e8fae53": {
+            "format": "jpg",
+            "id": "43807845ab36f201b03e7f1c7e8fae53",
+            "name": "WestVirginia.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/WestVirginia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "934b446991800b0d33be7f529fdd4931": {
+            "format": "jpg",
+            "id": "934b446991800b0d33be7f529fdd4931",
+            "name": "Washington_State_License_Plate_2019.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Washington_State_License_Plate_2019.jpg",
+            "size": {
+                "width": 1331,
+                "height": 681
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0a630b3eb4ad1812f312ac86f464304": {
+            "format": "jpg",
+            "id": "e0a630b3eb4ad1812f312ac86f464304",
+            "name": "Washington.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Washington.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfad4ff89fc2b45e2447ec69351337ca": {
+            "format": "jpg",
+            "id": "cfad4ff89fc2b45e2447ec69351337ca",
+            "name": "Washington,_D.C._license_plate,_2013.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Washington,_D.C._license_plate,_2013.jpg",
+            "size": {
+                "width": 435,
+                "height": 218
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3e0742462143cab7c12146ee0df470a3": {
+            "format": "jpg",
+            "id": "3e0742462143cab7c12146ee0df470a3",
+            "name": "Washington,_D.C._license_plate,_2011.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Washington,_D.C._license_plate,_2011.jpg",
+            "size": {
+                "width": 435,
+                "height": 218
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b174d1c4caec79dd02b9d6c85fc176d5": {
+            "format": "png",
+            "id": "b174d1c4caec79dd02b9d6c85fc176d5",
+            "name": "Virginia_license_plate,_1979%E2%80%931992_series_with_February_1983_sticker.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Virginia_license_plate,_1979%E2%80%931992_series_with_February_1983_sticker.png",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05a644b3ddb7930479703b709442a488": {
+            "format": "jpg",
+            "id": "05a644b3ddb7930479703b709442a488",
+            "name": "Virginia.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Virginia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a67462b6c74cd5edc73b3d081d2b6a1c": {
+            "format": "jpg",
+            "id": "a67462b6c74cd5edc73b3d081d2b6a1c",
+            "name": "Vermont_2000_license_plate_CGX_308.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Vermont_2000_license_plate_CGX_308.jpg",
+            "size": {
+                "width": 1170,
+                "height": 613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2bf9a38e8869951398edd45f3fbe679b": {
+            "format": "jpg",
+            "id": "2bf9a38e8869951398edd45f3fbe679b",
+            "name": "Vermont.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Vermont.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "341a9cb8add8d82429f0b035009a8432": {
+            "format": "png",
+            "id": "341a9cb8add8d82429f0b035009a8432",
+            "name": "Utah_license_plate,_1985%E2%80%931990_series_with_August_2001_sticker.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Utah_license_plate,_1985%E2%80%931990_series_with_August_2001_sticker.png",
+            "size": {
+                "width": 867,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76eac5d38f0ef22207be012279dfb73a": {
+            "format": "jpg",
+            "id": "76eac5d38f0ef22207be012279dfb73a",
+            "name": "Utah.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Utah.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c142d633214b7a7f67228807f7e93141": {
+            "format": "jpg",
+            "id": "c142d633214b7a7f67228807f7e93141",
+            "name": "US_Diplomatic_license_plate_2008.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/US_Diplomatic_license_plate_2008.jpg",
+            "size": {
+                "width": 1917,
+                "height": 987
+            },
+            "state": 2,
+            "type": 1
+        },
+        "819cf03896c57b58adfe84a7c5f1d9b4": {
+            "format": "jpg",
+            "id": "819cf03896c57b58adfe84a7c5f1d9b4",
+            "name": "US_Diplomatic_license_plate_2007_sample.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/US_Diplomatic_license_plate_2007_sample.jpg",
+            "size": {
+                "width": 430,
+                "height": 219
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa8bdc5e1b49acc81882a92bfa6eb5bc": {
+            "format": "jpg",
+            "id": "fa8bdc5e1b49acc81882a92bfa6eb5bc",
+            "name": "US_Diplomatic_license_plate_2007.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/US_Diplomatic_license_plate_2007.jpg",
+            "size": {
+                "width": 1578,
+                "height": 694
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29c6ec6dbd873dd90dd7d20cd53ed576": {
+            "format": "jpg",
+            "id": "29c6ec6dbd873dd90dd7d20cd53ed576",
+            "name": "Texas.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Texas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02e531c1a461aa266eaf19065b111877": {
+            "format": "jpg",
+            "id": "02e531c1a461aa266eaf19065b111877",
+            "name": "Tennessee.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Tennessee.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de35c4db96edd28bd1e5893072cac031": {
+            "format": "jpg",
+            "id": "de35c4db96edd28bd1e5893072cac031",
+            "name": "SouthDakota.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/SouthDakota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2608c8bbf1bc58621a87b32be77dec25": {
+            "format": "jpg",
+            "id": "2608c8bbf1bc58621a87b32be77dec25",
+            "name": "SouthCarolina.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/SouthCarolina.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddd74670a9a9025aee08ceb7f2d1557a": {
+            "format": "jpeg",
+            "id": "ddd74670a9a9025aee08ceb7f2d1557a",
+            "name": "Rhode_Island_License_Plate_AB-123_format.jpeg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Rhode_Island_License_Plate_AB-123_format.jpeg",
+            "size": {
+                "width": 2868,
+                "height": 1448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af134358bc8de75735f9609653d4f5d3": {
+            "format": "jpg",
+            "id": "af134358bc8de75735f9609653d4f5d3",
+            "name": "RhodeIsland.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/RhodeIsland.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aee2b6f29eebcc8815265baef9c699ed": {
+            "format": "jpg",
+            "id": "aee2b6f29eebcc8815265baef9c699ed",
+            "name": "PuertoRico.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/PuertoRico.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ca90802f5a2835abe06e04ebee28b2e": {
+            "format": "jpg",
+            "id": "9ca90802f5a2835abe06e04ebee28b2e",
+            "name": "Pennsylvanian_license_plate,_2000.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pennsylvanian_license_plate,_2000.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "131ff66f9e3f6751dc0704aab4274227": {
+            "format": "jpg",
+            "id": "131ff66f9e3f6751dc0704aab4274227",
+            "name": "Pennsylvania.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pennsylvania.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5128d59e6081f645009fa50a455c095": {
+            "format": "jpg",
+            "id": "c5128d59e6081f645009fa50a455c095",
+            "name": "PUERTO_RICO_1990'S_-SOUVENIR_REFLECTIVE_LICENSE_PLATE_-_Flickr_-_woody1778a.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/PUERTO_RICO_1990'S_-SOUVENIR_REFLECTIVE_LICENSE_PLATE_-_Flickr_-_woody1778a.jpg",
+            "size": {
+                "width": 2555,
+                "height": 1308
+            },
+            "state": 2,
+            "type": 1
+        },
+        "306ddde5ba28e04663410d13a4c3c99a": {
+            "format": "jpg",
+            "id": "306ddde5ba28e04663410d13a4c3c99a",
+            "name": "Oregon_License_Plate3.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Oregon_License_Plate3.jpg",
+            "size": {
+                "width": 1491,
+                "height": 740
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c32a8813b397fd24aff4f6bd2aef837d": {
+            "format": "jpg",
+            "id": "c32a8813b397fd24aff4f6bd2aef837d",
+            "name": "Oregon.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Oregon.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cc580dc1eb5146e4a083f3c324a0335": {
+            "format": "jpg",
+            "id": "8cc580dc1eb5146e4a083f3c324a0335",
+            "name": "Oklahoma.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Oklahoma.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe7da329ea7e996e0151b8f0d211f010": {
+            "format": "jpg",
+            "id": "fe7da329ea7e996e0151b8f0d211f010",
+            "name": "Ohio_license_plate_sample_2004.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio_license_plate_sample_2004.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c39325f1414cd7b5524b16e995d22aba": {
+            "format": "jpg",
+            "id": "c39325f1414cd7b5524b16e995d22aba",
+            "name": "Ohio_license_plate_sample_2001.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio_license_plate_sample_2001.jpg",
+            "size": {
+                "width": 435,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1b93882f292608939f9239ddd60622b": {
+            "format": "jpg",
+            "id": "b1b93882f292608939f9239ddd60622b",
+            "name": "Ohio_license_plate_2013.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio_license_plate_2013.jpg",
+            "size": {
+                "width": 1187,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab73b6319c1cafd0323a9846508676ee": {
+            "format": "jpg",
+            "id": "ab73b6319c1cafd0323a9846508676ee",
+            "name": "Ohio.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Ohio.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c189252e411ecd71bd2005cdea0575e": {
+            "format": "png",
+            "id": "0c189252e411ecd71bd2005cdea0575e",
+            "name": "Northern_Marianas_license_plate_1989_ACN_374.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Northern_Marianas_license_plate_1989_ACN_374.png",
+            "size": {
+                "width": 250,
+                "height": 125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "569562f630c9f981f22e123acf93e80f": {
+            "format": "jpg",
+            "id": "569562f630c9f981f22e123acf93e80f",
+            "name": "NorthDakota.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NorthDakota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6f5c2fe65a06ff071480d67f8d83958": {
+            "format": "jpg",
+            "id": "a6f5c2fe65a06ff071480d67f8d83958",
+            "name": "NorthCarolina.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NorthCarolina.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48d4416b6645b8ad5beb79be4c026d60": {
+            "format": "jpg",
+            "id": "48d4416b6645b8ad5beb79be4c026d60",
+            "name": "New_Jersey_license_plate_2014.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/New_Jersey_license_plate_2014.jpg",
+            "size": {
+                "width": 2356,
+                "height": 1184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4759990cdcaa5e86ba8d9159c26bf7dc": {
+            "format": "jpg",
+            "id": "4759990cdcaa5e86ba8d9159c26bf7dc",
+            "name": "New_Jersey_2006_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/New_Jersey_2006_License_Plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "608d7b86ac080e5fd2acb8a0dbca5b1b": {
+            "format": "jpg",
+            "id": "608d7b86ac080e5fd2acb8a0dbca5b1b",
+            "name": "New_Jersey_1977_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/New_Jersey_1977_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abe06946167a9effc0f7327a21bcee1a": {
+            "format": "jpg",
+            "id": "abe06946167a9effc0f7327a21bcee1a",
+            "name": "NewYork.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewYork.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f69d5519e1bcda0a0bdc93d70e96801": {
+            "format": "jpg",
+            "id": "6f69d5519e1bcda0a0bdc93d70e96801",
+            "name": "NewMexico.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewMexico.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5e36081a68cec1bdbd503111e0b454a": {
+            "format": "jpg",
+            "id": "d5e36081a68cec1bdbd503111e0b454a",
+            "name": "NewJersey.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewJersey.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b7543a44b94dd0fc5f6e3c7313ef294": {
+            "format": "jpg",
+            "id": "2b7543a44b94dd0fc5f6e3c7313ef294",
+            "name": "NewHampshire.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewHampshire.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83983eb95075844f472d97f71170769b": {
+            "format": "jpg",
+            "id": "83983eb95075844f472d97f71170769b",
+            "name": "Nevada.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Nevada.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "457b1b817d9602a83f015b9cb130b9df": {
+            "format": "jpg",
+            "id": "457b1b817d9602a83f015b9cb130b9df",
+            "name": "Nebraska_license_plate_2017_big_counties.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Nebraska_license_plate_2017_big_counties.jpg",
+            "size": {
+                "width": 316,
+                "height": 160
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6db90a3bb0e739656a66035366c8230c": {
+            "format": "jpg",
+            "id": "6db90a3bb0e739656a66035366c8230c",
+            "name": "Nebraska.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Nebraska.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b27d3185e668f703413e7e69080bdb75": {
+            "format": "jpg",
+            "id": "b27d3185e668f703413e7e69080bdb75",
+            "name": "NY-2010-License-Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NY-2010-License-Plate.jpg",
+            "size": {
+                "width": 566,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c513f21786fc709f50fca0d69571efd": {
+            "format": "jpg",
+            "id": "1c513f21786fc709f50fca0d69571efd",
+            "name": "Montana.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Montana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4929c3c8d0d3d607447480b9b86c7265": {
+            "format": "png",
+            "id": "4929c3c8d0d3d607447480b9b86c7265",
+            "name": "Missouri_2021_Bicentennial_License_Plate.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Missouri_2021_Bicentennial_License_Plate.png",
+            "size": {
+                "width": 900,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb2a012caa63744b5276cddfc650b553": {
+            "format": "jpg",
+            "id": "fb2a012caa63744b5276cddfc650b553",
+            "name": "Missouri.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Missouri.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfd1778a0e3ce322c11e663748f721ed": {
+            "format": "jpg",
+            "id": "cfd1778a0e3ce322c11e663748f721ed",
+            "name": "Mississippi.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Mississippi.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4259c593fd23127dba5c77691ce7ed0": {
+            "format": "jpg",
+            "id": "b4259c593fd23127dba5c77691ce7ed0",
+            "name": "Minnesota_2014_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Minnesota_2014_License_Plate.jpg",
+            "size": {
+                "width": 350,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb49e74f303e40fcc818a0436d0f8a0f": {
+            "format": "jpg",
+            "id": "eb49e74f303e40fcc818a0436d0f8a0f",
+            "name": "Minnesota.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Minnesota.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f69f63eb345dccc7fc0b0369ec135e46": {
+            "format": "jpg",
+            "id": "f69f63eb345dccc7fc0b0369ec135e46",
+            "name": "Michigan_license_plate_2008.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Michigan_license_plate_2008.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e7e1f83f7bc3136288f18392d87ba38": {
+            "format": "jpg",
+            "id": "1e7e1f83f7bc3136288f18392d87ba38",
+            "name": "Michigan.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Michigan.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ccf92489055307a815ed52cb2100a40": {
+            "format": "jpg",
+            "id": "8ccf92489055307a815ed52cb2100a40",
+            "name": "Massachusetts.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Massachusetts.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec5643db6750592bc8cb85b35d9ad7d3": {
+            "format": "jpg",
+            "id": "ec5643db6750592bc8cb85b35d9ad7d3",
+            "name": "MassPlateGreen1.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MassPlateGreen1.jpg",
+            "size": {
+                "width": 972,
+                "height": 486
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5787b558b05ab064d6b5861791cb416e": {
+            "format": "jpg",
+            "id": "5787b558b05ab064d6b5861791cb416e",
+            "name": "Maryland.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Maryland.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d1647f56946764e04dd7af10db1f545": {
+            "format": "jpg",
+            "id": "1d1647f56946764e04dd7af10db1f545",
+            "name": "Maine.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Maine.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e28b09bac09e83d7e0b14d9ead870d5b": {
+            "format": "png",
+            "id": "e28b09bac09e83d7e0b14d9ead870d5b",
+            "name": "MVA_MDProud_LicensePlate_390px.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MVA_MDProud_LicensePlate_390px.png",
+            "size": {
+                "width": 376,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76b11c44a4167d634b90968a6f79b85d": {
+            "format": "jpg",
+            "id": "76b11c44a4167d634b90968a6f79b85d",
+            "name": "MA-Base-Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MA-Base-Plate.jpg",
+            "size": {
+                "width": 240,
+                "height": 123
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd000fd2d048f4db63163a77cabccc09": {
+            "format": "jpg",
+            "id": "cd000fd2d048f4db63163a77cabccc09",
+            "name": "Louisiana.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Louisiana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f12c18c91f606ee977cdbc51296b579": {
+            "format": "jpg",
+            "id": "3f12c18c91f606ee977cdbc51296b579",
+            "name": "Kentucky.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Kentucky.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "505d4c310d1c1e045f9b7e84f007a0d2": {
+            "format": "jpg",
+            "id": "505d4c310d1c1e045f9b7e84f007a0d2",
+            "name": "Kansas_Sample_2007_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Kansas_Sample_2007_license_plate.jpg",
+            "size": {
+                "width": 400,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "463bed16c9bd528713bf1db8cf8be462": {
+            "format": "jpg",
+            "id": "463bed16c9bd528713bf1db8cf8be462",
+            "name": "Kansas_2002_sample_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Kansas_2002_sample_license_plate.jpg",
+            "size": {
+                "width": 435,
+                "height": 218
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abaddfc80cdcacf8e0aa79ad3303a801": {
+            "format": "jpg",
+            "id": "abaddfc80cdcacf8e0aa79ad3303a801",
+            "name": "Kansas.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Kansas.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e57ae831d294f79a507f3323cb55aea": {
+            "format": "jpg",
+            "id": "6e57ae831d294f79a507f3323cb55aea",
+            "name": "Iowa.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Iowa.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92469f00b622aa04d658d269831502a7": {
+            "format": "jpg",
+            "id": "92469f00b622aa04d658d269831502a7",
+            "name": "Indiana2017plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Indiana2017plate.jpg",
+            "size": {
+                "width": 288,
+                "height": 144
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b399fde1285082cccc3c166235aadeb": {
+            "format": "jpg",
+            "id": "3b399fde1285082cccc3c166235aadeb",
+            "name": "Indiana.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Indiana.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21beaf0558404e00769f975293979da7": {
+            "format": "jpg",
+            "id": "21beaf0558404e00769f975293979da7",
+            "name": "Illinois_2017_License_Plate_V3.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Illinois_2017_License_Plate_V3.jpg",
+            "size": {
+                "width": 1400,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5decb714ab07f4ad7cd5eb771f23b59": {
+            "format": "jpg",
+            "id": "e5decb714ab07f4ad7cd5eb771f23b59",
+            "name": "Illinois.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Illinois.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62188594d7e579d0677aefa0049b732f": {
+            "format": "jpg",
+            "id": "62188594d7e579d0677aefa0049b732f",
+            "name": "Idaho.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Idaho.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69358f5a9af955eb0327968c7b7c158b": {
+            "format": "jpg",
+            "id": "69358f5a9af955eb0327968c7b7c158b",
+            "name": "IMG_20200108_155445.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20200108_155445.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bad715a4c90db70c84fd3c26cbffdae": {
+            "format": "jpg",
+            "id": "9bad715a4c90db70c84fd3c26cbffdae",
+            "name": "IMG_20200108_155431.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20200108_155431.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5a5b7ff7c5e06d8aa765924f512ed99": {
+            "format": "jpg",
+            "id": "b5a5b7ff7c5e06d8aa765924f512ed99",
+            "name": "IMG_20191128_183920.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20191128_183920.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6cb96999d1694afa2585047b2c9d2ac5": {
+            "format": "jpg",
+            "id": "6cb96999d1694afa2585047b2c9d2ac5",
+            "name": "IMG_20191106_150454.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20191106_150454.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7b638f13726028f6d0524c2f7069a7b": {
+            "format": "jpg",
+            "id": "d7b638f13726028f6d0524c2f7069a7b",
+            "name": "IMG_20191013_142900.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20191013_142900.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "faf5164bdc07d1631c9155c8838fbd99": {
+            "format": "jpg",
+            "id": "faf5164bdc07d1631c9155c8838fbd99",
+            "name": "IMG_20191001_175816.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20191001_175816.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0d1bd0858a53bf6ede0966e0b4e0b81": {
+            "format": "jpg",
+            "id": "b0d1bd0858a53bf6ede0966e0b4e0b81",
+            "name": "IMG_20190929_154018.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190929_154018.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0227b24e3e602e02744dd3d5ffd77830": {
+            "format": "jpg",
+            "id": "0227b24e3e602e02744dd3d5ffd77830",
+            "name": "IMG_20190922_174424.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190922_174424.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd1353b854332855dfb2f221cb5877c7": {
+            "format": "jpg",
+            "id": "fd1353b854332855dfb2f221cb5877c7",
+            "name": "IMG_20190915_174021.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190915_174021.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb81edd888081c444170fc24631f4912": {
+            "format": "jpg",
+            "id": "eb81edd888081c444170fc24631f4912",
+            "name": "IMG_20190909_190626.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190909_190626.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41fbb5952664aa8f31293c4d7c63e43a": {
+            "format": "jpg",
+            "id": "41fbb5952664aa8f31293c4d7c63e43a",
+            "name": "IMG_20190824_151407.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190824_151407.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94f56675fd7c921ba68d56527d38f157": {
+            "format": "jpg",
+            "id": "94f56675fd7c921ba68d56527d38f157",
+            "name": "IMG_20190731_102149.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20190731_102149.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54634737391436b1e1f7039f5dd8888f": {
+            "format": "jpg",
+            "id": "54634737391436b1e1f7039f5dd8888f",
+            "name": "Hawaii.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Hawaii.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a71892ba8af41cbe24821d5b47c8365b": {
+            "format": "png",
+            "id": "a71892ba8af41cbe24821d5b47c8365b",
+            "name": "Guam_license_plate_2012_TU_250.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Guam_license_plate_2012_TU_250.png",
+            "size": {
+                "width": 840,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84c1d6708cb6e050b6c5307a9930ce55": {
+            "format": "jpg",
+            "id": "84c1d6708cb6e050b6c5307a9930ce55",
+            "name": "Guam.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Guam.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02a56ff7948c64352e015c873c101f42": {
+            "format": "png",
+            "id": "02a56ff7948c64352e015c873c101f42",
+            "name": "Georgia_License_Plate_Grady_County_PXE9860.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia_License_Plate_Grady_County_PXE9860.png",
+            "size": {
+                "width": 1600,
+                "height": 797
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2e81be0c8bbbb1415ff8ebb1268d022": {
+            "format": "png",
+            "id": "f2e81be0c8bbbb1415ff8ebb1268d022",
+            "name": "Georgia_License_Plate_Chatham_County_PLK7665.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia_License_Plate_Chatham_County_PLK7665.png",
+            "size": {
+                "width": 1600,
+                "height": 806
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d42ab8b76e33056af0836f2b98ddfbbb": {
+            "format": "jpg",
+            "id": "d42ab8b76e33056af0836f2b98ddfbbb",
+            "name": "Georgia.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53e84903ac725364074b5a30ca169c5f": {
+            "format": "jpg",
+            "id": "53e84903ac725364074b5a30ca169c5f",
+            "name": "GUAM_1999_COMMERCIAL_TRUCK_license_plate_Flickr_-_woody1778a.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/GUAM_1999_COMMERCIAL_TRUCK_license_plate_Flickr_-_woody1778a.jpg",
+            "size": {
+                "width": 2371,
+                "height": 1223
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a376df599881e20abb874b01d497d7da": {
+            "format": "jpg",
+            "id": "a376df599881e20abb874b01d497d7da",
+            "name": "Florida_license_plate_In_God_We_Trust.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Florida_license_plate_In_God_We_Trust.jpg",
+            "size": {
+                "width": 400,
+                "height": 199
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a488055a0b4306856a297b3c64dc888": {
+            "format": "jpg",
+            "id": "1a488055a0b4306856a297b3c64dc888",
+            "name": "Florida.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Florida.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d210cb7fe895e39993da6079dd3e5ea": {
+            "format": "jpg",
+            "id": "1d210cb7fe895e39993da6079dd3e5ea",
+            "name": "DistrictOfColumbia.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/DistrictOfColumbia.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e19288b0c3b48f7d3a85f6149db03d14": {
+            "format": "jpg",
+            "id": "e19288b0c3b48f7d3a85f6149db03d14",
+            "name": "Delaware.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Delaware.jpg",
+            "size": {
+                "width": 400,
+                "height": 211
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cf698fa71392a2d3246f08f69726684": {
+            "format": "png",
+            "id": "9cf698fa71392a2d3246f08f69726684",
+            "name": "Connecticut_License_Plate_AH39871.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Connecticut_License_Plate_AH39871.png",
+            "size": {
+                "width": 1600,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0dfad63c28d3e13b998943ae06f82fed": {
+            "format": "jpg",
+            "id": "0dfad63c28d3e13b998943ae06f82fed",
+            "name": "Connecticut.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Connecticut.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72b46124034e6e4b7d912ffb1547d116": {
+            "format": "jpg",
+            "id": "72b46124034e6e4b7d912ffb1547d116",
+            "name": "Colorado.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Colorado.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dba642eb92d2f5a5f9419d4a32111718": {
+            "format": "png",
+            "id": "dba642eb92d2f5a5f9419d4a32111718",
+            "name": "California_license_plate,_August_2012.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_license_plate,_August_2012.png",
+            "size": {
+                "width": 433,
+                "height": 215
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41e541100fb19f529c9e3c60d471a215": {
+            "format": "png",
+            "id": "41e541100fb19f529c9e3c60d471a215",
+            "name": "California_license_plate,_1990.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_license_plate,_1990.png",
+            "size": {
+                "width": 498,
+                "height": 249
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5baf45c3afeece1f3dc88a6f2d066b9c": {
+            "format": "png",
+            "id": "5baf45c3afeece1f3dc88a6f2d066b9c",
+            "name": "California_Golden_State_license_plate_1982-1987_2GAT123.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_Golden_State_license_plate_1982-1987_2GAT123.png",
+            "size": {
+                "width": 300,
+                "height": 153
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6123a590f808b6e3d9c9c79299c332d": {
+            "format": "png",
+            "id": "c6123a590f808b6e3d9c9c79299c332d",
+            "name": "Arizona_license_plate,_1980%E2%80%931996_series_with_March_1998_sticker.png",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Arizona_license_plate,_1980%E2%80%931996_series_with_March_1998_sticker.png",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32acf4de4c0e87fc642201360e312300": {
+            "format": "jpg",
+            "id": "32acf4de4c0e87fc642201360e312300",
+            "name": "2880px-Washington_1998_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Washington_1998_license_plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1453
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc5e8d98f171c421f37bf6a5451fdf22": {
+            "format": "jpg",
+            "id": "dc5e8d98f171c421f37bf6a5451fdf22",
+            "name": "2880px-Utah_2002_Olympics_License_Plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Utah_2002_Olympics_License_Plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffe83450cd55d61b12ebde495dcd050e": {
+            "format": "jpeg",
+            "id": "ffe83450cd55d61b12ebde495dcd050e",
+            "name": "2880px-USA_licenseplate_New_York_(cropped).jpeg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-USA_licenseplate_New_York_(cropped).jpeg",
+            "size": {
+                "width": 2879,
+                "height": 1462
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53078c6a0f187a7257ac14d99af2cd85": {
+            "format": "jpg",
+            "id": "53078c6a0f187a7257ac14d99af2cd85",
+            "name": "2880px-Oregon_1964-72_license_plate_with_1976_sticker_-_Number_GGT_297.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Oregon_1964-72_license_plate_with_1976_sticker_-_Number_GGT_297.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1424
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3aefd1689de9208b89e2e0752be582e": {
+            "format": "jpg",
+            "id": "b3aefd1689de9208b89e2e0752be582e",
+            "name": "2880px-Montana_1992_license_plate.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Montana_1992_license_plate.jpg",
+            "size": {
+                "width": 2880,
+                "height": 1447
             },
             "state": 2,
             "type": 1

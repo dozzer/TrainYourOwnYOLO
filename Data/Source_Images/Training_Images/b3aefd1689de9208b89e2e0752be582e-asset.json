@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b3aefd1689de9208b89e2e0752be582e",
+        "name": "2880px-Montana_1992_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Montana_1992_license_plate.jpg",
+        "size": {
+            "width": 2880,
+            "height": 1447
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ef0i5ZYjK",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1436.1693800403225,
+                "width": 2858.8242440604754,
+                "left": 21.175755939524837,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 21.175755939524837,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1436.1693800403225
+                },
+                {
+                    "x": 21.175755939524837,
+                    "y": 1436.1693800403225
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "02a56ff7948c64352e015c873c101f42",
+        "name": "Georgia_License_Plate_Grady_County_PXE9860.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia_License_Plate_Grady_County_PXE9860.png",
+        "size": {
+            "width": 1600,
+            "height": 797
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FGrlhCBDI",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 785.5396132727766,
+                "width": 1579.056425485961,
+                "left": 20.943574514038875,
+                "top": 11.460386727223426
+            },
+            "points": [
+                {
+                    "x": 20.943574514038875,
+                    "y": 11.460386727223426
+                },
+                {
+                    "x": 1600,
+                    "y": 11.460386727223426
+                },
+                {
+                    "x": 1600,
+                    "y": 797
+                },
+                {
+                    "x": 20.943574514038875,
+                    "y": 797
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

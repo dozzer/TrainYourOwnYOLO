@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d7b8b31e53228a36cb83d9bd2baf221f",
+        "name": "1954_Delaware_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1954_Delaware_license_plate.jpg",
+        "size": {
+            "width": 771,
+            "height": 374
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1w8NoC3wc",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 370.8406006403118,
+                "width": 768.8631757896868,
+                "left": 2.1368242103131747,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 2.1368242103131747,
+                    "y": 0
+                },
+                {
+                    "x": 771,
+                    "y": 0
+                },
+                {
+                    "x": 771,
+                    "y": 370.8406006403118
+                },
+                {
+                    "x": 2.1368242103131747,
+                    "y": 370.8406006403118
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

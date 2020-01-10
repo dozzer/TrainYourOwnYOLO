@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e7e1f83f7bc3136288f18392d87ba38",
+        "name": "Michigan.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Michigan.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EnXyiuYL0",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 145.556654676259,
+                "width": 283.5677645788337,
+                "left": 30.242980561555076,
+                "top": 44.622302158273385
+            },
+            "points": [
+                {
+                    "x": 30.242980561555076,
+                    "y": 44.622302158273385
+                },
+                {
+                    "x": 313.81074514038875,
+                    "y": 44.622302158273385
+                },
+                {
+                    "x": 313.81074514038875,
+                    "y": 190.17895683453239
+                },
+                {
+                    "x": 30.242980561555076,
+                    "y": 190.17895683453239
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

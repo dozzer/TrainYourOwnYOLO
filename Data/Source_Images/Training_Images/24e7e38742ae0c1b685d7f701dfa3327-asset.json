@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24e7e38742ae0c1b685d7f701dfa3327",
+        "name": "2002_West_Virginia_license_plate_4JB_592.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2002_West_Virginia_license_plate_4JB_592.jpg",
+        "size": {
+            "width": 400,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-DfLJyknM",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 197.2850296976242,
+                "width": 396.2540496760259,
+                "left": 3.745950323974082,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 3.745950323974082,
+                    "y": 0
+                },
+                {
+                    "x": 400,
+                    "y": 0
+                },
+                {
+                    "x": 400,
+                    "y": 197.2850296976242
+                },
+                {
+                    "x": 3.745950323974082,
+                    "y": 197.2850296976242
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

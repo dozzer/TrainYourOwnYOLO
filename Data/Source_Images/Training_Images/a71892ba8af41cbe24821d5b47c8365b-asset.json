@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a71892ba8af41cbe24821d5b47c8365b",
+        "name": "Guam_license_plate_2012_TU_250.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Guam_license_plate_2012_TU_250.png",
+        "size": {
+            "width": 840,
+            "height": 420
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "F-U88M3Ry",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 415.97816549676025,
+                "width": 833.8308247840173,
+                "left": 6.169175215982722,
+                "top": 4.021834503239741
+            },
+            "points": [
+                {
+                    "x": 6.169175215982722,
+                    "y": 4.021834503239741
+                },
+                {
+                    "x": 840,
+                    "y": 4.021834503239741
+                },
+                {
+                    "x": 840,
+                    "y": 420
+                },
+                {
+                    "x": 6.169175215982722,
+                    "y": 420
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

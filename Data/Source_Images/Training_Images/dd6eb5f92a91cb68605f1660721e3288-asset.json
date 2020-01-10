@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dd6eb5f92a91cb68605f1660721e3288",
+        "name": "16wah3.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/16wah3.jpg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rW4_MC1rW",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 95.39028776978418,
+                "width": 140.45896328293736,
+                "left": 605.6911447084233,
+                "top": 450.5557553956835
+            },
+            "points": [
+                {
+                    "x": 605.6911447084233,
+                    "y": 450.5557553956835
+                },
+                {
+                    "x": 746.1501079913606,
+                    "y": 450.5557553956835
+                },
+                {
+                    "x": 746.1501079913606,
+                    "y": 545.9460431654677
+                },
+                {
+                    "x": 605.6911447084233,
+                    "y": 545.9460431654677
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

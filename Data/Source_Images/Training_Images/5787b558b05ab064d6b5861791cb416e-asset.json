@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5787b558b05ab064d6b5861791cb416e",
+        "name": "Maryland.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Maryland.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hA4wT6pbA",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 136.89658273381295,
+                "width": 258.36393088552916,
+                "left": 25.360421166306693,
+                "top": 49.78327338129497
+            },
+            "points": [
+                {
+                    "x": 25.360421166306693,
+                    "y": 49.78327338129497
+                },
+                {
+                    "x": 283.7243520518358,
+                    "y": 49.78327338129497
+                },
+                {
+                    "x": 283.7243520518358,
+                    "y": 186.67985611510792
+                },
+                {
+                    "x": 25.360421166306693,
+                    "y": 186.67985611510792
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

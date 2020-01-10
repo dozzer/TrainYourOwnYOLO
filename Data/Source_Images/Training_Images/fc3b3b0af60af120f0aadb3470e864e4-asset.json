@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fc3b3b0af60af120f0aadb3470e864e4",
+        "name": "scb14r.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/scb14r.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ptlc1l-WS",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 50.14995201535508,
+                "width": 66.09611231101512,
+                "left": 640.1619870410367,
+                "top": 408.5412667946257
+            },
+            "points": [
+                {
+                    "x": 640.1619870410367,
+                    "y": 408.5412667946257
+                },
+                {
+                    "x": 706.2580993520518,
+                    "y": 408.5412667946257
+                },
+                {
+                    "x": 706.2580993520518,
+                    "y": 458.6912188099808
+                },
+                {
+                    "x": 640.1619870410367,
+                    "y": 458.6912188099808
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

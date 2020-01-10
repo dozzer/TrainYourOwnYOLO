@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "57979b22484be98d1b3aca311ff69be7",
+        "name": "js8xt6.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/js8xt6.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "HkVjNqYqm",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 107.09093090211132,
+                "width": 166.93844492440604,
+                "left": 1029.524838012959,
+                "top": 590.3226967370441
+            },
+            "points": [
+                {
+                    "x": 1029.524838012959,
+                    "y": 590.3226967370441
+                },
+                {
+                    "x": 1196.463282937365,
+                    "y": 590.3226967370441
+                },
+                {
+                    "x": 1196.463282937365,
+                    "y": 697.4136276391555
+                },
+                {
+                    "x": 1029.524838012959,
+                    "y": 697.4136276391555
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

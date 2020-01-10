@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2b3f2fd8114a6df547c99cc29979d9b5",
+        "name": "1959_New_Jersey_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1959_New_Jersey_license_plate.jpg",
+        "size": {
+            "width": 400,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zncV0ng9W",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 198.35650647948162,
+                "width": 399.0736366090713,
+                "left": 0.9263633909287257,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.9263633909287257,
+                    "y": 0
+                },
+                {
+                    "x": 400,
+                    "y": 0
+                },
+                {
+                    "x": 400,
+                    "y": 198.35650647948162
+                },
+                {
+                    "x": 0.9263633909287257,
+                    "y": 198.35650647948162
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

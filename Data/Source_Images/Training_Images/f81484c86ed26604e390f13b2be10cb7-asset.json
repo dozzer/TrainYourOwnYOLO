@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f81484c86ed26604e390f13b2be10cb7",
+        "name": "syrdo6.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/syrdo6.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3duyI8M0i",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 80.7959452975048,
+                "width": 116.40388768898488,
+                "left": 660.5669546436285,
+                "top": 469.239443378119
+            },
+            "points": [
+                {
+                    "x": 660.5669546436285,
+                    "y": 469.239443378119
+                },
+                {
+                    "x": 776.9708423326133,
+                    "y": 469.239443378119
+                },
+                {
+                    "x": 776.9708423326133,
+                    "y": 550.0353886756237
+                },
+                {
+                    "x": 660.5669546436285,
+                    "y": 550.0353886756237
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

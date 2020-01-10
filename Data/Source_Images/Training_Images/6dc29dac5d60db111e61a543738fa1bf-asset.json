@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6dc29dac5d60db111e61a543738fa1bf",
+        "name": "2880px-2010_Idaho_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2010_Idaho_License_Plate.jpg",
+        "size": {
+            "width": 2880,
+            "height": 1437
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8wvhJlhPF",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1436.3074523133118,
+                "width": 2873.2572894168466,
+                "left": 6.742710583153348,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 6.742710583153348,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1436.3074523133118
+                },
+                {
+                    "x": 6.742710583153348,
+                    "y": 1436.3074523133118
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

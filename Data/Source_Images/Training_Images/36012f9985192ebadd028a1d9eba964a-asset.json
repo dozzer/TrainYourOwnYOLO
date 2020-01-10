@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "36012f9985192ebadd028a1d9eba964a",
+        "name": "2880px-Kentucky_License_Plate_Campbell_County_333XDB.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Kentucky_License_Plate_Campbell_County_333XDB.png",
+        "size": {
+            "width": 2880,
+            "height": 1470
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qXgFFmx1N",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1465.7995837737844,
+                "width": 2870.31722462203,
+                "left": 9.682775377969763,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 9.682775377969763,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1465.7995837737844
+                },
+                {
+                    "x": 9.682775377969763,
+                    "y": 1465.7995837737844
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cfd1778a0e3ce322c11e663748f721ed",
+        "name": "Mississippi.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Mississippi.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1mLW1PmrZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 140.67491007194246,
+                "width": 272.9400647948164,
+                "left": 22.579643628509718,
+                "top": 69.48830935251799
+            },
+            "points": [
+                {
+                    "x": 22.579643628509718,
+                    "y": 69.48830935251799
+                },
+                {
+                    "x": 295.5197084233261,
+                    "y": 69.48830935251799
+                },
+                {
+                    "x": 295.5197084233261,
+                    "y": 210.16321942446044
+                },
+                {
+                    "x": 22.579643628509718,
+                    "y": 210.16321942446044
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

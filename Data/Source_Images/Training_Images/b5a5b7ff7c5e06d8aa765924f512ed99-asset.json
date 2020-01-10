@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b5a5b7ff7c5e06d8aa765924f512ed99",
+        "name": "IMG_20191128_183920.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IMG_20191128_183920.jpg",
+        "size": {
+            "width": 4032,
+            "height": 3024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CJvWkNpu2",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1354.392356115108,
+                "width": 2840.9530237580993,
+                "left": 563.9724622030237,
+                "top": 905.9592625899281
+            },
+            "points": [
+                {
+                    "x": 563.9724622030237,
+                    "y": 905.9592625899281
+                },
+                {
+                    "x": 3404.925485961123,
+                    "y": 905.9592625899281
+                },
+                {
+                    "x": 3404.925485961123,
+                    "y": 2260.351618705036
+                },
+                {
+                    "x": 563.9724622030237,
+                    "y": 2260.351618705036
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

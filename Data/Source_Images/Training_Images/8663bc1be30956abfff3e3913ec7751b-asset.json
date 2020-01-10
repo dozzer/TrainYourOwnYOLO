@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8663bc1be30956abfff3e3913ec7751b",
+        "name": "Alabama.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Alabama.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4RDd6qBG4",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 144.00539568345326,
+                "width": 266.0988120950324,
+                "left": 39.46814254859611,
+                "top": 46.255845323741006
+            },
+            "points": [
+                {
+                    "x": 39.46814254859611,
+                    "y": 46.255845323741006
+                },
+                {
+                    "x": 305.5669546436285,
+                    "y": 46.255845323741006
+                },
+                {
+                    "x": 305.5669546436285,
+                    "y": 190.26124100719426
+                },
+                {
+                    "x": 39.46814254859611,
+                    "y": 190.26124100719426
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

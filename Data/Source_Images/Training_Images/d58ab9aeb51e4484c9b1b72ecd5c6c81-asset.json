@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d58ab9aeb51e4484c9b1b72ecd5c6c81",
+        "name": "2560px-Utah_1973_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2560px-Utah_1973_license_plate.jpg",
+        "size": {
+            "width": 2560,
+            "height": 1324
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "i0YWWdu6O",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1302.8806106471816,
+                "width": 2431.274298056155,
+                "left": 70.91792656587472,
+                "top": 18.26891962421712
+            },
+            "points": [
+                {
+                    "x": 70.91792656587472,
+                    "y": 18.26891962421712
+                },
+                {
+                    "x": 2502.19222462203,
+                    "y": 18.26891962421712
+                },
+                {
+                    "x": 2502.19222462203,
+                    "y": 1321.1495302713988
+                },
+                {
+                    "x": 70.91792656587472,
+                    "y": 1321.1495302713988
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

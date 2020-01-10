@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e6bc7d3fccc801edd043e5990f8ca7c2",
+        "name": "uqxrf1.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/uqxrf1.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "p6scldQ6Y",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 91.83271353166985,
+                "width": 162.50539956803456,
+                "left": 662.8752699784018,
+                "top": 231.06765834932818
+            },
+            "points": [
+                {
+                    "x": 662.8752699784018,
+                    "y": 231.06765834932818
+                },
+                {
+                    "x": 825.3806695464364,
+                    "y": 231.06765834932818
+                },
+                {
+                    "x": 825.3806695464364,
+                    "y": 322.900371880998
+                },
+                {
+                    "x": 662.8752699784018,
+                    "y": 322.900371880998
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

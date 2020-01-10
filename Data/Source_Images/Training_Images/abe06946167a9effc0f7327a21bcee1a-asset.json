@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "abe06946167a9effc0f7327a21bcee1a",
+        "name": "NewYork.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewYork.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QjGD-wuJO",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 149.41456834532374,
+                "width": 272.383909287257,
+                "left": 30.26727861771058,
+                "top": 40.98291366906475
+            },
+            "points": [
+                {
+                    "x": 30.26727861771058,
+                    "y": 40.98291366906475
+                },
+                {
+                    "x": 302.65118790496757,
+                    "y": 40.98291366906475
+                },
+                {
+                    "x": 302.65118790496757,
+                    "y": 190.3974820143885
+                },
+                {
+                    "x": 30.26727861771058,
+                    "y": 190.3974820143885
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

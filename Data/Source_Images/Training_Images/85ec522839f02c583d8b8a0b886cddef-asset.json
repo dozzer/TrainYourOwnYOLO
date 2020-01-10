@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "85ec522839f02c583d8b8a0b886cddef",
+        "name": "sf9wi0.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/sf9wi0.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZOvzdl35g",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 101.16092850287907,
+                "width": 136.96814254859612,
+                "left": 583.5826133909288,
+                "top": 356.81232005758153
+            },
+            "points": [
+                {
+                    "x": 583.5826133909288,
+                    "y": 356.81232005758153
+                },
+                {
+                    "x": 720.550755939525,
+                    "y": 356.81232005758153
+                },
+                {
+                    "x": 720.550755939525,
+                    "y": 457.9732485604606
+                },
+                {
+                    "x": 583.5826133909288,
+                    "y": 457.9732485604606
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

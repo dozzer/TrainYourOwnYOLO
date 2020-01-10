@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "26af916c31b68ba3ff6a1982bbb05c98",
+        "name": "2880px-2006_Georgia_license_plate_-_AAQ_7166.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2006_Georgia_license_plate_-_AAQ_7166.jpg",
+        "size": {
+            "width": 2880,
+            "height": 1449
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vhwWAn2hv",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1443.9957416845493,
+                "width": 2872.4311555075597,
+                "left": 7.568844492440605,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 7.568844492440605,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1443.9957416845493
+                },
+                {
+                    "x": 7.568844492440605,
+                    "y": 1443.9957416845493
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

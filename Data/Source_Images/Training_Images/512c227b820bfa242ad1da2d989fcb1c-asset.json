@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "512c227b820bfa242ad1da2d989fcb1c",
+        "name": "f3i3fb.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/f3i3fb.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JnF9eAI8C",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 79.15217130518234,
+                "width": 137.72138228941685,
+                "left": 1432.7753779697625,
+                "top": 617.1845009596929
+            },
+            "points": [
+                {
+                    "x": 1432.7753779697625,
+                    "y": 617.1845009596929
+                },
+                {
+                    "x": 1570.4967602591794,
+                    "y": 617.1845009596929
+                },
+                {
+                    "x": 1570.4967602591794,
+                    "y": 696.3366722648751
+                },
+                {
+                    "x": 1432.7753779697625,
+                    "y": 696.3366722648751
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

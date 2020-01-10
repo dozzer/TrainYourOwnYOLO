@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "398cf11d2b1b6fcb568028e5ea97a607",
+        "name": "6heml7.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/6heml7.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NIspyCx5Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 82.03484884836851,
+                "width": 132.56209503239742,
+                "left": 1160.7181425485962,
+                "top": 223.09980806142033
+            },
+            "points": [
+                {
+                    "x": 1160.7181425485962,
+                    "y": 223.09980806142033
+                },
+                {
+                    "x": 1293.2802375809936,
+                    "y": 223.09980806142033
+                },
+                {
+                    "x": 1293.2802375809936,
+                    "y": 305.1346569097888
+                },
+                {
+                    "x": 1160.7181425485962,
+                    "y": 305.1346569097888
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

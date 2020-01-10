@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c345cdbaf4ca93d1a23342bd170851bf",
+        "name": "ztp5pn.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ztp5pn.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D_MVwCA8z",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 72.30176343570056,
+                "width": 129.70302375809936,
+                "left": 1003.6474082073435,
+                "top": 376.1975167946257
+            },
+            "points": [
+                {
+                    "x": 1003.6474082073435,
+                    "y": 376.1975167946257
+                },
+                {
+                    "x": 1133.3504319654428,
+                    "y": 376.1975167946257
+                },
+                {
+                    "x": 1133.3504319654428,
+                    "y": 448.49928023032624
+                },
+                {
+                    "x": 1003.6474082073435,
+                    "y": 448.49928023032624
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

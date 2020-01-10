@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b306d521ec97de9d72c8a15c18e7b5c",
+        "name": "2560px-Quinault_Indian_Nation_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2560px-Quinault_Indian_Nation_license_plate.jpg",
+        "size": {
+            "width": 2559,
+            "height": 1351
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "O7_D3JiaE",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1327.6566574003066,
+                "width": 2503.1794807977863,
+                "left": 55.82051920221382,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 55.82051920221382,
+                    "y": 0
+                },
+                {
+                    "x": 2559,
+                    "y": 0
+                },
+                {
+                    "x": 2559,
+                    "y": 1327.6566574003066
+                },
+                {
+                    "x": 55.82051920221382,
+                    "y": 1327.6566574003066
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

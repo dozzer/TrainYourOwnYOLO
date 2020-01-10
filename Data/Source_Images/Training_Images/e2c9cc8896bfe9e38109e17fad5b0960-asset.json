@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e2c9cc8896bfe9e38109e17fad5b0960",
+        "name": "1995_Colorado_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1995_Colorado_License_Plate.jpg",
+        "size": {
+            "width": 437,
+            "height": 219
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3T7soUhYy",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 216.98669854525863,
+                "width": 435.9031494667927,
+                "left": 1.0968505332073435,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.0968505332073435,
+                    "y": 0
+                },
+                {
+                    "x": 437,
+                    "y": 0
+                },
+                {
+                    "x": 437,
+                    "y": 216.98669854525863
+                },
+                {
+                    "x": 1.0968505332073435,
+                    "y": 216.98669854525863
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

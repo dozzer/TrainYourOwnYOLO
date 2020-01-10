@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "43ce8248da14563a0600a0c5e9770b10",
+        "name": "o95wpk.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/o95wpk.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "m0mRJvPB5",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 93.7679942418426,
+                "width": 133.63120950323975,
+                "left": 967.159827213823,
+                "top": 265.57071737044146
+            },
+            "points": [
+                {
+                    "x": 967.159827213823,
+                    "y": 265.57071737044146
+                },
+                {
+                    "x": 1100.7910367170628,
+                    "y": 265.57071737044146
+                },
+                {
+                    "x": 1100.7910367170628,
+                    "y": 359.33871161228404
+                },
+                {
+                    "x": 967.159827213823,
+                    "y": 359.33871161228404
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

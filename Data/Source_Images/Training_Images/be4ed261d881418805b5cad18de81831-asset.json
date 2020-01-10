@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "be4ed261d881418805b5cad18de81831",
+        "name": "vmzv7b.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vmzv7b.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "otTRRVTgF",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 102.95045585412667,
+                "width": 135.11339092872572,
+                "left": 342.86177105831536,
+                "top": 69.20045585412667
+            },
+            "points": [
+                {
+                    "x": 342.86177105831536,
+                    "y": 69.20045585412667
+                },
+                {
+                    "x": 477.9751619870411,
+                    "y": 69.20045585412667
+                },
+                {
+                    "x": 477.9751619870411,
+                    "y": 172.15091170825335
+                },
+                {
+                    "x": 342.86177105831536,
+                    "y": 172.15091170825335
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

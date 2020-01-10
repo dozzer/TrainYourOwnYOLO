@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aee2b6f29eebcc8815265baef9c699ed",
+        "name": "PuertoRico.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/PuertoRico.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ImV9DMt08",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 151.93435251798562,
+                "width": 298.62311015118786,
+                "left": 0.4751619870410367,
+                "top": 37.94514388489209
+            },
+            "points": [
+                {
+                    "x": 0.4751619870410367,
+                    "y": 37.94514388489209
+                },
+                {
+                    "x": 299.09827213822894,
+                    "y": 37.94514388489209
+                },
+                {
+                    "x": 299.09827213822894,
+                    "y": 189.87949640287772
+                },
+                {
+                    "x": 0.4751619870410367,
+                    "y": 189.87949640287772
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

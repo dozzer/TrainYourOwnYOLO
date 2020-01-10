@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b86f40f4563956a8f48af97456be7641",
+        "name": "w08ovi.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/w08ovi.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uT3ire8wu",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 91.10394673704414,
+                "width": 148.44492440604753,
+                "left": 693.5637149028079,
+                "top": 144.11768234165066
+            },
+            "points": [
+                {
+                    "x": 693.5637149028079,
+                    "y": 144.11768234165066
+                },
+                {
+                    "x": 842.0086393088553,
+                    "y": 144.11768234165066
+                },
+                {
+                    "x": 842.0086393088553,
+                    "y": 235.2216290786948
+                },
+                {
+                    "x": 693.5637149028079,
+                    "y": 235.2216290786948
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

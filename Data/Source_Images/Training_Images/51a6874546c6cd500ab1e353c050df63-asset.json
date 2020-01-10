@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "51a6874546c6cd500ab1e353c050df63",
+        "name": "2012_Mississippi_license_plate_RAF_660.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2012_Mississippi_license_plate_RAF_660.jpg",
+        "size": {
+            "width": 1200,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CXPSqhG9e",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 598.9268358531318,
+                "width": 1198.790159287257,
+                "left": 1.2098407127429807,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.2098407127429807,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 598.9268358531318
+                },
+                {
+                    "x": 1.2098407127429807,
+                    "y": 598.9268358531318
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

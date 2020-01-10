@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "92469f00b622aa04d658d269831502a7",
+        "name": "Indiana2017plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Indiana2017plate.jpg",
+        "size": {
+            "width": 288,
+            "height": 144
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9yC3EgAhf",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 140.84854211663068,
+                "width": 284.0175485961123,
+                "left": 3.982451403887689,
+                "top": 3.1514578833693303
+            },
+            "points": [
+                {
+                    "x": 3.982451403887689,
+                    "y": 3.1514578833693303
+                },
+                {
+                    "x": 288,
+                    "y": 3.1514578833693303
+                },
+                {
+                    "x": 288,
+                    "y": 144
+                },
+                {
+                    "x": 3.982451403887689,
+                    "y": 144
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "576121594bc1c8124b9be6534332d359",
+        "name": "xic1el.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/xic1el.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1esYw012t",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 118.4407989443378,
+                "width": 168.94438444924407,
+                "left": 1059.3142548596113,
+                "top": 165.59201055662186
+            },
+            "points": [
+                {
+                    "x": 1059.3142548596113,
+                    "y": 165.59201055662186
+                },
+                {
+                    "x": 1228.2586393088554,
+                    "y": 165.59201055662186
+                },
+                {
+                    "x": 1228.2586393088554,
+                    "y": 284.0328095009597
+                },
+                {
+                    "x": 1059.3142548596113,
+                    "y": 284.0328095009597
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

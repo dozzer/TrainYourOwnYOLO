@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3b399fde1285082cccc3c166235aadeb",
+        "name": "Indiana.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Indiana.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lg67IGNmG",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 114.29811151079137,
+                "width": 217.94276457883367,
+                "left": 61.001619870410366,
+                "top": 66.40737410071942
+            },
+            "points": [
+                {
+                    "x": 61.001619870410366,
+                    "y": 66.40737410071942
+                },
+                {
+                    "x": 278.94438444924407,
+                    "y": 66.40737410071942
+                },
+                {
+                    "x": 278.94438444924407,
+                    "y": 180.7054856115108
+                },
+                {
+                    "x": 61.001619870410366,
+                    "y": 180.7054856115108
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

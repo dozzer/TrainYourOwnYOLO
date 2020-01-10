@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2b7543a44b94dd0fc5f6e3c7313ef294",
+        "name": "NewHampshire.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewHampshire.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pRxE8cOEb",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 155.84757194244605,
+                "width": 293.8525917926566,
+                "left": 18.51376889848812,
+                "top": 41.55485611510792
+            },
+            "points": [
+                {
+                    "x": 18.51376889848812,
+                    "y": 41.55485611510792
+                },
+                {
+                    "x": 312.3663606911447,
+                    "y": 41.55485611510792
+                },
+                {
+                    "x": 312.3663606911447,
+                    "y": 197.40242805755398
+                },
+                {
+                    "x": 18.51376889848812,
+                    "y": 197.40242805755398
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

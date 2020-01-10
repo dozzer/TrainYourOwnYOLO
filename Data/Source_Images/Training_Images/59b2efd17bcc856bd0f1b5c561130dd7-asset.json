@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "59b2efd17bcc856bd0f1b5c561130dd7",
+        "name": "izzts9.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/izzts9.jpg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4yCp4udB4",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 61.0089928057554,
+                "width": 93.88228941684665,
+                "left": 26.857451403887687,
+                "top": 140.77877697841728
+            },
+            "points": [
+                {
+                    "x": 26.857451403887687,
+                    "y": 140.77877697841728
+                },
+                {
+                    "x": 120.73974082073434,
+                    "y": 140.77877697841728
+                },
+                {
+                    "x": 120.73974082073434,
+                    "y": 201.78776978417267
+                },
+                {
+                    "x": 26.857451403887687,
+                    "y": 201.78776978417267
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

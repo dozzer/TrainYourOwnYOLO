@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "144b58769503faa461a45f7af5a13e82",
+        "name": "osgyeh.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/osgyeh.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PzS4UJEhI",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 79.04690499040306,
+                "width": 121.96814254859612,
+                "left": 18.199244060475163,
+                "top": 430.9360004798464
+            },
+            "points": [
+                {
+                    "x": 18.199244060475163,
+                    "y": 430.9360004798464
+                },
+                {
+                    "x": 140.1673866090713,
+                    "y": 430.9360004798464
+                },
+                {
+                    "x": 140.1673866090713,
+                    "y": 509.9829054702495
+                },
+                {
+                    "x": 18.199244060475163,
+                    "y": 509.9829054702495
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

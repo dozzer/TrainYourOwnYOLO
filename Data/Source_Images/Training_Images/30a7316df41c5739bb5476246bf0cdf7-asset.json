@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "30a7316df41c5739bb5476246bf0cdf7",
+        "name": "j25zrr.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/j25zrr.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fPUJlbgHU",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 77.39503358925143,
+                "width": 126.4794816414687,
+                "left": 897.6106911447085,
+                "top": 432.4340211132437
+            },
+            "points": [
+                {
+                    "x": 897.6106911447085,
+                    "y": 432.4340211132437
+                },
+                {
+                    "x": 1024.0901727861772,
+                    "y": 432.4340211132437
+                },
+                {
+                    "x": 1024.0901727861772,
+                    "y": 509.82905470249517
+                },
+                {
+                    "x": 897.6106911447085,
+                    "y": 509.82905470249517
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

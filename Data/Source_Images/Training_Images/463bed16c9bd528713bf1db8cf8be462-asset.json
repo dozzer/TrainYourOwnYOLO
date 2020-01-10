@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "463bed16c9bd528713bf1db8cf8be462",
+        "name": "Kansas_2002_sample_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Kansas_2002_sample_license_plate.jpg",
+        "size": {
+            "width": 435,
+            "height": 218
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RWUXKD87z",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 214.8048053609914,
+                "width": 433.8164189052376,
+                "left": 1.183581094762419,
+                "top": 3.195194639008621
+            },
+            "points": [
+                {
+                    "x": 1.183581094762419,
+                    "y": 3.195194639008621
+                },
+                {
+                    "x": 435,
+                    "y": 3.195194639008621
+                },
+                {
+                    "x": 435,
+                    "y": 218
+                },
+                {
+                    "x": 1.183581094762419,
+                    "y": 218
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

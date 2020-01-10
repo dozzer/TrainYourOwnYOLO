@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "39a30cae2086ec5a8ea2dc0d1e7ffe71",
+        "name": "12.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/12.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KvVAIaSLr",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 65.49184261036467,
+                "width": 104.32775377969763,
+                "left": 612.8131749460044,
+                "top": 388.035928502879
+            },
+            "points": [
+                {
+                    "x": 612.8131749460044,
+                    "y": 388.035928502879
+                },
+                {
+                    "x": 717.140928725702,
+                    "y": 388.035928502879
+                },
+                {
+                    "x": 717.140928725702,
+                    "y": 453.5277711132437
+                },
+                {
+                    "x": 612.8131749460044,
+                    "y": 453.5277711132437
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

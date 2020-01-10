@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4a9c414f273485be61fe165112573302",
+        "name": "krva4r.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/krva4r.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HIalo3Qcd",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 78.39911228406909,
+                "width": 120.80993520518359,
+                "left": 264.9298056155508,
+                "top": 221.20501439539345
+            },
+            "points": [
+                {
+                    "x": 264.9298056155508,
+                    "y": 221.20501439539345
+                },
+                {
+                    "x": 385.73974082073437,
+                    "y": 221.20501439539345
+                },
+                {
+                    "x": 385.73974082073437,
+                    "y": 299.6041266794625
+                },
+                {
+                    "x": 264.9298056155508,
+                    "y": 299.6041266794625
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

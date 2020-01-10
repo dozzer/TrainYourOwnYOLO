@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6e57ae831d294f79a507f3323cb55aea",
+        "name": "Iowa.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Iowa.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WSv_6rz1G",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 140.9676258992806,
+                "width": 266.39848812095033,
+                "left": 33.32748380129589,
+                "top": 44.69919064748202
+            },
+            "points": [
+                {
+                    "x": 33.32748380129589,
+                    "y": 44.69919064748202
+                },
+                {
+                    "x": 299.72597192224623,
+                    "y": 44.69919064748202
+                },
+                {
+                    "x": 299.72597192224623,
+                    "y": 185.6668165467626
+                },
+                {
+                    "x": 33.32748380129589,
+                    "y": 185.6668165467626
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

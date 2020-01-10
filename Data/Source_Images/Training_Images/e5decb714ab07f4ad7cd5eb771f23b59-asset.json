@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e5decb714ab07f4ad7cd5eb771f23b59",
+        "name": "Illinois.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Illinois.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZeiYIcwxs",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 135.0687949640288,
+                "width": 257.92656587473,
+                "left": 37.20302375809935,
+                "top": 34.92491007194245
+            },
+            "points": [
+                {
+                    "x": 37.20302375809935,
+                    "y": 34.92491007194245
+                },
+                {
+                    "x": 295.1295896328294,
+                    "y": 34.92491007194245
+                },
+                {
+                    "x": 295.1295896328294,
+                    "y": 169.99370503597123
+                },
+                {
+                    "x": 37.20302375809935,
+                    "y": 169.99370503597123
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

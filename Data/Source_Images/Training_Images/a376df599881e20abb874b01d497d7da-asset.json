@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a376df599881e20abb874b01d497d7da",
+        "name": "Florida_license_plate_In_God_We_Trust.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Florida_license_plate_In_God_We_Trust.jpg",
+        "size": {
+            "width": 400,
+            "height": 199
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WmmwYYCdh",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 195.48930653470717,
+                "width": 397.55332073434124,
+                "left": 2.446679265658747,
+                "top": 3.5106934652928414
+            },
+            "points": [
+                {
+                    "x": 2.446679265658747,
+                    "y": 3.5106934652928414
+                },
+                {
+                    "x": 400,
+                    "y": 3.5106934652928414
+                },
+                {
+                    "x": 400,
+                    "y": 199
+                },
+                {
+                    "x": 2.446679265658747,
+                    "y": 199
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

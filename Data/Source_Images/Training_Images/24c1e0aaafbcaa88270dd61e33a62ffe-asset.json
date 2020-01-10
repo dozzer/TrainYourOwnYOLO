@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24c1e0aaafbcaa88270dd61e33a62ffe",
+        "name": "o2irsh.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/o2irsh.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Lf_etIsqt",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 47.688339731285986,
+                "width": 69.38444924406048,
+                "left": 1007.2462203023757,
+                "top": 174.65031190019192
+            },
+            "points": [
+                {
+                    "x": 1007.2462203023757,
+                    "y": 174.65031190019192
+                },
+                {
+                    "x": 1076.6306695464361,
+                    "y": 174.65031190019192
+                },
+                {
+                    "x": 1076.6306695464361,
+                    "y": 222.33865163147792
+                },
+                {
+                    "x": 1007.2462203023757,
+                    "y": 222.33865163147792
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

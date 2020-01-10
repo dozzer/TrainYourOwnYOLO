@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "84c1d6708cb6e050b6c5307a9930ce55",
+        "name": "Guam.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Guam.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wctWN6NpH",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 139.65107913669067,
+                "width": 272.42575593952483,
+                "left": 38.22084233261339,
+                "top": 59.90422661870504
+            },
+            "points": [
+                {
+                    "x": 38.22084233261339,
+                    "y": 59.90422661870504
+                },
+                {
+                    "x": 310.6465982721382,
+                    "y": 59.90422661870504
+                },
+                {
+                    "x": 310.6465982721382,
+                    "y": 199.5553057553957
+                },
+                {
+                    "x": 38.22084233261339,
+                    "y": 199.5553057553957
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

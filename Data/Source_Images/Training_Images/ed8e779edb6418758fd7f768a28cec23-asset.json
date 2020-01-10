@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ed8e779edb6418758fd7f768a28cec23",
+        "name": "2003_Virginia_License_Plate_Sample.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2003_Virginia_License_Plate_Sample.jpg",
+        "size": {
+            "width": 435,
+            "height": 220
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EoELOvMbL",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 218.85416666666666,
+                "width": 433.97789973677106,
+                "left": 1.0221002632289418,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.0221002632289418,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 218.85416666666666
+                },
+                {
+                    "x": 1.0221002632289418,
+                    "y": 218.85416666666666
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

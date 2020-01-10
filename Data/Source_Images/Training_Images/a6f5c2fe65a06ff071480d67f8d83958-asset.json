@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a6f5c2fe65a06ff071480d67f8d83958",
+        "name": "NorthCarolina.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NorthCarolina.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "deXzdkLeN",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 154.99100719424462,
+                "width": 264.869060475162,
+                "left": 15.490010799136067,
+                "top": 64.62005395683454
+            },
+            "points": [
+                {
+                    "x": 15.490010799136067,
+                    "y": 64.62005395683454
+                },
+                {
+                    "x": 280.35907127429806,
+                    "y": 64.62005395683454
+                },
+                {
+                    "x": 280.35907127429806,
+                    "y": 219.61106115107916
+                },
+                {
+                    "x": 15.490010799136067,
+                    "y": 219.61106115107916
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

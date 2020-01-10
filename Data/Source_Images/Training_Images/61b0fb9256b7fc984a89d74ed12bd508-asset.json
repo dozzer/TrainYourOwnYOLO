@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "61b0fb9256b7fc984a89d74ed12bd508",
+        "name": "73ow7i.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/73ow7i.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BfE_jh-tv",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 89.6167226487524,
+                "width": 132.07343412526998,
+                "left": 578.9362850971922,
+                "top": 442.4316218809981
+            },
+            "points": [
+                {
+                    "x": 578.9362850971922,
+                    "y": 442.4316218809981
+                },
+                {
+                    "x": 711.0097192224622,
+                    "y": 442.4316218809981
+                },
+                {
+                    "x": 711.0097192224622,
+                    "y": 532.0483445297505
+                },
+                {
+                    "x": 578.9362850971922,
+                    "y": 532.0483445297505
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

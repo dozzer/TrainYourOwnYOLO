@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a725767ae96dafbcc9088e6466e5fb52",
+        "name": "lnpbfb.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/lnpbfb.jpg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SUdz-DOMG",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 54.36690647482015,
+                "width": 76.91684665226781,
+                "left": 1104.6976241900647,
+                "top": 1.1115107913669064
+            },
+            "points": [
+                {
+                    "x": 1104.6976241900647,
+                    "y": 1.1115107913669064
+                },
+                {
+                    "x": 1181.6144708423326,
+                    "y": 1.1115107913669064
+                },
+                {
+                    "x": 1181.6144708423326,
+                    "y": 55.47841726618705
+                },
+                {
+                    "x": 1104.6976241900647,
+                    "y": 55.47841726618705
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

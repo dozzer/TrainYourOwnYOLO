@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "0e6307a506adb15d1fb6dd3bb2f822b9",
+        "name": "American_Samoa_license_plate_2011_5504.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/American_Samoa_license_plate_2011_5504.png",
+        "size": {
+            "width": 392,
+            "height": 197
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "g05kN3qu2",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 195.1928427419355,
+                "width": 391.24429670626347,
+                "left": 0.755703293736501,
+                "top": 1.807157258064516
+            },
+            "points": [
+                {
+                    "x": 0.755703293736501,
+                    "y": 1.807157258064516
+                },
+                {
+                    "x": 392,
+                    "y": 1.807157258064516
+                },
+                {
+                    "x": 392,
+                    "y": 197
+                },
+                {
+                    "x": 0.755703293736501,
+                    "y": 197
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

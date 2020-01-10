@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "9cf698fa71392a2d3246f08f69726684",
+        "name": "Connecticut_License_Plate_AH39871.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Connecticut_License_Plate_AH39871.png",
+        "size": {
+            "width": 1600,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v-f32ESRX",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 801.3204707489339,
+                "width": 1589.63282937365,
+                "left": 10.367170626349893,
+                "top": 9.679529251066098
+            },
+            "points": [
+                {
+                    "x": 10.367170626349893,
+                    "y": 9.679529251066098
+                },
+                {
+                    "x": 1600,
+                    "y": 9.679529251066098
+                },
+                {
+                    "x": 1600,
+                    "y": 811
+                },
+                {
+                    "x": 10.367170626349893,
+                    "y": 811
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

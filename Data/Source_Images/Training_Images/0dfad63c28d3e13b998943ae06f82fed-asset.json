@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0dfad63c28d3e13b998943ae06f82fed",
+        "name": "Connecticut.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Connecticut.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hYrMe9lz2",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 145.29496402877697,
+                "width": 294.07802375809933,
+                "left": 18.367980561555076,
+                "top": 52.69964028776979
+            },
+            "points": [
+                {
+                    "x": 18.367980561555076,
+                    "y": 52.69964028776979
+                },
+                {
+                    "x": 312.44600431965443,
+                    "y": 52.69964028776979
+                },
+                {
+                    "x": 312.44600431965443,
+                    "y": 197.99460431654677
+                },
+                {
+                    "x": 18.367980561555076,
+                    "y": 197.99460431654677
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

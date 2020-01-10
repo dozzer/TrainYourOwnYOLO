@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ce3b43d4f7d56b54bda73653bda72bb8",
+        "name": "onpu6a.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/onpu6a.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yGHjWCgzk",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 63.014035508637235,
+                "width": 83.41792656587472,
+                "left": 455.0323974082073,
+                "top": 633.3199376199616
+            },
+            "points": [
+                {
+                    "x": 455.0323974082073,
+                    "y": 633.3199376199616
+                },
+                {
+                    "x": 538.450323974082,
+                    "y": 633.3199376199616
+                },
+                {
+                    "x": 538.450323974082,
+                    "y": 696.3339731285988
+                },
+                {
+                    "x": 455.0323974082073,
+                    "y": 696.3339731285988
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

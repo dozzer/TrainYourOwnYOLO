@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "45792540cb280c5d36d6e53ebcba476d",
+        "name": "2880px-2012_Texas_license_plate_ABC_1234.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-2012_Texas_license_plate_ABC_1234.png",
+        "size": {
+            "width": 2880,
+            "height": 1395
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5DDXnfuCK",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1389.6235993179287,
+                "width": 2869.7583693304537,
+                "left": 10.241630669546437,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 10.241630669546437,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1389.6235993179287
+                },
+                {
+                    "x": 10.241630669546437,
+                    "y": 1389.6235993179287
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

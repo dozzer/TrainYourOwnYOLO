@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d42ab8b76e33056af0836f2b98ddfbbb",
+        "name": "Georgia.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Georgia.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gpYxrhHmw",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 126.8929856115108,
+                "width": 236.6036717062635,
+                "left": 59.379049676025915,
+                "top": 46.51618705035971
+            },
+            "points": [
+                {
+                    "x": 59.379049676025915,
+                    "y": 46.51618705035971
+                },
+                {
+                    "x": 295.9827213822894,
+                    "y": 46.51618705035971
+                },
+                {
+                    "x": 295.9827213822894,
+                    "y": 173.4091726618705
+                },
+                {
+                    "x": 59.379049676025915,
+                    "y": 173.4091726618705
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

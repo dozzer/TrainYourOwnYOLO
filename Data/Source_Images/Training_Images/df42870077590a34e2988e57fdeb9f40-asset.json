@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "df42870077590a34e2988e57fdeb9f40",
+        "name": "chbeyn.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/chbeyn.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KjovKZq9w",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 64.239443378119,
+                "width": 97.9913606911447,
+                "left": 170.39956803455723,
+                "top": 437.7243282149712
+            },
+            "points": [
+                {
+                    "x": 170.39956803455723,
+                    "y": 437.7243282149712
+                },
+                {
+                    "x": 268.39092872570194,
+                    "y": 437.7243282149712
+                },
+                {
+                    "x": 268.39092872570194,
+                    "y": 501.9637715930902
+                },
+                {
+                    "x": 170.39956803455723,
+                    "y": 501.9637715930902
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

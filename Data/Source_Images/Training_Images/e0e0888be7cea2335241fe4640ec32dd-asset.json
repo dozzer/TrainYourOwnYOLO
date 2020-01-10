@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e0e0888be7cea2335241fe4640ec32dd",
+        "name": "7kozy7.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/7kozy7.jpg",
+        "size": {
+            "width": 800,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-nF6lARRZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 48.8982275671785,
+                "width": 78.06762958963283,
+                "left": 538.6069114470843,
+                "top": 81.69610724568138
+            },
+            "points": [
+                {
+                    "x": 538.6069114470843,
+                    "y": 81.69610724568138
+                },
+                {
+                    "x": 616.6745410367171,
+                    "y": 81.69610724568138
+                },
+                {
+                    "x": 616.6745410367171,
+                    "y": 130.59433481285987
+                },
+                {
+                    "x": 538.6069114470843,
+                    "y": 130.59433481285987
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

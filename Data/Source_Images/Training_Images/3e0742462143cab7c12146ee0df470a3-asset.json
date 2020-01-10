@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3e0742462143cab7c12146ee0df470a3",
+        "name": "Washington,_D.C._license_plate,_2011.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Washington,_D.C._license_plate,_2011.jpg",
+        "size": {
+            "width": 435,
+            "height": 218
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xZhvQ-at0",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 216.4547077047414,
+                "width": 433.4163868453024,
+                "left": 1.5836131546976242,
+                "top": 1.5452922952586208
+            },
+            "points": [
+                {
+                    "x": 1.5836131546976242,
+                    "y": 1.5452922952586208
+                },
+                {
+                    "x": 435,
+                    "y": 1.5452922952586208
+                },
+                {
+                    "x": 435,
+                    "y": 218
+                },
+                {
+                    "x": 1.5836131546976242,
+                    "y": 218
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

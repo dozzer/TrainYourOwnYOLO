@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d79c37b2f994f5785027fe1a269469b8",
+        "name": "kbzbpv.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/kbzbpv.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YWyjXicEF",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 82.91746641074859,
+                "width": 132.69978401727863,
+                "left": 1069.8920086393089,
+                "top": 248.75239923224564
+            },
+            "points": [
+                {
+                    "x": 1069.8920086393089,
+                    "y": 248.75239923224564
+                },
+                {
+                    "x": 1202.5917926565876,
+                    "y": 248.75239923224564
+                },
+                {
+                    "x": 1202.5917926565876,
+                    "y": 331.6698656429942
+                },
+                {
+                    "x": 1069.8920086393089,
+                    "y": 331.6698656429942
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

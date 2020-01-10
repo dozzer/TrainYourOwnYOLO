@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f4dfa27b96bac4b317639d4d4658e4a0",
+        "name": "2012_Pennsylvania_license_plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2012_Pennsylvania_license_plate.jpg",
+        "size": {
+            "width": 435,
+            "height": 218
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WKubuJR_o",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 216.93921740301724,
+                "width": 433.7136583760799,
+                "left": 1.2863416239200864,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.2863416239200864,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 0
+                },
+                {
+                    "x": 435,
+                    "y": 216.93921740301724
+                },
+                {
+                    "x": 1.2863416239200864,
+                    "y": 216.93921740301724
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

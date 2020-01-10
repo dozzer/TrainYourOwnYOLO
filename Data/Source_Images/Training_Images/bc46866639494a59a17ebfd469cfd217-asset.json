@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "bc46866639494a59a17ebfd469cfd217",
+        "name": "1993%E2%80%932002_series_Virginian_license_plate,_with_October_2002_sticker.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1993%E2%80%932002_series_Virginian_license_plate,_with_October_2002_sticker.png",
+        "size": {
+            "width": 399,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KMis8T28G",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 198.29438308189654,
+                "width": 398.5842627902268,
+                "left": 0.41573720977321815,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.41573720977321815,
+                    "y": 0
+                },
+                {
+                    "x": 399,
+                    "y": 0
+                },
+                {
+                    "x": 399,
+                    "y": 198.29438308189654
+                },
+                {
+                    "x": 0.41573720977321815,
+                    "y": 198.29438308189654
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

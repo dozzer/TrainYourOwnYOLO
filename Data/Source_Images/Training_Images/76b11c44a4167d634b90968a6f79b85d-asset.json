@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "76b11c44a4167d634b90968a6f79b85d",
+        "name": "MA-Base-Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/MA-Base-Plate.jpg",
+        "size": {
+            "width": 240,
+            "height": 123
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_DCyA29Gc",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 121.02856085526317,
+                "width": 238.6787931965443,
+                "left": 1.3212068034557236,
+                "top": 1.9714391447368422
+            },
+            "points": [
+                {
+                    "x": 1.3212068034557236,
+                    "y": 1.9714391447368422
+                },
+                {
+                    "x": 240.00000000000003,
+                    "y": 1.9714391447368422
+                },
+                {
+                    "x": 240.00000000000003,
+                    "y": 123.00000000000001
+                },
+                {
+                    "x": 1.3212068034557236,
+                    "y": 123.00000000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

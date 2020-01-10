@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "0c189252e411ecd71bd2005cdea0575e",
+        "name": "Northern_Marianas_license_plate_1989_ACN_374.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Northern_Marianas_license_plate_1989_ACN_374.png",
+        "size": {
+            "width": 250,
+            "height": 125
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MHKhmDHIx",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 122.28123312634989,
+                "width": 248.9127041711663,
+                "left": 1.0872958288336931,
+                "top": 2.718766873650108
+            },
+            "points": [
+                {
+                    "x": 1.0872958288336931,
+                    "y": 2.718766873650108
+                },
+                {
+                    "x": 249.99999999999997,
+                    "y": 2.718766873650108
+                },
+                {
+                    "x": 249.99999999999997,
+                    "y": 124.99999999999999
+                },
+                {
+                    "x": 1.0872958288336931,
+                    "y": 124.99999999999999
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

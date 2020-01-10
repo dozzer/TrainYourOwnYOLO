@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "dea106a7e944748063f0a7d6a162d0b0",
+        "name": "2880px-Louisiana_License_Plate_TXK512.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2880px-Louisiana_License_Plate_TXK512.png",
+        "size": {
+            "width": 2880,
+            "height": 1466
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2JH-pAGIL",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1441.9630274681529,
+                "width": 2876.938444924406,
+                "left": 3.0615550755939527,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 3.0615550755939527,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 0
+                },
+                {
+                    "x": 2880,
+                    "y": 1441.9630274681529
+                },
+                {
+                    "x": 3.0615550755939527,
+                    "y": 1441.9630274681529
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

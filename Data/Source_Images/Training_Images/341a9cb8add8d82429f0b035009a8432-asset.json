@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "341a9cb8add8d82429f0b035009a8432",
+        "name": "Utah_license_plate,_1985%E2%80%931990_series_with_August_2001_sticker.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Utah_license_plate,_1985%E2%80%931990_series_with_August_2001_sticker.png",
+        "size": {
+            "width": 867,
+            "height": 440
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "71eIdMDiD",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 429.42054521276594,
+                "width": 860.895860049946,
+                "left": 6.1041399500539955,
+                "top": 10.579454787234043
+            },
+            "points": [
+                {
+                    "x": 6.1041399500539955,
+                    "y": 10.579454787234043
+                },
+                {
+                    "x": 867,
+                    "y": 10.579454787234043
+                },
+                {
+                    "x": 867,
+                    "y": 440
+                },
+                {
+                    "x": 6.1041399500539955,
+                    "y": 440
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

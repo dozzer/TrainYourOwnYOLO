@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "306ddde5ba28e04663410d13a4c3c99a",
+        "name": "Oregon_License_Plate3.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Oregon_License_Plate3.jpg",
+        "size": {
+            "width": 1491,
+            "height": 740
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D9U044pOV",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 731.6737432065217,
+                "width": 1487.8237251957344,
+                "left": 3.176274804265659,
+                "top": 8.326256793478262
+            },
+            "points": [
+                {
+                    "x": 3.176274804265659,
+                    "y": 8.326256793478262
+                },
+                {
+                    "x": 1491,
+                    "y": 8.326256793478262
+                },
+                {
+                    "x": 1491,
+                    "y": 740
+                },
+                {
+                    "x": 3.176274804265659,
+                    "y": 740
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

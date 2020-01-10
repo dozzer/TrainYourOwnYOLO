@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f69d5519e1bcda0a0bdc93d70e96801",
+        "name": "NewMexico.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/NewMexico.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tL5G6F9g3",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 137.23516187050362,
+                "width": 260.37661987041037,
+                "left": 39.62742980561555,
+                "top": 56.5089928057554
+            },
+            "points": [
+                {
+                    "x": 39.62742980561555,
+                    "y": 56.5089928057554
+                },
+                {
+                    "x": 300.0040496760259,
+                    "y": 56.5089928057554
+                },
+                {
+                    "x": 300.0040496760259,
+                    "y": 193.744154676259
+                },
+                {
+                    "x": 39.62742980561555,
+                    "y": 193.744154676259
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

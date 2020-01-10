@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "65dd3bd2f057f5f370cddbcc1475c2a2",
+        "name": "mpbli4.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/mpbli4.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N3EdXtHOJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 59.84524952015355,
+                "width": 89.5572354211663,
+                "left": 758.7203023758099,
+                "top": 268.67742322456814
+            },
+            "points": [
+                {
+                    "x": 758.7203023758099,
+                    "y": 268.67742322456814
+                },
+                {
+                    "x": 848.2775377969762,
+                    "y": 268.67742322456814
+                },
+                {
+                    "x": 848.2775377969762,
+                    "y": 328.52267274472166
+                },
+                {
+                    "x": 758.7203023758099,
+                    "y": 328.52267274472166
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

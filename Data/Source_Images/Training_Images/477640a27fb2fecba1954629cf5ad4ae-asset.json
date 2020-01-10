@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "477640a27fb2fecba1954629cf5ad4ae",
+        "name": "2sqg9j.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2sqg9j.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1QXhMolRI",
+            "type": "POLYGON",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 56.55189855774836,
+                "width": 97.52022275767112,
+                "left": 98.45408081726987,
+                "top": 350.23402029009003
+            },
+            "points": [
+                {
+                    "x": 98.45408081726987,
+                    "y": 406.7859188478384
+                },
+                {
+                    "x": 195.974303574941,
+                    "y": 406.21602357323485
+                },
+                {
+                    "x": 192.62064503835563,
+                    "y": 350.23402029009003
+                },
+                {
+                    "x": 99.58761555861527,
+                    "y": 352.3727263265581
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

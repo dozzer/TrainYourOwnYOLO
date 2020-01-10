@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "ddd74670a9a9025aee08ceb7f2d1557a",
+        "name": "Rhode_Island_License_Plate_AB-123_format.jpeg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Rhode_Island_License_Plate_AB-123_format.jpeg",
+        "size": {
+            "width": 2868,
+            "height": 1448
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BwaB-4BDz",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 1434.4274172008547,
+                "width": 2857.680058720302,
+                "left": 10.319941279697623,
+                "top": 13.5725827991453
+            },
+            "points": [
+                {
+                    "x": 10.319941279697623,
+                    "y": 13.5725827991453
+                },
+                {
+                    "x": 2868,
+                    "y": 13.5725827991453
+                },
+                {
+                    "x": 2868,
+                    "y": 1448
+                },
+                {
+                    "x": 10.319941279697623,
+                    "y": 1448
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

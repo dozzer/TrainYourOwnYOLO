@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e19288b0c3b48f7d3a85f6149db03d14",
+        "name": "Delaware.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Delaware.jpg",
+        "size": {
+            "width": 400,
+            "height": 211
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EC4btTR1C",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 207.9395811987705,
+                "width": 396.5155912526998,
+                "left": 3.484408747300216,
+                "top": 3.0604188012295084
+            },
+            "points": [
+                {
+                    "x": 3.484408747300216,
+                    "y": 3.0604188012295084
+                },
+                {
+                    "x": 400,
+                    "y": 3.0604188012295084
+                },
+                {
+                    "x": 400,
+                    "y": 211
+                },
+                {
+                    "x": 3.484408747300216,
+                    "y": 211
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

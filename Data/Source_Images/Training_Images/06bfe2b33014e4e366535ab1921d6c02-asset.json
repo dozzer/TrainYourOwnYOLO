@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "06bfe2b33014e4e366535ab1921d6c02",
+        "name": "Alabama_License_Plate_Pike_County_2017_55BC577.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Alabama_License_Plate_Pike_County_2017_55BC577.png",
+        "size": {
+            "width": 1600,
+            "height": 798
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JUbiF7TGB",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 797.0958806818182,
+                "width": 1594.5869330453563,
+                "left": 5.413066954643629,
+                "top": 0.9041193181818182
+            },
+            "points": [
+                {
+                    "x": 5.413066954643629,
+                    "y": 0.9041193181818182
+                },
+                {
+                    "x": 1600,
+                    "y": 0.9041193181818182
+                },
+                {
+                    "x": 1600,
+                    "y": 798
+                },
+                {
+                    "x": 5.413066954643629,
+                    "y": 798
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

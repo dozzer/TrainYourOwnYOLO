@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5baf45c3afeece1f3dc88a6f2d066b9c",
+        "name": "California_Golden_State_license_plate_1982-1987_2GAT123.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_Golden_State_license_plate_1982-1987_2GAT123.png",
+        "size": {
+            "width": 300,
+            "height": 153
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KtK0tPCPK",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 149.59513208421612,
+                "width": 297.528432100432,
+                "left": 2.4715678995680346,
+                "top": 3.4048679157838984
+            },
+            "points": [
+                {
+                    "x": 2.4715678995680346,
+                    "y": 3.4048679157838984
+                },
+                {
+                    "x": 300,
+                    "y": 3.4048679157838984
+                },
+                {
+                    "x": 300,
+                    "y": 153
+                },
+                {
+                    "x": 2.4715678995680346,
+                    "y": 153
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

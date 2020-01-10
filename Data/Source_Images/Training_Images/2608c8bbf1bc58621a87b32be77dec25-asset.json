@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2608c8bbf1bc58621a87b32be77dec25",
+        "name": "SouthCarolina.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/SouthCarolina.jpg",
+        "size": {
+            "width": 320,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IQaNLY-kf",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 121.15062949640289,
+                "width": 246.27159827213822,
+                "left": 59.07802375809935,
+                "top": 49.5863309352518
+            },
+            "points": [
+                {
+                    "x": 59.07802375809935,
+                    "y": 49.5863309352518
+                },
+                {
+                    "x": 305.3496220302376,
+                    "y": 49.5863309352518
+                },
+                {
+                    "x": 305.3496220302376,
+                    "y": 170.7369604316547
+                },
+                {
+                    "x": 59.07802375809935,
+                    "y": 170.7369604316547
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

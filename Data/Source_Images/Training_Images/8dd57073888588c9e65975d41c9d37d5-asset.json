@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8dd57073888588c9e65975d41c9d37d5",
+        "name": "m7nvh8.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/m7nvh8.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jP4wDqaeJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 100.4807461612284,
+                "width": 148.46922246220305,
+                "left": 1061.4929805615552,
+                "top": 315.3778790786948
+            },
+            "points": [
+                {
+                    "x": 1061.4929805615552,
+                    "y": 315.3778790786948
+                },
+                {
+                    "x": 1209.9622030237583,
+                    "y": 315.3778790786948
+                },
+                {
+                    "x": 1209.9622030237583,
+                    "y": 415.8586252399232
+                },
+                {
+                    "x": 1061.4929805615552,
+                    "y": 415.8586252399232
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
