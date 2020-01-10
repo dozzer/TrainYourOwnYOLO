@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d695c4530505623998c993405c420bd4",
+        "name": "funny_license_plates_17_5c9ddc146b54a__605.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/funny_license_plates_17_5c9ddc146b54a__605.jpg",
+        "size": {
+            "width": 605,
+            "height": 816
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4gzBJ6JWY",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 122.28942181340342,
+                "width": 146.91312749335108,
+                "left": 223.98375166223406,
+                "top": 291.545252956636
+            },
+            "points": [
+                {
+                    "x": 223.98375166223406,
+                    "y": 291.545252956636
+                },
+                {
+                    "x": 370.8968791555851,
+                    "y": 291.545252956636
+                },
+                {
+                    "x": 370.8968791555851,
+                    "y": 413.83467477003944
+                },
+                {
+                    "x": 223.98375166223406,
+                    "y": 413.83467477003944
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

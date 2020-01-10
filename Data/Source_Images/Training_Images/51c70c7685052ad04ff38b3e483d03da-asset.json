@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "51c70c7685052ad04ff38b3e483d03da",
+        "name": "1064377d1466797401_ideas_for_personalized_license_plate_image.jpeg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/1064377d1466797401_ideas_for_personalized_license_plate_image.jpeg",
+        "size": {
+            "width": 2424,
+            "height": 1546
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RbASvuYYY",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 228.91214572758037,
+                "width": 410.4181627969762,
+                "left": 967.8575863930885,
+                "top": 940.2340048646362
+            },
+            "points": [
+                {
+                    "x": 967.8575863930885,
+                    "y": 940.2340048646362
+                },
+                {
+                    "x": 1378.2757491900647,
+                    "y": 940.2340048646362
+                },
+                {
+                    "x": 1378.2757491900647,
+                    "y": 1169.1461505922166
+                },
+                {
+                    "x": 967.8575863930885,
+                    "y": 1169.1461505922166
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

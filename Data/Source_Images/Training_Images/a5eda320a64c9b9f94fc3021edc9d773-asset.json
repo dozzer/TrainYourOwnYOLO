@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a5eda320a64c9b9f94fc3021edc9d773",
+        "name": "220px_GCU_Arizona_License_Plate.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/220px_GCU_Arizona_License_Plate.jpg",
+        "size": {
+            "width": 220,
+            "height": 137
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A7QdzfN5v",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 95.18825146230502,
+                "width": 180.56897948164146,
+                "left": 19.274686150107993,
+                "top": 21.82732614818024
+            },
+            "points": [
+                {
+                    "x": 19.274686150107993,
+                    "y": 21.82732614818024
+                },
+                {
+                    "x": 199.84366563174947,
+                    "y": 21.82732614818024
+                },
+                {
+                    "x": 199.84366563174947,
+                    "y": 117.01557761048527
+                },
+                {
+                    "x": 19.274686150107993,
+                    "y": 117.01557761048527
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

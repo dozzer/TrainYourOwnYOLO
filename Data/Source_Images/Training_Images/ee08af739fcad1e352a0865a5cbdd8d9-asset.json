@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ee08af739fcad1e352a0865a5cbdd8d9",
+        "name": "Electronic_license_plates.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Electronic_license_plates.jpg",
+        "size": {
+            "width": 1140,
+            "height": 855
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qQi3dbruc",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 537.2102630395683,
+                "width": 790.1363390928725,
+                "left": 223.20447489200862,
+                "top": 208.02661308453236
+            },
+            "points": [
+                {
+                    "x": 223.20447489200862,
+                    "y": 208.02661308453236
+                },
+                {
+                    "x": 1013.3408139848812,
+                    "y": 208.02661308453236
+                },
+                {
+                    "x": 1013.3408139848812,
+                    "y": 745.2368761241006
+                },
+                {
+                    "x": 223.20447489200862,
+                    "y": 745.2368761241006
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

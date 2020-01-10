@@ -5,7 +5,7 @@
         "name": "Connection",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTY4NmM2YWEwMmYyMmZlM2U3NjYzNDEyMGQ4ZDU1ZjI5NDY1ZmIxMzBiOThmYmU1ZmZkMjEwYzU5ZWNmNWYwOTAwMjNjYTQ4ODAzNjYxYTM2NzI3N2ZhMmE1ZmU3Nzk4YjkxZDVlNGU5YzgwMTg4ODBjODFhMTUyZTdmNDkwMzg4MWQ2MjZlZmMxYWM5NzZlODg2OWM1ODNjMTliYjk5NDRiZmQ3OWE0YTk2ZDc3NTNhMGZmMjBjZDE3MjRjOWE0NTg2MzY0OGZkYzA5NGU1YjJjYjM2ZjlmY2ViNDM1OTciLCJpdiI6ImNlOGUyOWQwYjRmMWJlNzdkMTVkZWY5ZTMwYjgyNWE2Y2E5NzQ4ODc0ZDFmNDBjOSJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGM5YjExMTM4NGJiMTVjMDFmMmZhYjM5MmFiZmQyMzQ5NzdhY2E0YzNjYWFhYTRiNDhmZjZlNGQ3ODBlNmI5MjFiYjRkYjE0OTE0YmIzYzNmMzRiYzc0MmZiZDViZDk1YTRiYTc3OGY5NjEwZjJjZWU3NzhmYTQ0Zjc3YTdiMjE4MjhiODU1ZjQyNDJlMWUxYjk5YzBlNjE2YmJhOGM4OTY5MzJiYjliZDJjMDliODA3MmVmZDFjYjMzNWQ4NDU2ZDY5NzBmNjA0MDM1MWVjMjU1NmViMTE0OTYwNjA3MTYiLCJpdiI6IjVmNTg0YzBjYzA5MmQ3MjdiOGYzMTA4NTM2NDU4NzI3NjEyMzVhMDJiYzMyNjc0NiJ9"
         },
         "id": "Vz5XQDzew"
     },
@@ -13,7 +13,7 @@
         "name": "Target",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTJlYmFjNGJhZDEzOTA0YzA0YTY4ZTg0NzgzY2RhZTg1MTU5MTMzMjcwZWI4M2YyYTY3ZTY3Y2NmYzM0YTk1YjFjZDdmMDM3Y2U2OGVjN2FiZTA0MzhkMTQ1ODcyMDI5Yjg0YjI2Mzg2YWFjYjM2NjM5ZTFkMDk0NzNlMzE5Njk1MjA4ZDQ5ODMzYTZmNDgxNWRkZmUzMjAzZTQ1YzNiNGM3YzZlYTUwY2VkOTI0YzM3MTdkNjgwNDE5MGRjYjQ2OTA0MmNhYjYyMjhlMWEwMmIyNGViNDFmZGEwMjFiYmMiLCJpdiI6IjQwNmVkNTY1YzE2ZjBlNjU2ZWFmMWI0ZjQ4N2IyNDA0NWJkZWYzOTRhZTVmN2UxOCJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWVhODdhMjYxMmY2OTEyZjQwYTQ2MDI4MWNlYjc2YWU4NDIwN2Y0NGYwN2Q5YTRkYmIyNGViYTI4ZmNkOTlhZmY0YTNhYTA2ZTIwOTllOGQyYzkwMThjZTZmOGM2YmIzZGY5YjcwY2NiOTU2MTk5MmYxNzBiOTcyNTYyOTY3ZmJkNGI1OGZmZDU3MWRjYWRhMDhjMjY3NWJmM2UzZmU5MDEwY2Q4ODZjZTkyOWY1Zjg2MDNjZjk0MTVlYjEwN2M5NDIyMjA3ZTU2OWRjOTVmNTE1NTAyM2ZmMjUxZWM1N2QiLCJpdiI6ImQyNDZmMTJjNmQ2OWJmZDY1YzkwNjE3NDU1NDI2YzQyNGRlNDA2MzI2MWY0OWVlYSJ9"
         },
         "id": "Gklhjy3FT"
     },
@@ -37,11 +37,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2QxNjJlMTU4MzUyNGQ4ZDcxZWFjNmQ5NTYwMjVkN2RhMzE0MGJmYTk2ODI4YmU0NTVhZTk5ZWExNzQxMDRhNDgzMDVhZTU1OTgxOTJlNzI2N2I1ZWM5NjU1ZTc2NjM0IiwiaXYiOiJhYTU0YWQ3NDYyODc4ZjAxYTk3NWU4NjJjNzdmMDRkMzJkYzYxMGMyYzMzNzJmZjUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2ExNGZhN2E0MmIwNTI1YTJlNzNlODczY2ZlZDBjOGNhNzdlZDc0ZDRkNWM3OTE4ZDliOWMyNTc2MjAxNGNmNmE4NjEzMzRiZTdmMDFkNTI1YWFhYTllMDlhZGVhZmZhIiwiaXYiOiJiODdhMWZmYzQyNzU4ZDg4NGYyMTFlNDE2MDZlYWVhYTJjY2ZkMjRlM2FhNzFjMTcifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "5d441035b11e454164df1591bbe4f7d2",
+    "lastVisitedAssetId": "4df6a03e3cffe73395399f1688299b47",
     "assets": {
         "5d441035b11e454164df1591bbe4f7d2": {
             "format": "jpg",
@@ -5509,6 +5509,30 @@
             "state": 2,
             "type": 1
         },
+        "80853952efd15cb063243a91f51f1946": {
+            "format": "jpg",
+            "id": "80853952efd15cb063243a91f51f1946",
+            "name": "vehicle_license_car_number_plates_american_states_vector_24722234.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vehicle_license_car_number_plates_american_states_vector_24722234.jpg",
+            "size": {
+                "width": 1000,
+                "height": 906
+            },
+            "state": 1,
+            "type": 1
+        },
+        "da1771fde01809f79f61989d0d1034ab": {
+            "format": "jpg",
+            "id": "da1771fde01809f79f61989d0d1034ab",
+            "name": "usa_american_states_vehicle_registration_plates_state_symbols_vector_car_number_kansas_minnesota_mar.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/usa_american_states_vehicle_registration_plates_state_symbols_vector_car_number_kansas_minnesota_mar.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1003
+            },
+            "state": 1,
+            "type": 1
+        },
         "57fe4caa03727a08459a06c15d5db3a4": {
             "format": "jpg",
             "id": "57fe4caa03727a08459a06c15d5db3a4",
@@ -5519,6 +5543,18 @@
                 "height": 612
             },
             "state": 2,
+            "type": 1
+        },
+        "4af605bd217cbd5c36ea1a6def03beaf": {
+            "format": "jpg",
+            "id": "4af605bd217cbd5c36ea1a6def03beaf",
+            "name": "q3ddmydrdve21.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/q3ddmydrdve21.jpg",
+            "size": {
+                "width": 2448,
+                "height": 3264
+            },
+            "state": 1,
             "type": 1
         },
         "00541a50fb231483b40bb142f45e4830": {
@@ -5711,6 +5747,18 @@
                 "height": 1200
             },
             "state": 2,
+            "type": 1
+        },
+        "2ede05bcd5c074b69bbef9b767114a78": {
+            "format": "jpg",
+            "id": "2ede05bcd5c074b69bbef9b767114a78",
+            "name": "Italian_American_D_corrected_logo.jpg",
+            "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Italian_American_D_corrected_logo.jpg",
+            "size": {
+                "width": 1162,
+                "height": 605
+            },
+            "state": 1,
             "type": 1
         },
         "afe22cc01dc82f5d67936e76917c04d4": {

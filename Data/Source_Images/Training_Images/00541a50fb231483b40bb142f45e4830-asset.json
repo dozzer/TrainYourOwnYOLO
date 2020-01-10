@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "00541a50fb231483b40bb142f45e4830",
+        "name": "plate_mspurpl.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/plate_mspurpl.jpg",
+        "size": {
+            "width": 1125,
+            "height": 725
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4boljsx19",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 112.46057762772193,
+                "width": 180.6076412324514,
+                "left": 326.6047895855832,
+                "top": 502.298929543551
+            },
+            "points": [
+                {
+                    "x": 326.6047895855832,
+                    "y": 502.298929543551
+                },
+                {
+                    "x": 507.2124308180346,
+                    "y": 502.298929543551
+                },
+                {
+                    "x": 507.2124308180346,
+                    "y": 614.759507171273
+                },
+                {
+                    "x": 326.6047895855832,
+                    "y": 614.759507171273
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

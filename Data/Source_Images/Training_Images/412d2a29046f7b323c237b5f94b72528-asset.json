@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "412d2a29046f7b323c237b5f94b72528",
+        "name": "California_license_plate__August_2012.png",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/California_license_plate__August_2012.png",
+        "size": {
+            "width": 433,
+            "height": 215
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hr_Sw9VFa",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 213.36778192934784,
+                "width": 430.5195143763499,
+                "left": 2.480485623650108,
+                "top": 1.632218070652174
+            },
+            "points": [
+                {
+                    "x": 2.480485623650108,
+                    "y": 1.632218070652174
+                },
+                {
+                    "x": 433,
+                    "y": 1.632218070652174
+                },
+                {
+                    "x": 433,
+                    "y": 215
+                },
+                {
+                    "x": 2.480485623650108,
+                    "y": 215
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

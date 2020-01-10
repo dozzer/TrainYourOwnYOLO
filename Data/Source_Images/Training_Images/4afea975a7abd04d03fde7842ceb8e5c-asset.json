@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4afea975a7abd04d03fde7842ceb8e5c",
+        "name": "funny_license_plates_titays_581754c03df78cc2e89fc641.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/funny_license_plates_titays_581754c03df78cc2e89fc641.jpg",
+        "size": {
+            "width": 862,
+            "height": 593
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jTr4vXQBh",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 107.59107020211931,
+                "width": 202.56214565334773,
+                "left": 343.56948569114473,
+                "top": 286.72527472527474
+            },
+            "points": [
+                {
+                    "x": 343.56948569114473,
+                    "y": 286.72527472527474
+                },
+                {
+                    "x": 546.1316313444925,
+                    "y": 286.72527472527474
+                },
+                {
+                    "x": 546.1316313444925,
+                    "y": 394.316344927394
+                },
+                {
+                    "x": 343.56948569114473,
+                    "y": 394.316344927394
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

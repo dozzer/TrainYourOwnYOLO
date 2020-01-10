@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0aa2c783b91b7e1efe1ec20e4ebadcd0",
+        "name": "a4fd2e69f701cbdaf87c95c2617901a7__california_license_ha_ha.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/a4fd2e69f701cbdaf87c95c2617901a7__california_license_ha_ha.jpg",
+        "size": {
+            "width": 500,
+            "height": 374
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "k1h8wZCZn",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 37.12847222222222,
+                "width": 70.8819856911447,
+                "left": 205.41137958963282,
+                "top": 139.94432043650792
+            },
+            "points": [
+                {
+                    "x": 205.41137958963282,
+                    "y": 139.94432043650792
+                },
+                {
+                    "x": 276.2933652807775,
+                    "y": 139.94432043650792
+                },
+                {
+                    "x": 276.2933652807775,
+                    "y": 177.07279265873015
+                },
+                {
+                    "x": 205.41137958963282,
+                    "y": 177.07279265873015
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

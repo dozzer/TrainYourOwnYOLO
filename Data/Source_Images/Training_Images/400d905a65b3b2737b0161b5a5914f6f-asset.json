@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "400d905a65b3b2737b0161b5a5914f6f",
+        "name": "fb302ba47a9d2b52ebafc5f97db49ea2__blonde_moments_demotivational_posters.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/fb302ba47a9d2b52ebafc5f97db49ea2__blonde_moments_demotivational_posters.jpg",
+        "size": {
+            "width": 538,
+            "height": 571
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "71F7jNjn3",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 68.85436514454665,
+                "width": 130.4199790794979,
+                "left": 204.78656729428172,
+                "top": 242.67558619415246
+            },
+            "points": [
+                {
+                    "x": 204.78656729428172,
+                    "y": 242.67558619415246
+                },
+                {
+                    "x": 335.20654637377964,
+                    "y": 242.67558619415246
+                },
+                {
+                    "x": 335.20654637377964,
+                    "y": 311.5299513386991
+                },
+                {
+                    "x": 204.78656729428172,
+                    "y": 311.5299513386991
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c5afd1885b3d7ad14f896a41e85b330d",
+        "name": "f84718afaae2dc78b75618d5cac43b7c__funny_pics_and_quotes_funny_reading_quotes.jpg",
+        "path": "file:/Users/vasya/PycharmProjects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/f84718afaae2dc78b75618d5cac43b7c__funny_pics_and_quotes_funny_reading_quotes.jpg",
+        "size": {
+            "width": 550,
+            "height": 704
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RJ3GNe9Hh",
+            "type": "RECTANGLE",
+            "tags": [
+                "plate"
+            ],
+            "boundingBox": {
+                "height": 76.9060446780552,
+                "width": 123.67056197478992,
+                "left": 287.41760766806726,
+                "top": 349.2283180026281
+            },
+            "points": [
+                {
+                    "x": 287.41760766806726,
+                    "y": 349.2283180026281
+                },
+                {
+                    "x": 411.08816964285717,
+                    "y": 349.2283180026281
+                },
+                {
+                    "x": 411.08816964285717,
+                    "y": 426.1343626806833
+                },
+                {
+                    "x": 287.41760766806726,
+                    "y": 426.1343626806833
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
